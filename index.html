@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Text Extractor</title>
+</head>
+<body>
+    <h1>Extracted Sentences</h1>
+    <form action="/" method="post">
+        <input type="text" name="keyword" placeholder="Enter keyword" required>
+        <button type="submit">Search</button>
+    </form>
+    {% if text_data %}
+        <ul>
+        {% for sentence in text_data %}
+            <li>{{ sentence }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No data to display.</p>
+    {% endif %}
+</body>
+</html>
