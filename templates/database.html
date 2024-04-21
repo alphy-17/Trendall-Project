@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TRENDALL ARCHIVE POTTERY DATABASE</title>
+  <link rel="stylesheet" href="style.css">
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class="logo">
+      <h1>TRENDALL ARCHIVE POTTERY DATABASE</h1>
+    </div>
+    <!-- Search Bar -->
+<div class="search-bar">
+  <input type="text" placeholder="Search anything..." id="searchInput" />
+  <div class="search-buttons">
+    <button onclick="handleSearch()">Search</button>
+    <button onclick="toggleAdvancedSearch()">Advanced Search</button>
+  </div>
+</div>
+
+<div id="advancedSearch" class="advanced-search hidden">
+  <h4>Search Criteria</h4>
+  <div class="filter">
+    <select id="fieldSelect">
+      <option value="any">Any field</option>
+      <option value="artifact_name">Artifact Name</option>
+      <option value="artifact_type">Artifact Type</option>
+      <option value="height">Height</option>
+      <option value="diameter">Diameter</option>
+      <option value="source">Source</option>
+    </select>
+    <select id="conditionSelect">
+      <option value="contains">Contains</option>
+      <option value="equals">Equals</option>
+    </select>
+    <input type="text" placeholder="Enter search term" id="queryInput" />
+  </div>
+
+  <div class="filter">
+    <label for="materialType">Material Type:</label>
+    <select id="materialType">
+      <option value="all">All items</option>
+      <option value="calyx-krater">Calyx-Krater</option>
+      <option value="bell-krater">Bell-Krater</option>
+      <option value="skyphos">Skyphos</option>
+    </select>
+  </div>
+
+  <div class="actions">
+    <button onclick="clearFilters()">Clear</button>
+    <button onclick="handleAdvancedSearch()">Search</button>
+  </div>
+</div>
+
+
+
+  </header>
+
+  <!-- Main Content Section -->
+  <main>
+    <!-- Sidebar Filters -->
+    <aside class="filters">
+  <h3>Refine my results</h3>
+
+  <h4>Artifact Type</h4>
+  <ul>
+    <li><input type="checkbox" value="calyx-krater"> Calyx-Krater</li>
+    <li><input type="checkbox" value="bell-krater"> Bell-Krater</li>
+    <li><input type="checkbox" value="skyphos"> Skyphos</li>
+  </ul>
+
+  <h4>Source</h4>
+  <ul>
+    <li><input type="checkbox" value="athens"> Athens, Greece</li>
+    <li><input type="checkbox" value="rome"> Rome, Italy</li>
+    <li><input type="checkbox" value="naples"> Naples, Italy</li>
+  </ul>
+
+  <h4>Date Range</h4>
+  <div>
+    <input type="number" placeholder="From (YYYY)" id="dateFrom" maxlength="4" min="1000" max="9999">
+    <input type="number" placeholder="To (YYYY)" id="dateTo" maxlength="4" min="1000" max="9999">
+  </div>
+</aside>
+
+
+    <!-- Search Results Section -->
+    <section class="search-results">
+  <h2>Search Results</h2>
+  <!-- Placeholder for dynamic results -->
+  <div class="result">
+    <h3>Artifact Name: Calyx-Krater</h3>
+    <p>Artifact Type: Pottery</p>
+    <p>Height: 45 cm | Diameter: 35 cm</p>
+    <p>Source: Athens, Greece</p>
+    <p>Description: A large pottery vessel typically used for mixing wine and water.</p>
+    <p><a href="images/calyx_krater.jpg">View Image</a></p>
+  </div>
+  <!-- More results can be dynamically added -->
+</section>
+
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2024 TRENDALL ARCHIVE POTTERY DATABASE. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
