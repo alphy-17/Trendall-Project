@@ -1,0 +1,105 @@
+/* style1.css */
+
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* 100% of the viewport height */
+    display: flex;
+    flex-direction: column; /* Arrange children vertically */
+}
+
+/* Navigation Bar */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+    nav a:hover {
+        text-decoration: underline;
+    }
+
+/* Main Content Section */
+main {
+    padding: 20px;
+    max-width: 1200px; /* Limit the width to maintain readability */
+    margin: auto; /* Center the content */
+}
+
+/* Introductory Content */
+#intro {
+    text-align: center;
+}
+
+/* Featured Articles */
+#featured-articles {
+    margin-bottom: 40px; /* Add some spacing between sections */
+}
+
+    #featured-articles h3 {
+        color: #333; /* Darker color for headings */
+    }
+
+    #featured-articles p {
+        color: #666; /* Lighter color for text */
+    }
+
+/* Image Gallery */
+.image-gallery {
+    display: flex;
+    justify-content: center; /* Center the images horizontally */
+    flex-wrap: wrap; /* Allow multiple rows if needed */
+    gap: 10px; /* Spacing between images */
+    padding: 10px; /* Add padding for aesthetic balance */
+}
+
+    .image-gallery img {
+        width: 50px; /* Medium size for images */
+        height: 50px; /* Maintain aspect ratio */
+        border: 1px solid #ccc; /* Border for separation */
+        border-radius: 10px; /* Rounded corners for a softer look */
+        transition: transform 0.3s ease; /* Smooth transition for hover effect */
+    }
+
+        .image-gallery img:hover {
+            transform: scale(1.1); /* Scale up on hover for an interactive effect */
+        }
+/* Footer Section */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-links {
+    margin-top: 10px;
+}
+
+    .footer-links a {
+        color: white;
+        text-decoration: none;
+        margin-right: 10px;
+    }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
