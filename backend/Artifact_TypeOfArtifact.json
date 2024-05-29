@@ -1,0 +1,7778 @@
+{"Artifact_TypeOfArtifact": [
+    {
+        "artifact_id": 1,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 2,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 3,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 4,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 5,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 6,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 7,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 8,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 9,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 10,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 11,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 12,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 13,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 14,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 15,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 16,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 17,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 18,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 19,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 20,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 21,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 22,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 23,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 24,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 25,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 26,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 27,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 28,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 29,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 30,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 31,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 32,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 33,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 34,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 35,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 36,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 37,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 38,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 39,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 40,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 41,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 42,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 43,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 44,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 45,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 46,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 47,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 48,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 49,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 50,
+        "artifact_type_id": 6
+    },
+    {
+        "artifact_id": 51,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 52,
+        "artifact_type_id": 8
+    },
+    {
+        "artifact_id": 53,
+        "artifact_type_id": 8
+    },
+    {
+        "artifact_id": 54,
+        "artifact_type_id": 8
+    },
+    {
+        "artifact_id": 55,
+        "artifact_type_id": 8
+    },
+    {
+        "artifact_id": 56,
+        "artifact_type_id": 9
+    },
+    {
+        "artifact_id": 57,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 58,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 59,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 60,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 61,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 62,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 63,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 64,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 65,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 66,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 67,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 68,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 69,
+        "artifact_type_id": 11
+    },
+    {
+        "artifact_id": 70,
+        "artifact_type_id": 11
+    },
+    {
+        "artifact_id": 71,
+        "artifact_type_id": 11
+    },
+    {
+        "artifact_id": 72,
+        "artifact_type_id": 11
+    },
+    {
+        "artifact_id": 73,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 74,
+        "artifact_type_id": 12
+    },
+    {
+        "artifact_id": 75,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 76,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 77,
+        "artifact_type_id": 13
+    },
+    {
+        "artifact_id": 78,
+        "artifact_type_id": 14
+    },
+    {
+        "artifact_id": 79,
+        "artifact_type_id": 14
+    },
+    {
+        "artifact_id": 80,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 81,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 82,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 83,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 84,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 85,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 86,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 87,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 88,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 89,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 90,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 91,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 92,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 93,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 94,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 95,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 96,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 97,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 98,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 99,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 100,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 101,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 102,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 103,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 104,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 105,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 106,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 107,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 108,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 109,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 110,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 111,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 112,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 113,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 114,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 115,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 116,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 117,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 118,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 119,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 120,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 121,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 122,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 123,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 124,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 125,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 126,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 127,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 128,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 129,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 130,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 131,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 132,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 133,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 134,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 135,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 136,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 137,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 138,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 139,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 140,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 141,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 142,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 143,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 144,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 145,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 146,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 147,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 148,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 149,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 150,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 151,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 152,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 153,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 154,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 155,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 156,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 157,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 158,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 159,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 160,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 161,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 162,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 163,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 164,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 165,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 166,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 167,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 168,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 169,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 170,
+        "artifact_type_id": 17
+    },
+    {
+        "artifact_id": 171,
+        "artifact_type_id": 17
+    },
+    {
+        "artifact_id": 172,
+        "artifact_type_id": 17
+    },
+    {
+        "artifact_id": 173,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 174,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 175,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 176,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 177,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 178,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 179,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 180,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 181,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 182,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 183,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 184,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 185,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 186,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 187,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 188,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 189,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 190,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 191,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 192,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 193,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 194,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 195,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 196,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 197,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 198,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 199,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 200,
+        "artifact_type_id": 2
+    },
+    {
+        "artifact_id": 201,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 202,
+        "artifact_type_id": 19
+    },
+    {
+        "artifact_id": 203,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 204,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 205,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 206,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 207,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 208,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 209,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 210,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 211,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 212,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 213,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 214,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 215,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 216,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 217,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 218,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 219,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 220,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 221,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 222,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 223,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 224,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 225,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 226,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 227,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 228,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 229,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 230,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 231,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 232,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 233,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 234,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 235,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 236,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 237,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 238,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 239,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 240,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 241,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 242,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 243,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 244,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 245,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 246,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 247,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 248,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 249,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 250,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 251,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 252,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 253,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 254,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 255,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 256,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 257,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 258,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 259,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 260,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 261,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 262,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 263,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 264,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 265,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 266,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 267,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 268,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 269,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 270,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 271,
+        "artifact_type_id": 24
+    },
+    {
+        "artifact_id": 272,
+        "artifact_type_id": 25
+    },
+    {
+        "artifact_id": 273,
+        "artifact_type_id": 25
+    },
+    {
+        "artifact_id": 274,
+        "artifact_type_id": 25
+    },
+    {
+        "artifact_id": 275,
+        "artifact_type_id": 25
+    },
+    {
+        "artifact_id": 276,
+        "artifact_type_id": 25
+    },
+    {
+        "artifact_id": 277,
+        "artifact_type_id": 25
+    },
+    {
+        "artifact_id": 278,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 279,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 280,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 281,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 282,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 283,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 284,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 285,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 286,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 287,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 288,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 289,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 290,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 291,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 292,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 293,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 294,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 295,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 296,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 297,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 298,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 299,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 300,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 301,
+        "artifact_type_id": 26
+    },
+    {
+        "artifact_id": 302,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 303,
+        "artifact_type_id": 27
+    },
+    {
+        "artifact_id": 304,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 305,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 306,
+        "artifact_type_id": 28
+    },
+    {
+        "artifact_id": 307,
+        "artifact_type_id": 28
+    },
+    {
+        "artifact_id": 308,
+        "artifact_type_id": 28
+    },
+    {
+        "artifact_id": 309,
+        "artifact_type_id": 28
+    },
+    {
+        "artifact_id": 310,
+        "artifact_type_id": 28
+    },
+    {
+        "artifact_id": 311,
+        "artifact_type_id": 28
+    },
+    {
+        "artifact_id": 312,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 313,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 314,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 315,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 316,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 317,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 318,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 319,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 320,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 321,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 322,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 323,
+        "artifact_type_id": 16
+    },
+    {
+        "artifact_id": 324,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 325,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 326,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 327,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 328,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 329,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 330,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 331,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 332,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 333,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 334,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 335,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 336,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 337,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 338,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 339,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 340,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 341,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 342,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 343,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 344,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 345,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 346,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 347,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 348,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 349,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 350,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 351,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 352,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 353,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 354,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 355,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 356,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 357,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 358,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 359,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 360,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 361,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 362,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 363,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 364,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 365,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 366,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 367,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 368,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 369,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 370,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 371,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 372,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 373,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 374,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 375,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 376,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 377,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 378,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 379,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 380,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 381,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 382,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 383,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 384,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 385,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 386,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 387,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 388,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 389,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 390,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 391,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 392,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 393,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 394,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 395,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 396,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 397,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 398,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 399,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 400,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 401,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 402,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 403,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 404,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 405,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 406,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 407,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 408,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 409,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 410,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 411,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 412,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 413,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 414,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 415,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 416,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 417,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 418,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 419,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 420,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 421,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 422,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 423,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 424,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 425,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 426,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 427,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 428,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 429,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 430,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 431,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 432,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 433,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 434,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 435,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 436,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 437,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 438,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 439,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 440,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 441,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 442,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 443,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 444,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 445,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 446,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 447,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 448,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 449,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 450,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 451,
+        "artifact_type_id": 29
+    },
+    {
+        "artifact_id": 452,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 453,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 454,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 455,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 456,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 457,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 458,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 459,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 460,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 461,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 462,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 463,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 464,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 465,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 466,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 467,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 468,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 469,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 470,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 471,
+        "artifact_type_id": 31
+    },
+    {
+        "artifact_id": 472,
+        "artifact_type_id": 31
+    },
+    {
+        "artifact_id": 473,
+        "artifact_type_id": 31
+    },
+    {
+        "artifact_id": 474,
+        "artifact_type_id": 31
+    },
+    {
+        "artifact_id": 475,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 476,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 477,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 478,
+        "artifact_type_id": 26
+    },
+    {
+        "artifact_id": 479,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 480,
+        "artifact_type_id": 33
+    },
+    {
+        "artifact_id": 481,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 482,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 483,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 484,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 485,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 486,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 487,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 488,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 489,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 490,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 491,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 492,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 493,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 494,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 495,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 496,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 497,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 498,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 499,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 500,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 501,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 502,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 503,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 504,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 505,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 506,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 507,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 508,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 509,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 510,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 511,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 512,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 513,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 514,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 515,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 516,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 517,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 518,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 519,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 520,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 521,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 522,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 523,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 524,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 525,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 526,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 527,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 528,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 529,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 530,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 531,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 532,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 533,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 534,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 535,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 536,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 537,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 538,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 539,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 540,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 541,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 542,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 543,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 544,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 545,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 546,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 547,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 548,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 549,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 550,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 551,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 552,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 553,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 554,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 555,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 556,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 557,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 558,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 559,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 560,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 561,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 562,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 563,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 564,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 565,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 566,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 567,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 568,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 569,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 570,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 571,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 572,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 573,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 574,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 575,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 576,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 577,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 578,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 579,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 580,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 581,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 582,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 583,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 584,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 585,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 586,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 587,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 588,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 589,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 590,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 591,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 592,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 593,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 594,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 595,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 596,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 597,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 598,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 599,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 600,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 601,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 602,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 603,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 604,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 605,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 606,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 607,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 608,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 609,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 610,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 611,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 612,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 613,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 614,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 615,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 616,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 617,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 618,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 619,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 620,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 621,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 622,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 623,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 624,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 625,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 626,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 627,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 628,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 629,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 630,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 631,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 632,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 633,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 634,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 635,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 636,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 637,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 638,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 639,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 640,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 641,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 642,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 643,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 644,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 645,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 646,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 647,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 648,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 649,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 650,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 651,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 652,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 653,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 654,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 655,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 656,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 657,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 658,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 659,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 660,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 661,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 662,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 663,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 664,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 665,
+        "artifact_type_id": 34
+    },
+    {
+        "artifact_id": 666,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 667,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 668,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 669,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 670,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 671,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 672,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 673,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 674,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 675,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 676,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 677,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 678,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 679,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 680,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 681,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 682,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 683,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 684,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 685,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 686,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 687,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 688,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 689,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 690,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 691,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 692,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 693,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 694,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 695,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 696,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 697,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 698,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 699,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 700,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 701,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 702,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 703,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 704,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 705,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 706,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 707,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 708,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 709,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 710,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 711,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 712,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 713,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 714,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 715,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 716,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 717,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 718,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 719,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 720,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 721,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 722,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 723,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 724,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 725,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 726,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 727,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 728,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 729,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 730,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 731,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 732,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 733,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 734,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 735,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 736,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 737,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 738,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 739,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 740,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 741,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 742,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 743,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 744,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 745,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 746,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 747,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 748,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 749,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 750,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 751,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 752,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 753,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 754,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 755,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 756,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 757,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 758,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 759,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 760,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 761,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 762,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 763,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 764,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 765,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 766,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 767,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 768,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 769,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 770,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 771,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 772,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 773,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 774,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 775,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 776,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 777,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 778,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 779,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 780,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 781,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 782,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 783,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 784,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 785,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 786,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 787,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 788,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 789,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 790,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 791,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 792,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 793,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 794,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 795,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 796,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 797,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 798,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 799,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 800,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 801,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 802,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 803,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 804,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 805,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 806,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 807,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 808,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 809,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 810,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 811,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 812,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 813,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 814,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 815,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 816,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 817,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 818,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 819,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 820,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 821,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 822,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 823,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 824,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 825,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 826,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 827,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 828,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 829,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 830,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 831,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 832,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 833,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 834,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 835,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 836,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 837,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 838,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 839,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 840,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 841,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 842,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 843,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 844,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 845,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 846,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 847,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 848,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 849,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 850,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 851,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 852,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 853,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 854,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 855,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 856,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 857,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 858,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 859,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 860,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 861,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 862,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 863,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 864,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 865,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 866,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 867,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 868,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 869,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 870,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 871,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 872,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 873,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 874,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 875,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 876,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 877,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 878,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 879,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 880,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 881,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 882,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 883,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 884,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 885,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 886,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 887,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 888,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 889,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 890,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 891,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 892,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 893,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 894,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 895,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 896,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 897,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 898,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 899,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 900,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 901,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 902,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 903,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 904,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 905,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 906,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 907,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 908,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 909,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 910,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 911,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 912,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 913,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 914,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 915,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 916,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 917,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 918,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 919,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 920,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 921,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 922,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 923,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 924,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 925,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 926,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 927,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 928,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 929,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 930,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 931,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 932,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 933,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 934,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 935,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 936,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 937,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 938,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 939,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 940,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 941,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 942,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 943,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 944,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 945,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 946,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 947,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 948,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 949,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 950,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 951,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 952,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 953,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 954,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 955,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 956,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 957,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 958,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 959,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 960,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 961,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 962,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 963,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 964,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 965,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 966,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 967,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 968,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 969,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 970,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 971,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 972,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 973,
+        "artifact_type_id": 22
+    },
+    {
+        "artifact_id": 974,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 975,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 976,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 977,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 978,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 979,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 980,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 981,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 982,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 983,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 984,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 985,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 986,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 987,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 988,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 989,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 990,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 991,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 992,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 993,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 994,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 995,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 996,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 997,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 998,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 999,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1000,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1001,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1002,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1003,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1004,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1005,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1006,
+        "artifact_type_id": 35
+    },
+    {
+        "artifact_id": 1007,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1008,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1009,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1010,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1011,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1012,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1013,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1014,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1015,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1016,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1017,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1018,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1019,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1020,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1021,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1022,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1023,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1024,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1025,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1026,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1027,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1028,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1029,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1030,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1031,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1032,
+        "artifact_type_id": 36
+    },
+    {
+        "artifact_id": 1033,
+        "artifact_type_id": 27
+    },
+    {
+        "artifact_id": 1034,
+        "artifact_type_id": 27
+    },
+    {
+        "artifact_id": 1035,
+        "artifact_type_id": 33
+    },
+    {
+        "artifact_id": 1036,
+        "artifact_type_id": 33
+    },
+    {
+        "artifact_id": 1037,
+        "artifact_type_id": 33
+    },
+    {
+        "artifact_id": 1038,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 1039,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 1040,
+        "artifact_type_id": 30
+    },
+    {
+        "artifact_id": 1041,
+        "artifact_type_id": 37
+    },
+    {
+        "artifact_id": 1042,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1043,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1044,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1045,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1046,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1047,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1048,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1049,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1050,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1051,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1052,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1053,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1054,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1055,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1056,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1057,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1058,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1059,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1060,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1061,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1062,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1063,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1064,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1065,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1066,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1067,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1068,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1069,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1070,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1071,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1072,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1073,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1074,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1075,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1076,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1077,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1078,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1079,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1080,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1081,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1082,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1083,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1084,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1085,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1086,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1087,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1088,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1089,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1090,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1091,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1092,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1093,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1094,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1095,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1096,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1097,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1098,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1099,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1100,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1101,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1102,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1103,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1104,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1105,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1106,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1107,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1108,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1109,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1110,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1111,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1112,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1113,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1114,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1115,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1116,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1117,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1118,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1119,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1120,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1121,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1122,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1123,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1124,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1125,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1126,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1127,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1128,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1129,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1130,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1131,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1132,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1133,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1134,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1135,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1136,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1137,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1138,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1139,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1140,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1141,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1142,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1143,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1144,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1145,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1146,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1147,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1148,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1149,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1150,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1151,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1152,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1153,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1154,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1155,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1156,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1157,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1158,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1159,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1160,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1161,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1162,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1163,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1164,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1165,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1166,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1167,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1168,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1169,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1170,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1171,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1172,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1173,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1174,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1175,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1176,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1177,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1178,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1179,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1180,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1181,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1182,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1183,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1184,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1185,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1186,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1187,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1188,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1189,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1190,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1191,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1192,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1193,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1194,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1195,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1196,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1197,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1198,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1199,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1200,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1201,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1202,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1203,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1204,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1205,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1206,
+        "artifact_type_id": 38
+    },
+    {
+        "artifact_id": 1207,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1208,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1209,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1210,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1211,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1212,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1213,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1214,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1215,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1216,
+        "artifact_type_id": 5
+    },
+    {
+        "artifact_id": 1217,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1218,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1219,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1220,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1221,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1222,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1223,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1224,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1225,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1226,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1227,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1228,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1229,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1230,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1231,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1232,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1233,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1234,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1235,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1236,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1237,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1238,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1239,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1240,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1241,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1242,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1243,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1244,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1245,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1246,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1247,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1248,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1249,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1250,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1251,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1252,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1253,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1254,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1255,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1256,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1257,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1258,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1259,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1260,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1261,
+        "artifact_type_id": 10
+    },
+    {
+        "artifact_id": 1262,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1263,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1264,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1265,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1266,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1267,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1268,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1269,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1270,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1271,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1272,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1273,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1274,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1275,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1276,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1277,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1278,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1279,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1280,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1281,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1282,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1283,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1284,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1285,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1286,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1287,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1288,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1289,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1290,
+        "artifact_type_id": 40
+    },
+    {
+        "artifact_id": 1291,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1292,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1293,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1294,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1295,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1296,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1297,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1298,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1299,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1300,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1301,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1302,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1303,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1304,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1305,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1306,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1307,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1308,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1309,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1310,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1311,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1312,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1313,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1314,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1315,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1316,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1317,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1318,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1319,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1320,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1321,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1322,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1323,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1324,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1325,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1326,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1327,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1328,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1329,
+        "artifact_type_id": 41
+    },
+    {
+        "artifact_id": 1330,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 1331,
+        "artifact_type_id": 1
+    },
+    {
+        "artifact_id": 1332,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1333,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1334,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1335,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1336,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1337,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1338,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1339,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1340,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1341,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1342,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1343,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1344,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1345,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1346,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1347,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1348,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1349,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1350,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1351,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1352,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1353,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1354,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1355,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1356,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1357,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1358,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1359,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1360,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1361,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1362,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1363,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1364,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1365,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1366,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1367,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1368,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1369,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1370,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1371,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1372,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1373,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1374,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1375,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1376,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1377,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1378,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1379,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1380,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1381,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1382,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1383,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1384,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1385,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1386,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1387,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1388,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1389,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1390,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1391,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1392,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1393,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1394,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1395,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1396,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1397,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1398,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1399,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1400,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1401,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1402,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1403,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1404,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1405,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1406,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1407,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1408,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1409,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1410,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1411,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1412,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1413,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1414,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1415,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1416,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1417,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1418,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1419,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1420,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1421,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1422,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1423,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1424,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1425,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1426,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1427,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1428,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1429,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1430,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1431,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1432,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1433,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1434,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1435,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1436,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1437,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1438,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1439,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1440,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1441,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1442,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1443,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1444,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1445,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1446,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1447,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1448,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1449,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1450,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1451,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1452,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1453,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1454,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1455,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1456,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1457,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1458,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1459,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1460,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1461,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1462,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1463,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1464,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1465,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1466,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1467,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1468,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1469,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1470,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1471,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1472,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1473,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1474,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1475,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1476,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1477,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1478,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1479,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1480,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1481,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1482,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1483,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1484,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1485,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1486,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1487,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1488,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1489,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1490,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1491,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1492,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1493,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1494,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1495,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1496,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1497,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1498,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1499,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1500,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1501,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1502,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1503,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1504,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1505,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1506,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1507,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1508,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1509,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1510,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1511,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1512,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1513,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1514,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1515,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1516,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1517,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1518,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1519,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1520,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1521,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1522,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1523,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1524,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1525,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1526,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1527,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1528,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1529,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1530,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1531,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1532,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1533,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1534,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1535,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1536,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1537,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1538,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1539,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1540,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1541,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1542,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1543,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1544,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1545,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1546,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1547,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1548,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1549,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1550,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1551,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1552,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1553,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1554,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1555,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1556,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1557,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1558,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1559,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1560,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1561,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1562,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1563,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1564,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1565,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1566,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1567,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1568,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1569,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1570,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1571,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1572,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1573,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1574,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1575,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1576,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1577,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1578,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1579,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1580,
+        "artifact_type_id": 44
+    },
+    {
+        "artifact_id": 1581,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1582,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1583,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1584,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1585,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1586,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1587,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1588,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1589,
+        "artifact_type_id": 45
+    },
+    {
+        "artifact_id": 1590,
+        "artifact_type_id": 26
+    },
+    {
+        "artifact_id": 1591,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1592,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1593,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1594,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1595,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1596,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1597,
+        "artifact_type_id": 7
+    },
+    {
+        "artifact_id": 1598,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 1599,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 1600,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1601,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1602,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1603,
+        "artifact_type_id": 46
+    },
+    {
+        "artifact_id": 1604,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1605,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1606,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1607,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1608,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1609,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1610,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1611,
+        "artifact_type_id": 4
+    },
+    {
+        "artifact_id": 1612,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1613,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1614,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1615,
+        "artifact_type_id": 21
+    },
+    {
+        "artifact_id": 1616,
+        "artifact_type_id": 8
+    },
+    {
+        "artifact_id": 1617,
+        "artifact_type_id": 8
+    },
+    {
+        "artifact_id": 1618,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1619,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1620,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1621,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1622,
+        "artifact_type_id": 26
+    },
+    {
+        "artifact_id": 1623,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1624,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1625,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1626,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1627,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1628,
+        "artifact_type_id": 47
+    },
+    {
+        "artifact_id": 1629,
+        "artifact_type_id": 47
+    },
+    {
+        "artifact_id": 1630,
+        "artifact_type_id": 39
+    },
+    {
+        "artifact_id": 1631,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1632,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1633,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1634,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1635,
+        "artifact_type_id": 3
+    },
+    {
+        "artifact_id": 1636,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1637,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1638,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1639,
+        "artifact_type_id": 48
+    },
+    {
+        "artifact_id": 1640,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1641,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1642,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1643,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1644,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1645,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1646,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1647,
+        "artifact_type_id": 15
+    },
+    {
+        "artifact_id": 1648,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1649,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1650,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1651,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1652,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1653,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1654,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1655,
+        "artifact_type_id": 49
+    },
+    {
+        "artifact_id": 1656,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1657,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1658,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1659,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1660,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1661,
+        "artifact_type_id": 18
+    },
+    {
+        "artifact_id": 1662,
+        "artifact_type_id": 32
+    },
+    {
+        "artifact_id": 1663,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 1664,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 1665,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 1666,
+        "artifact_type_id": 23
+    },
+    {
+        "artifact_id": 1667,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 1668,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 1669,
+        "artifact_type_id": 20
+    },
+    {
+        "artifact_id": 1670,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1671,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1672,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1673,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1674,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1675,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1676,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1677,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1678,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1679,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1680,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1681,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1682,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1683,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1684,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1685,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1686,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1687,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1688,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1689,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1690,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1691,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1692,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1693,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1694,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1695,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1696,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1697,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1698,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1699,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1700,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1701,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1702,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1703,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1704,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1705,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1706,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1707,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1708,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1709,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1710,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1711,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1712,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1713,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1714,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1715,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1716,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1717,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1718,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1719,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1720,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1721,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1722,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1723,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1724,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1725,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1726,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1727,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1728,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1729,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1730,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1731,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1732,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1733,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1734,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1735,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1736,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1737,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1738,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1739,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1740,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1741,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1742,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1743,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1744,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1745,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1746,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1747,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1748,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1749,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1750,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1751,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1752,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1753,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1754,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1755,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1756,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1757,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1758,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1759,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1760,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1761,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1762,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1763,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1764,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1765,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1766,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1767,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1768,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1769,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1770,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1771,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1772,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1773,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1774,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1775,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1776,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1777,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1778,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1779,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1780,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1781,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1782,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1783,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1784,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1785,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1786,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1787,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1788,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1789,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1790,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1791,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1792,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1793,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1794,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1795,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1796,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1797,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1798,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1799,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1800,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1801,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1802,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1803,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1804,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1805,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1806,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1807,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1808,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1809,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1810,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1811,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1812,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1813,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1814,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1815,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1816,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1817,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1818,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1819,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1820,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1821,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1822,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1823,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1824,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1825,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1826,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1827,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1828,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1829,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1830,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1831,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1832,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1833,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1834,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1835,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1836,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1837,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1838,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1839,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1840,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1841,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1842,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1843,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1844,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1845,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1846,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1847,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1848,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1849,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1850,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1851,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1852,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1853,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1854,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1855,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1856,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1857,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1858,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1859,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1860,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1861,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1862,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1863,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1864,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1865,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1866,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1867,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1868,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1869,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1870,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1871,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1872,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1873,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1874,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1875,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1876,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1877,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1878,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1879,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1880,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1881,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1882,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1883,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1884,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1885,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1886,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1887,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1888,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1889,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1890,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1891,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1892,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1893,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1894,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1895,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1896,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1897,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1898,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1899,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1900,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1901,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1902,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1903,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1904,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1905,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1906,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1907,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1908,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1909,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1910,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1911,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1912,
+        "artifact_type_id": 42
+    },
+    {
+        "artifact_id": 1913,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1914,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1915,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1916,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1917,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1918,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1919,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1920,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1921,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1922,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1923,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1924,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1925,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1926,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1927,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1928,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1929,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1930,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1931,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1932,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1933,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1934,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1935,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1936,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1937,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1938,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1939,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1940,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1941,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1942,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1943,
+        "artifact_type_id": 43
+    },
+    {
+        "artifact_id": 1944,
+        "artifact_type_id": 43
+    }
+]}

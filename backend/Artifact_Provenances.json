@@ -1,0 +1,4426 @@
+{"Artifact_Provenances": [
+    {
+        "artifact_id": 3,
+        "location_id": 1
+    },
+    {
+        "artifact_id": 4,
+        "location_id": 1
+    },
+    {
+        "artifact_id": 11,
+        "location_id": 2
+    },
+    {
+        "artifact_id": 12,
+        "location_id": 3
+    },
+    {
+        "artifact_id": 13,
+        "location_id": 4
+    },
+    {
+        "artifact_id": 16,
+        "location_id": 2
+    },
+    {
+        "artifact_id": 17,
+        "location_id": 5
+    },
+    {
+        "artifact_id": 20,
+        "location_id": 6
+    },
+    {
+        "artifact_id": 21,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 28,
+        "location_id": 8
+    },
+    {
+        "artifact_id": 33,
+        "location_id": 9
+    },
+    {
+        "artifact_id": 34,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 35,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 38,
+        "location_id": 4
+    },
+    {
+        "artifact_id": 43,
+        "location_id": 10
+    },
+    {
+        "artifact_id": 44,
+        "location_id": 11
+    },
+    {
+        "artifact_id": 49,
+        "location_id": 12
+    },
+    {
+        "artifact_id": 50,
+        "location_id": 13
+    },
+    {
+        "artifact_id": 53,
+        "location_id": 14
+    },
+    {
+        "artifact_id": 54,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 55,
+        "location_id": 16
+    },
+    {
+        "artifact_id": 56,
+        "location_id": 13
+    },
+    {
+        "artifact_id": 58,
+        "location_id": 17
+    },
+    {
+        "artifact_id": 62,
+        "location_id": 18
+    },
+    {
+        "artifact_id": 63,
+        "location_id": 19
+    },
+    {
+        "artifact_id": 64,
+        "location_id": 20
+    },
+    {
+        "artifact_id": 65,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 69,
+        "location_id": 21
+    },
+    {
+        "artifact_id": 73,
+        "location_id": 22
+    },
+    {
+        "artifact_id": 74,
+        "location_id": 4
+    },
+    {
+        "artifact_id": 76,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 77,
+        "location_id": 24
+    },
+    {
+        "artifact_id": 78,
+        "location_id": 25
+    },
+    {
+        "artifact_id": 79,
+        "location_id": 26
+    },
+    {
+        "artifact_id": 80,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 82,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 83,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 84,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 86,
+        "location_id": 28
+    },
+    {
+        "artifact_id": 91,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 94,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 99,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 106,
+        "location_id": 30
+    },
+    {
+        "artifact_id": 107,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 109,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 110,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 111,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 112,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 115,
+        "location_id": 33
+    },
+    {
+        "artifact_id": 117,
+        "location_id": 34
+    },
+    {
+        "artifact_id": 124,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 126,
+        "location_id": 33
+    },
+    {
+        "artifact_id": 128,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 132,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 139,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 142,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 143,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 144,
+        "location_id": 35
+    },
+    {
+        "artifact_id": 145,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 149,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 150,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 152,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 153,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 156,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 157,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 158,
+        "location_id": 37
+    },
+    {
+        "artifact_id": 162,
+        "location_id": 38
+    },
+    {
+        "artifact_id": 169,
+        "location_id": 39
+    },
+    {
+        "artifact_id": 170,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 172,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 173,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 176,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 177,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 178,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 179,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 180,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 181,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 182,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 183,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 184,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 186,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 187,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 188,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 189,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 191,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 192,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 193,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 194,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 197,
+        "location_id": 41
+    },
+    {
+        "artifact_id": 198,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 200,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 201,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 204,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 207,
+        "location_id": 43
+    },
+    {
+        "artifact_id": 208,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 209,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 210,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 211,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 212,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 213,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 214,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 215,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 216,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 217,
+        "location_id": 44
+    },
+    {
+        "artifact_id": 218,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 219,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 223,
+        "location_id": 45
+    },
+    {
+        "artifact_id": 225,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 227,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 229,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 230,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 231,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 233,
+        "location_id": 46
+    },
+    {
+        "artifact_id": 234,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 238,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 240,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 244,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 245,
+        "location_id": 47
+    },
+    {
+        "artifact_id": 247,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 250,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 251,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 252,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 256,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 257,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 261,
+        "location_id": 43
+    },
+    {
+        "artifact_id": 262,
+        "location_id": 48
+    },
+    {
+        "artifact_id": 267,
+        "location_id": 49
+    },
+    {
+        "artifact_id": 269,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 279,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 280,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 281,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 283,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 288,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 289,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 290,
+        "location_id": 50
+    },
+    {
+        "artifact_id": 292,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 301,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 302,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 303,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 305,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 306,
+        "location_id": 51
+    },
+    {
+        "artifact_id": 309,
+        "location_id": 52
+    },
+    {
+        "artifact_id": 310,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 311,
+        "location_id": 53
+    },
+    {
+        "artifact_id": 312,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 314,
+        "location_id": 54
+    },
+    {
+        "artifact_id": 315,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 321,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 322,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 325,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 327,
+        "location_id": 52
+    },
+    {
+        "artifact_id": 332,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 333,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 335,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 340,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 342,
+        "location_id": 55
+    },
+    {
+        "artifact_id": 354,
+        "location_id": 10
+    },
+    {
+        "artifact_id": 358,
+        "location_id": 55
+    },
+    {
+        "artifact_id": 361,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 362,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 377,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 388,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 389,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 391,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 393,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 400,
+        "location_id": 45
+    },
+    {
+        "artifact_id": 402,
+        "location_id": 45
+    },
+    {
+        "artifact_id": 408,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 409,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 411,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 421,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 427,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 431,
+        "location_id": 57
+    },
+    {
+        "artifact_id": 433,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 435,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 436,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 438,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 439,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 441,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 442,
+        "location_id": 59
+    },
+    {
+        "artifact_id": 443,
+        "location_id": 45
+    },
+    {
+        "artifact_id": 446,
+        "location_id": 60
+    },
+    {
+        "artifact_id": 448,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 449,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 450,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 451,
+        "location_id": 8
+    },
+    {
+        "artifact_id": 452,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 454,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 455,
+        "location_id": 61
+    },
+    {
+        "artifact_id": 456,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 457,
+        "location_id": 62
+    },
+    {
+        "artifact_id": 458,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 459,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 461,
+        "location_id": 63
+    },
+    {
+        "artifact_id": 463,
+        "location_id": 64
+    },
+    {
+        "artifact_id": 465,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 467,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 468,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 469,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 470,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 472,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 476,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 477,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 478,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 481,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 482,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 483,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 484,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 485,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 486,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 488,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 489,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 495,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 496,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 498,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 500,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 501,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 502,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 503,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 504,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 508,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 509,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 510,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 511,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 512,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 513,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 516,
+        "location_id": 62
+    },
+    {
+        "artifact_id": 518,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 519,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 521,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 522,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 523,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 524,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 525,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 527,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 530,
+        "location_id": 67
+    },
+    {
+        "artifact_id": 531,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 532,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 534,
+        "location_id": 68
+    },
+    {
+        "artifact_id": 535,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 536,
+        "location_id": 69
+    },
+    {
+        "artifact_id": 537,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 541,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 548,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 549,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 551,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 552,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 554,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 555,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 558,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 559,
+        "location_id": 71
+    },
+    {
+        "artifact_id": 563,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 564,
+        "location_id": 72
+    },
+    {
+        "artifact_id": 565,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 567,
+        "location_id": 73
+    },
+    {
+        "artifact_id": 570,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 571,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 572,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 573,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 574,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 577,
+        "location_id": 62
+    },
+    {
+        "artifact_id": 588,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 590,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 595,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 598,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 599,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 602,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 604,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 605,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 606,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 608,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 609,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 610,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 612,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 616,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 618,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 619,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 620,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 621,
+        "location_id": 74
+    },
+    {
+        "artifact_id": 622,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 623,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 625,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 626,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 627,
+        "location_id": 75
+    },
+    {
+        "artifact_id": 628,
+        "location_id": 76
+    },
+    {
+        "artifact_id": 629,
+        "location_id": 77
+    },
+    {
+        "artifact_id": 630,
+        "location_id": 77
+    },
+    {
+        "artifact_id": 631,
+        "location_id": 78
+    },
+    {
+        "artifact_id": 632,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 633,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 634,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 635,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 641,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 642,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 643,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 644,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 645,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 646,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 647,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 648,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 649,
+        "location_id": 80
+    },
+    {
+        "artifact_id": 651,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 653,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 654,
+        "location_id": 42
+    },
+    {
+        "artifact_id": 655,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 656,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 657,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 660,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 666,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 667,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 668,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 671,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 673,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 674,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 675,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 676,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 678,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 679,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 680,
+        "location_id": 81
+    },
+    {
+        "artifact_id": 681,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 682,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 683,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 684,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 687,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 688,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 689,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 690,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 691,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 692,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 693,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 694,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 695,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 696,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 697,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 698,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 699,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 700,
+        "location_id": 57
+    },
+    {
+        "artifact_id": 701,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 703,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 704,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 705,
+        "location_id": 82
+    },
+    {
+        "artifact_id": 706,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 708,
+        "location_id": 83
+    },
+    {
+        "artifact_id": 709,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 710,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 711,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 712,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 713,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 716,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 717,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 718,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 719,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 720,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 724,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 725,
+        "location_id": 84
+    },
+    {
+        "artifact_id": 728,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 729,
+        "location_id": 85
+    },
+    {
+        "artifact_id": 730,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 731,
+        "location_id": 86
+    },
+    {
+        "artifact_id": 732,
+        "location_id": 87
+    },
+    {
+        "artifact_id": 733,
+        "location_id": 88
+    },
+    {
+        "artifact_id": 734,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 735,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 739,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 740,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 742,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 743,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 747,
+        "location_id": 69
+    },
+    {
+        "artifact_id": 748,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 749,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 751,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 752,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 753,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 755,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 756,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 758,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 762,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 763,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 766,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 767,
+        "location_id": 8
+    },
+    {
+        "artifact_id": 769,
+        "location_id": 89
+    },
+    {
+        "artifact_id": 770,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 772,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 773,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 774,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 775,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 778,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 779,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 780,
+        "location_id": 82
+    },
+    {
+        "artifact_id": 781,
+        "location_id": 50
+    },
+    {
+        "artifact_id": 784,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 787,
+        "location_id": 90
+    },
+    {
+        "artifact_id": 788,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 790,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 791,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 793,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 795,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 796,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 797,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 798,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 799,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 800,
+        "location_id": 91
+    },
+    {
+        "artifact_id": 801,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 802,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 806,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 807,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 811,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 816,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 817,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 818,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 819,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 820,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 821,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 826,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 827,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 829,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 831,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 832,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 838,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 839,
+        "location_id": 92
+    },
+    {
+        "artifact_id": 842,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 843,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 844,
+        "location_id": 69
+    },
+    {
+        "artifact_id": 845,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 848,
+        "location_id": 82
+    },
+    {
+        "artifact_id": 853,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 854,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 857,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 858,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 860,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 861,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 863,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 864,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 865,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 866,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 867,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 868,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 869,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 870,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 872,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 873,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 874,
+        "location_id": 87
+    },
+    {
+        "artifact_id": 878,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 879,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 880,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 881,
+        "location_id": 82
+    },
+    {
+        "artifact_id": 882,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 883,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 886,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 887,
+        "location_id": 69
+    },
+    {
+        "artifact_id": 888,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 889,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 890,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 892,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 893,
+        "location_id": 63
+    },
+    {
+        "artifact_id": 895,
+        "location_id": 50
+    },
+    {
+        "artifact_id": 897,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 899,
+        "location_id": 93
+    },
+    {
+        "artifact_id": 900,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 901,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 903,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 904,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 905,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 906,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 908,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 909,
+        "location_id": 67
+    },
+    {
+        "artifact_id": 911,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 912,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 914,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 915,
+        "location_id": 43
+    },
+    {
+        "artifact_id": 916,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 917,
+        "location_id": 94
+    },
+    {
+        "artifact_id": 918,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 919,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 921,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 922,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 923,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 924,
+        "location_id": 84
+    },
+    {
+        "artifact_id": 927,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 932,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 933,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 934,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 935,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 936,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 938,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 939,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 941,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 942,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 946,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 948,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 952,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 953,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 955,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 956,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 957,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 959,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 960,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 961,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 963,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 964,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 965,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 966,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 968,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 970,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 971,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 973,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 976,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 981,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 982,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 983,
+        "location_id": 45
+    },
+    {
+        "artifact_id": 990,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 996,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 997,
+        "location_id": 95
+    },
+    {
+        "artifact_id": 998,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1000,
+        "location_id": 96
+    },
+    {
+        "artifact_id": 1005,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1012,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 1020,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1021,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1039,
+        "location_id": 8
+    },
+    {
+        "artifact_id": 1040,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1042,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1043,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1045,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1046,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1047,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1048,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1049,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1054,
+        "location_id": 98
+    },
+    {
+        "artifact_id": 1055,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1056,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1057,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1058,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1061,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1064,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1065,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1066,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1067,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1071,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1072,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1074,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1075,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1076,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1077,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1078,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1079,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 1080,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1081,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1083,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1085,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1086,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1087,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1088,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1089,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1090,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1091,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1093,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1095,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1097,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1098,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1099,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1100,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1101,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 1102,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1103,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1104,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1105,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1107,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1109,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1111,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1112,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1113,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1114,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1115,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1116,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1117,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1118,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1119,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1120,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1121,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1122,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1123,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1124,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1125,
+        "location_id": 87
+    },
+    {
+        "artifact_id": 1126,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1127,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1128,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1129,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1130,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1131,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1132,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1133,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1134,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1135,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1136,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1138,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1139,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1140,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1142,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1143,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1144,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1145,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1146,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1147,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1148,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1150,
+        "location_id": 45
+    },
+    {
+        "artifact_id": 1151,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1152,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1153,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1155,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1156,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1157,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1158,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1159,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1160,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1161,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1162,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1164,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1165,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1166,
+        "location_id": 87
+    },
+    {
+        "artifact_id": 1169,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1170,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 1171,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1172,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1173,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1175,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1176,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1177,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1178,
+        "location_id": 92
+    },
+    {
+        "artifact_id": 1179,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 1180,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 1181,
+        "location_id": 87
+    },
+    {
+        "artifact_id": 1182,
+        "location_id": 87
+    },
+    {
+        "artifact_id": 1183,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1184,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1185,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1186,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1189,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1190,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1191,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1192,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1193,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1194,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1196,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 1200,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1202,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1203,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1207,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1208,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1210,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1212,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1213,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1214,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1215,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1216,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1217,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1221,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1222,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1224,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 1225,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1226,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1227,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1229,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1232,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1233,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1234,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1235,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1236,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1237,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1238,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1240,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1241,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1242,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 1243,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1244,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1246,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1247,
+        "location_id": 99
+    },
+    {
+        "artifact_id": 1251,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1252,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1253,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1254,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1255,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1256,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1258,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1259,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1262,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1263,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1264,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 1266,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1267,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 1268,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1270,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1271,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1272,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1273,
+        "location_id": 100
+    },
+    {
+        "artifact_id": 1274,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1275,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1276,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1277,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1278,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1279,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 1280,
+        "location_id": 101
+    },
+    {
+        "artifact_id": 1281,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 1282,
+        "location_id": 32
+    },
+    {
+        "artifact_id": 1283,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1284,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1285,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 1286,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1287,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1288,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1289,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1292,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1294,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1295,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1296,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1297,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 1300,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1301,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1302,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1303,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1304,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1305,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1306,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1307,
+        "location_id": 102
+    },
+    {
+        "artifact_id": 1313,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1315,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1316,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1317,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1318,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1320,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1322,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1326,
+        "location_id": 103
+    },
+    {
+        "artifact_id": 1330,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1331,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1333,
+        "location_id": 104
+    },
+    {
+        "artifact_id": 1334,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1335,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1336,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1337,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1339,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1340,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1341,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1342,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1343,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1344,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1345,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1346,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1347,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1348,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1349,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1351,
+        "location_id": 105
+    },
+    {
+        "artifact_id": 1355,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1356,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1357,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1358,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1359,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 1360,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1361,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1363,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1364,
+        "location_id": 106
+    },
+    {
+        "artifact_id": 1367,
+        "location_id": 107
+    },
+    {
+        "artifact_id": 1369,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1370,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1371,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1372,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1373,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1374,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1375,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1381,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1382,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1391,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1392,
+        "location_id": 88
+    },
+    {
+        "artifact_id": 1393,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1396,
+        "location_id": 108
+    },
+    {
+        "artifact_id": 1403,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1404,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1405,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1406,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1410,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1411,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1412,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1413,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1417,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1419,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1420,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1423,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1424,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1425,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1430,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1431,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1432,
+        "location_id": 89
+    },
+    {
+        "artifact_id": 1433,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1434,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1435,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1437,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1439,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1440,
+        "location_id": 38
+    },
+    {
+        "artifact_id": 1441,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1446,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1450,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1451,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1452,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1453,
+        "location_id": 29
+    },
+    {
+        "artifact_id": 1454,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1455,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1456,
+        "location_id": 110
+    },
+    {
+        "artifact_id": 1457,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1458,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1460,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1461,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1463,
+        "location_id": 59
+    },
+    {
+        "artifact_id": 1465,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1468,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1469,
+        "location_id": 111
+    },
+    {
+        "artifact_id": 1470,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1471,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1472,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1473,
+        "location_id": 56
+    },
+    {
+        "artifact_id": 1474,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1481,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1485,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1486,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1488,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1491,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1493,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1494,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1495,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1496,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1497,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1498,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1499,
+        "location_id": 61
+    },
+    {
+        "artifact_id": 1500,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1502,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1505,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1509,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1511,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1512,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1514,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1517,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1518,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1519,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1520,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1521,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1525,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1526,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1527,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1528,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1529,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1530,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1531,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1532,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1533,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1534,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1535,
+        "location_id": 112
+    },
+    {
+        "artifact_id": 1536,
+        "location_id": 23
+    },
+    {
+        "artifact_id": 1538,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1539,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1540,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1541,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1542,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 1547,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1548,
+        "location_id": 113
+    },
+    {
+        "artifact_id": 1549,
+        "location_id": 92
+    },
+    {
+        "artifact_id": 1550,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1552,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1553,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1554,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1555,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1556,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1557,
+        "location_id": 114
+    },
+    {
+        "artifact_id": 1563,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1564,
+        "location_id": 115
+    },
+    {
+        "artifact_id": 1565,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 1566,
+        "location_id": 116
+    },
+    {
+        "artifact_id": 1568,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1569,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1571,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1572,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1577,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1578,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1579,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1580,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1582,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1583,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1584,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1585,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1586,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 1587,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1588,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1589,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1590,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1591,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1592,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1593,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1595,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 1596,
+        "location_id": 58
+    },
+    {
+        "artifact_id": 1597,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1598,
+        "location_id": 100
+    },
+    {
+        "artifact_id": 1599,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1601,
+        "location_id": 117
+    },
+    {
+        "artifact_id": 1602,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1603,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1604,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1605,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1606,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1607,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1608,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1610,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1611,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1612,
+        "location_id": 118
+    },
+    {
+        "artifact_id": 1615,
+        "location_id": 119
+    },
+    {
+        "artifact_id": 1616,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1617,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1618,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1619,
+        "location_id": 120
+    },
+    {
+        "artifact_id": 1620,
+        "location_id": 118
+    },
+    {
+        "artifact_id": 1622,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1623,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1624,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1625,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1626,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1629,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1630,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1631,
+        "location_id": 79
+    },
+    {
+        "artifact_id": 1632,
+        "location_id": 31
+    },
+    {
+        "artifact_id": 1633,
+        "location_id": 121
+    },
+    {
+        "artifact_id": 1637,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1638,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1639,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1640,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1641,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1642,
+        "location_id": 122
+    },
+    {
+        "artifact_id": 1643,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1644,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1645,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1646,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1647,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1648,
+        "location_id": 119
+    },
+    {
+        "artifact_id": 1654,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1655,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1656,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1657,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1658,
+        "location_id": 123
+    },
+    {
+        "artifact_id": 1659,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1660,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1661,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1662,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1664,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1665,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1666,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1670,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1671,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1672,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1673,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1674,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1675,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1676,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1677,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1678,
+        "location_id": 124
+    },
+    {
+        "artifact_id": 1679,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1681,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1682,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1683,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1684,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1686,
+        "location_id": 125
+    },
+    {
+        "artifact_id": 1687,
+        "location_id": 125
+    },
+    {
+        "artifact_id": 1688,
+        "location_id": 125
+    },
+    {
+        "artifact_id": 1689,
+        "location_id": 125
+    },
+    {
+        "artifact_id": 1690,
+        "location_id": 125
+    },
+    {
+        "artifact_id": 1691,
+        "location_id": 125
+    },
+    {
+        "artifact_id": 1692,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1693,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1694,
+        "location_id": 67
+    },
+    {
+        "artifact_id": 1696,
+        "location_id": 67
+    },
+    {
+        "artifact_id": 1697,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1698,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1699,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1700,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1701,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1702,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1703,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1704,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1705,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1706,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1707,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1708,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1709,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1710,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1714,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1715,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1716,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1718,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 1719,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1720,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1723,
+        "location_id": 126
+    },
+    {
+        "artifact_id": 1724,
+        "location_id": 126
+    },
+    {
+        "artifact_id": 1725,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1726,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1727,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1728,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1729,
+        "location_id": 112
+    },
+    {
+        "artifact_id": 1733,
+        "location_id": 127
+    },
+    {
+        "artifact_id": 1734,
+        "location_id": 65
+    },
+    {
+        "artifact_id": 1735,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1736,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1738,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1739,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1745,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1747,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1749,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1751,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1752,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1753,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1754,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1755,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1758,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1759,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1762,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1763,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 1764,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1766,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 1767,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1770,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1772,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1773,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1774,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1775,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1777,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 1778,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1781,
+        "location_id": 17
+    },
+    {
+        "artifact_id": 1784,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1785,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1786,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 1787,
+        "location_id": 128
+    },
+    {
+        "artifact_id": 1789,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1792,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1794,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1795,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1797,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1798,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1799,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1800,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 1801,
+        "location_id": 128
+    },
+    {
+        "artifact_id": 1802,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1803,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1804,
+        "location_id": 63
+    },
+    {
+        "artifact_id": 1805,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1807,
+        "location_id": 63
+    },
+    {
+        "artifact_id": 1808,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1809,
+        "location_id": 112
+    },
+    {
+        "artifact_id": 1810,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1811,
+        "location_id": 70
+    },
+    {
+        "artifact_id": 1812,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1820,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1824,
+        "location_id": 63
+    },
+    {
+        "artifact_id": 1833,
+        "location_id": 129
+    },
+    {
+        "artifact_id": 1836,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1842,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 1851,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1852,
+        "location_id": 130
+    },
+    {
+        "artifact_id": 1853,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1855,
+        "location_id": 128
+    },
+    {
+        "artifact_id": 1858,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1859,
+        "location_id": 128
+    },
+    {
+        "artifact_id": 1860,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 1861,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1862,
+        "location_id": 131
+    },
+    {
+        "artifact_id": 1863,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1866,
+        "location_id": 15
+    },
+    {
+        "artifact_id": 1867,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1868,
+        "location_id": 101
+    },
+    {
+        "artifact_id": 1870,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1873,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1874,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1875,
+        "location_id": 128
+    },
+    {
+        "artifact_id": 1877,
+        "location_id": 7
+    },
+    {
+        "artifact_id": 1887,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1889,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1893,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1894,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1895,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1896,
+        "location_id": 41
+    },
+    {
+        "artifact_id": 1897,
+        "location_id": 41
+    },
+    {
+        "artifact_id": 1899,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1900,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1902,
+        "location_id": 41
+    },
+    {
+        "artifact_id": 1903,
+        "location_id": 40
+    },
+    {
+        "artifact_id": 1909,
+        "location_id": 132
+    },
+    {
+        "artifact_id": 1911,
+        "location_id": 133
+    },
+    {
+        "artifact_id": 1913,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1914,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1915,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1916,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1918,
+        "location_id": 109
+    },
+    {
+        "artifact_id": 1919,
+        "location_id": 134
+    },
+    {
+        "artifact_id": 1920,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1921,
+        "location_id": 97
+    },
+    {
+        "artifact_id": 1922,
+        "location_id": 119
+    },
+    {
+        "artifact_id": 1923,
+        "location_id": 36
+    },
+    {
+        "artifact_id": 1928,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1929,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1931,
+        "location_id": 135
+    },
+    {
+        "artifact_id": 1932,
+        "location_id": 27
+    },
+    {
+        "artifact_id": 1942,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 1943,
+        "location_id": 66
+    },
+    {
+        "artifact_id": 1944,
+        "location_id": 27
+    }
+]}

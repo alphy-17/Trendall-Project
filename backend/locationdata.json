@@ -1,0 +1,542 @@
+{"Locations": [
+    {
+        "location_id": 1,
+        "location_name": "Nola "
+    },
+    {
+        "location_id": 2,
+        "location_name": "the Fusco necropolis"
+    },
+    {
+        "location_id": 3,
+        "location_name": "Palazzuolo"
+    },
+    {
+        "location_id": 4,
+        "location_name": "Gela"
+    },
+    {
+        "location_id": 5,
+        "location_name": "Monte Adranone"
+    },
+    {
+        "location_id": 6,
+        "location_name": "the Acropolis"
+    },
+    {
+        "location_id": 7,
+        "location_name": "T"
+    },
+    {
+        "location_id": 8,
+        "location_name": "Cumae"
+    },
+    {
+        "location_id": 9,
+        "location_name": "Lentini"
+    },
+    {
+        "location_id": 10,
+        "location_name": "Capua"
+    },
+    {
+        "location_id": 11,
+        "location_name": "Lipari"
+    },
+    {
+        "location_id": 12,
+        "location_name": "Dr"
+    },
+    {
+        "location_id": 13,
+        "location_name": "Locri"
+    },
+    {
+        "location_id": 14,
+        "location_name": "Locri "
+    },
+    {
+        "location_id": 15,
+        "location_name": "Nola"
+    },
+    {
+        "location_id": 16,
+        "location_name": "Viterbo"
+    },
+    {
+        "location_id": 17,
+        "location_name": "Naples"
+    },
+    {
+        "location_id": 18,
+        "location_name": "Castelcapuano"
+    },
+    {
+        "location_id": 19,
+        "location_name": "Scoglitti"
+    },
+    {
+        "location_id": 20,
+        "location_name": "Sicily"
+    },
+    {
+        "location_id": 21,
+        "location_name": "Syracuse"
+    },
+    {
+        "location_id": 22,
+        "location_name": "Selinunte"
+    },
+    {
+        "location_id": 23,
+        "location_name": "the area of the Heraion"
+    },
+    {
+        "location_id": 24,
+        "location_name": "a funerary monument"
+    },
+    {
+        "location_id": 25,
+        "location_name": "a building near the Temenos"
+    },
+    {
+        "location_id": 26,
+        "location_name": "Contrada Laghetto "
+    },
+    {
+        "location_id": 27,
+        "location_name": "C"
+    },
+    {
+        "location_id": 28,
+        "location_name": "c"
+    },
+    {
+        "location_id": 29,
+        "location_name": "Montesarchio"
+    },
+    {
+        "location_id": 30,
+        "location_name": "Moiano"
+    },
+    {
+        "location_id": 31,
+        "location_name": "Oliveto Citra"
+    },
+    {
+        "location_id": 32,
+        "location_name": "Pontecagnano"
+    },
+    {
+        "location_id": 33,
+        "location_name": "area N"
+    },
+    {
+        "location_id": 34,
+        "location_name": "Rugge"
+    },
+    {
+        "location_id": 35,
+        "location_name": "which water is dripping down"
+    },
+    {
+        "location_id": 36,
+        "location_name": "S"
+    },
+    {
+        "location_id": 37,
+        "location_name": "1"
+    },
+    {
+        "location_id": 38,
+        "location_name": "r"
+    },
+    {
+        "location_id": 39,
+        "location_name": "many fragments"
+    },
+    {
+        "location_id": 40,
+        "location_name": "Paestum"
+    },
+    {
+        "location_id": 41,
+        "location_name": "Buccino"
+    },
+    {
+        "location_id": 42,
+        "location_name": "Agropoli "
+    },
+    {
+        "location_id": 43,
+        "location_name": "Tempa Rossa di Fonte "
+    },
+    {
+        "location_id": 44,
+        "location_name": "area of Heraion "
+    },
+    {
+        "location_id": 45,
+        "location_name": "frr"
+    },
+    {
+        "location_id": 46,
+        "location_name": "the ground\n"
+    },
+    {
+        "location_id": 47,
+        "location_name": "which water is\ntrickling down"
+    },
+    {
+        "location_id": 48,
+        "location_name": "which a bird is feeding "
+    },
+    {
+        "location_id": 49,
+        "location_name": "fragments"
+    },
+    {
+        "location_id": 50,
+        "location_name": "Altavilla"
+    },
+    {
+        "location_id": 51,
+        "location_name": "Taranto"
+    },
+    {
+        "location_id": 52,
+        "location_name": "an ivy"
+    },
+    {
+        "location_id": 53,
+        "location_name": "the wreck of the Colossus"
+    },
+    {
+        "location_id": 54,
+        "location_name": "Paestum Ht"
+    },
+    {
+        "location_id": 55,
+        "location_name": "ivy"
+    },
+    {
+        "location_id": 56,
+        "location_name": "Roccadaspide"
+    },
+    {
+        "location_id": 57,
+        "location_name": "Muoio d"
+    },
+    {
+        "location_id": 58,
+        "location_name": "Spinazzo"
+    },
+    {
+        "location_id": 59,
+        "location_name": "Abella"
+    },
+    {
+        "location_id": 60,
+        "location_name": "Fratte"
+    },
+    {
+        "location_id": 61,
+        "location_name": "area of the Heraion"
+    },
+    {
+        "location_id": 62,
+        "location_name": "Altavilla "
+    },
+    {
+        "location_id": 63,
+        "location_name": "Avella "
+    },
+    {
+        "location_id": 64,
+        "location_name": "Santa Venera "
+    },
+    {
+        "location_id": 65,
+        "location_name": "Agropoli"
+    },
+    {
+        "location_id": 66,
+        "location_name": "Fuscillo "
+    },
+    {
+        "location_id": 67,
+        "location_name": "Teggiano"
+    },
+    {
+        "location_id": 68,
+        "location_name": "Avella"
+    },
+    {
+        "location_id": 69,
+        "location_name": "Roccadaspide Tempalta "
+    },
+    {
+        "location_id": 70,
+        "location_name": "Spinazzo "
+    },
+    {
+        "location_id": 71,
+        "location_name": "the Foce del Sele"
+    },
+    {
+        "location_id": 72,
+        "location_name": "Gadara in Jordan\n"
+    },
+    {
+        "location_id": 73,
+        "location_name": "Grotta di Pertosa "
+    },
+    {
+        "location_id": 74,
+        "location_name": "Monte Saraceno"
+    },
+    {
+        "location_id": 75,
+        "location_name": "the area south of the Basilica"
+    },
+    {
+        "location_id": 76,
+        "location_name": "Temple B in the Temenos"
+    },
+    {
+        "location_id": 77,
+        "location_name": "the area west of Loc"
+    },
+    {
+        "location_id": 78,
+        "location_name": "the area north of Loc"
+    },
+    {
+        "location_id": 79,
+        "location_name": "Tempa del Prete "
+    },
+    {
+        "location_id": 80,
+        "location_name": "Fravita "
+    },
+    {
+        "location_id": 81,
+        "location_name": "Matinelle "
+    },
+    {
+        "location_id": 82,
+        "location_name": "Valle Pupina"
+    },
+    {
+        "location_id": 83,
+        "location_name": "Fuscillo"
+    },
+    {
+        "location_id": 84,
+        "location_name": "Salerno"
+    },
+    {
+        "location_id": 85,
+        "location_name": "Badolato "
+    },
+    {
+        "location_id": 86,
+        "location_name": "Oliveto Gitra"
+    },
+    {
+        "location_id": 87,
+        "location_name": "Arenosola"
+    },
+    {
+        "location_id": 88,
+        "location_name": "Eboli "
+    },
+    {
+        "location_id": 89,
+        "location_name": "Pontecagnano "
+    },
+    {
+        "location_id": 90,
+        "location_name": "Calvi"
+    },
+    {
+        "location_id": 91,
+        "location_name": "Fasano"
+    },
+    {
+        "location_id": 92,
+        "location_name": "Gromola "
+    },
+    {
+        "location_id": 93,
+        "location_name": "Tepedino"
+    },
+    {
+        "location_id": 94,
+        "location_name": "Ruvo"
+    },
+    {
+        "location_id": 95,
+        "location_name": "the same tomb as the lebes gamikos in La Trobe University"
+    },
+    {
+        "location_id": 96,
+        "location_name": "triple flower"
+    },
+    {
+        "location_id": 97,
+        "location_name": "same area"
+    },
+    {
+        "location_id": 98,
+        "location_name": "Capaccio"
+    },
+    {
+        "location_id": 99,
+        "location_name": "same area as preceding"
+    },
+    {
+        "location_id": 100,
+        "location_name": "same tomb"
+    },
+    {
+        "location_id": 101,
+        "location_name": "Capaccio "
+    },
+    {
+        "location_id": 102,
+        "location_name": "Foce del Sele"
+    },
+    {
+        "location_id": 103,
+        "location_name": "Stregara "
+    },
+    {
+        "location_id": 104,
+        "location_name": "Roccadaspide "
+    },
+    {
+        "location_id": 105,
+        "location_name": "the Basilicata"
+    },
+    {
+        "location_id": 106,
+        "location_name": "a photo of the obverse"
+    },
+    {
+        "location_id": 107,
+        "location_name": "a photograph of the obverse"
+    },
+    {
+        "location_id": 108,
+        "location_name": "the treatment of the seated woma n and the heads\nbelow the handles "
+    },
+    {
+        "location_id": 109,
+        "location_name": "the Heraion"
+    },
+    {
+        "location_id": 110,
+        "location_name": "Castellammare"
+    },
+    {
+        "location_id": 111,
+        "location_name": "Motya"
+    },
+    {
+        "location_id": 112,
+        "location_name": "same site"
+    },
+    {
+        "location_id": 113,
+        "location_name": "Oliveto Citra "
+    },
+    {
+        "location_id": 114,
+        "location_name": "Temp a del Prete "
+    },
+    {
+        "location_id": 115,
+        "location_name": "Tricarico "
+    },
+    {
+        "location_id": 116,
+        "location_name": "Paestum "
+    },
+    {
+        "location_id": 117,
+        "location_name": "a box"
+    },
+    {
+        "location_id": 118,
+        "location_name": "Heraion"
+    },
+    {
+        "location_id": 119,
+        "location_name": "the area of the Basilica"
+    },
+    {
+        "location_id": 120,
+        "location_name": "same area "
+    },
+    {
+        "location_id": 121,
+        "location_name": "Eboli"
+    },
+    {
+        "location_id": 122,
+        "location_name": "Albanella "
+    },
+    {
+        "location_id": 123,
+        "location_name": "the Basilica "
+    },
+    {
+        "location_id": 124,
+        "location_name": "C Spina "
+    },
+    {
+        "location_id": 125,
+        "location_name": "the Agora"
+    },
+    {
+        "location_id": 126,
+        "location_name": "Altavilla Silentina"
+    },
+    {
+        "location_id": 127,
+        "location_name": "the description in the list of vases on display at the\nBasel Antiquities Fair in April 1987"
+    },
+    {
+        "location_id": 128,
+        "location_name": "the area of the Porta Aurea "
+    },
+    {
+        "location_id": 129,
+        "location_name": "the\nillustration in the catalogue"
+    },
+    {
+        "location_id": 130,
+        "location_name": "woma n with phiale"
+    },
+    {
+        "location_id": 131,
+        "location_name": "the same tomb"
+    },
+    {
+        "location_id": 132,
+        "location_name": "above either side of the\nobverse"
+    },
+    {
+        "location_id": 133,
+        "location_name": "the rendering of the breasts "
+    },
+    {
+        "location_id": 134,
+        "location_name": "the same area"
+    },
+    {
+        "location_id": 135,
+        "location_name": "Castellabate"
+    }
+]}

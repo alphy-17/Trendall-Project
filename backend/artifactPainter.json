@@ -1,0 +1,7778 @@
+{"Artifact_Painter": [
+    {
+        "artifact_id": 1,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 2,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 3,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 4,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 5,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 6,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 7,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 8,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 9,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 10,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 11,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 12,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 13,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 14,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 15,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 16,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 17,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 18,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 19,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 20,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 21,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 22,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 23,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 24,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 25,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 26,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 27,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 28,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 29,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 30,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 31,
+        "painter_id": 1
+    },
+    {
+        "artifact_id": 32,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 33,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 34,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 35,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 36,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 37,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 38,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 39,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 40,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 41,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 42,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 43,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 44,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 45,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 46,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 47,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 48,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 49,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 50,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 51,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 52,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 53,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 54,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 55,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 56,
+        "painter_id": 2
+    },
+    {
+        "artifact_id": 57,
+        "painter_id": 3
+    },
+    {
+        "artifact_id": 58,
+        "painter_id": 3
+    },
+    {
+        "artifact_id": 59,
+        "painter_id": 3
+    },
+    {
+        "artifact_id": 60,
+        "painter_id": 3
+    },
+    {
+        "artifact_id": 61,
+        "painter_id": 4
+    },
+    {
+        "artifact_id": 62,
+        "painter_id": 4
+    },
+    {
+        "artifact_id": 63,
+        "painter_id": 4
+    },
+    {
+        "artifact_id": 64,
+        "painter_id": 4
+    },
+    {
+        "artifact_id": 65,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 66,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 67,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 68,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 69,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 70,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 71,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 72,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 73,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 74,
+        "painter_id": 5
+    },
+    {
+        "artifact_id": 75,
+        "painter_id": 6
+    },
+    {
+        "artifact_id": 76,
+        "painter_id": 6
+    },
+    {
+        "artifact_id": 77,
+        "painter_id": 6
+    },
+    {
+        "artifact_id": 78,
+        "painter_id": 6
+    },
+    {
+        "artifact_id": 79,
+        "painter_id": 6
+    },
+    {
+        "artifact_id": 80,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 81,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 82,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 83,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 84,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 85,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 86,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 87,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 88,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 89,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 90,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 91,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 92,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 93,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 94,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 95,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 96,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 97,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 98,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 99,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 100,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 101,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 102,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 103,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 104,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 105,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 106,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 107,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 108,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 109,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 110,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 111,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 112,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 113,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 114,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 115,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 116,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 117,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 118,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 119,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 120,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 121,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 122,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 123,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 124,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 125,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 126,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 127,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 128,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 129,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 130,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 131,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 132,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 133,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 134,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 135,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 136,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 137,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 138,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 139,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 140,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 141,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 142,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 143,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 144,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 145,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 146,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 147,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 148,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 149,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 150,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 151,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 152,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 153,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 154,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 155,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 156,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 157,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 158,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 159,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 160,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 161,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 162,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 163,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 164,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 165,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 166,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 167,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 168,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 169,
+        "painter_id": 7
+    },
+    {
+        "artifact_id": 170,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 171,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 172,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 173,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 174,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 175,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 176,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 177,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 178,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 179,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 180,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 181,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 182,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 183,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 184,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 185,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 186,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 187,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 188,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 189,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 190,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 191,
+        "painter_id": 8
+    },
+    {
+        "artifact_id": 192,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 193,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 194,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 195,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 196,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 197,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 198,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 199,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 200,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 201,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 202,
+        "painter_id": 9
+    },
+    {
+        "artifact_id": 203,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 204,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 205,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 206,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 207,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 208,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 209,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 210,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 211,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 212,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 213,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 214,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 215,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 216,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 217,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 218,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 219,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 220,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 221,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 222,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 223,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 224,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 225,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 226,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 227,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 228,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 229,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 230,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 231,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 232,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 233,
+        "painter_id": 10
+    },
+    {
+        "artifact_id": 234,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 235,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 236,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 237,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 238,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 239,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 240,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 241,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 242,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 243,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 244,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 245,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 246,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 247,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 248,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 249,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 250,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 251,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 252,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 253,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 254,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 255,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 256,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 257,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 258,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 259,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 260,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 261,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 262,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 263,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 264,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 265,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 266,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 267,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 268,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 269,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 270,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 271,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 272,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 273,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 274,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 275,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 276,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 277,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 278,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 279,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 280,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 281,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 282,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 283,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 284,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 285,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 286,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 287,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 288,
+        "painter_id": 11
+    },
+    {
+        "artifact_id": 289,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 290,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 291,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 292,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 293,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 294,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 295,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 296,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 297,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 298,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 299,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 300,
+        "painter_id": 12
+    },
+    {
+        "artifact_id": 301,
+        "painter_id": 13
+    },
+    {
+        "artifact_id": 302,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 303,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 304,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 305,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 306,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 307,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 308,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 309,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 310,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 311,
+        "painter_id": 14
+    },
+    {
+        "artifact_id": 312,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 313,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 314,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 315,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 316,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 317,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 318,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 319,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 320,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 321,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 322,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 323,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 324,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 325,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 326,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 327,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 328,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 329,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 330,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 331,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 332,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 333,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 334,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 335,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 336,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 337,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 338,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 339,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 340,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 341,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 342,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 343,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 344,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 345,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 346,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 347,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 348,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 349,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 350,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 351,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 352,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 353,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 354,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 355,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 356,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 357,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 358,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 359,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 360,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 361,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 362,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 363,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 364,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 365,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 366,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 367,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 368,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 369,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 370,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 371,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 372,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 373,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 374,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 375,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 376,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 377,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 378,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 379,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 380,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 381,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 382,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 383,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 384,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 385,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 386,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 387,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 388,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 389,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 390,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 391,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 392,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 393,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 394,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 395,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 396,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 397,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 398,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 399,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 400,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 401,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 402,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 403,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 404,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 405,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 406,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 407,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 408,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 409,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 410,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 411,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 412,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 413,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 414,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 415,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 416,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 417,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 418,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 419,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 420,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 421,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 422,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 423,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 424,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 425,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 426,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 427,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 428,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 429,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 430,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 431,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 432,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 433,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 434,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 435,
+        "painter_id": 15
+    },
+    {
+        "artifact_id": 436,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 437,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 438,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 439,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 440,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 441,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 442,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 443,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 444,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 445,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 446,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 447,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 448,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 449,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 450,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 451,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 452,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 453,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 454,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 455,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 456,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 457,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 458,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 459,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 460,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 461,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 462,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 463,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 464,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 465,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 466,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 467,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 468,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 469,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 470,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 471,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 472,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 473,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 474,
+        "painter_id": 16
+    },
+    {
+        "artifact_id": 475,
+        "painter_id": 17
+    },
+    {
+        "artifact_id": 476,
+        "painter_id": 17
+    },
+    {
+        "artifact_id": 477,
+        "painter_id": 18
+    },
+    {
+        "artifact_id": 478,
+        "painter_id": 18
+    },
+    {
+        "artifact_id": 479,
+        "painter_id": 18
+    },
+    {
+        "artifact_id": 480,
+        "painter_id": 19
+    },
+    {
+        "artifact_id": 481,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 482,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 483,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 484,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 485,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 486,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 487,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 488,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 489,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 490,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 491,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 492,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 493,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 494,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 495,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 496,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 497,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 498,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 499,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 500,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 501,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 502,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 503,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 504,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 505,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 506,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 507,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 508,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 509,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 510,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 511,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 512,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 513,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 514,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 515,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 516,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 517,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 518,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 519,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 520,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 521,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 522,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 523,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 524,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 525,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 526,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 527,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 528,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 529,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 530,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 531,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 532,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 533,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 534,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 535,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 536,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 537,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 538,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 539,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 540,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 541,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 542,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 543,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 544,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 545,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 546,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 547,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 548,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 549,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 550,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 551,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 552,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 553,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 554,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 555,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 556,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 557,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 558,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 559,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 560,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 561,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 562,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 563,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 564,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 565,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 566,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 567,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 568,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 569,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 570,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 571,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 572,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 573,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 574,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 575,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 576,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 577,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 578,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 579,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 580,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 581,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 582,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 583,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 584,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 585,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 586,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 587,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 588,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 589,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 590,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 591,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 592,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 593,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 594,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 595,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 596,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 597,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 598,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 599,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 600,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 601,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 602,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 603,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 604,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 605,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 606,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 607,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 608,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 609,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 610,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 611,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 612,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 613,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 614,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 615,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 616,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 617,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 618,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 619,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 620,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 621,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 622,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 623,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 624,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 625,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 626,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 627,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 628,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 629,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 630,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 631,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 632,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 633,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 634,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 635,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 636,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 637,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 638,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 639,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 640,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 641,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 642,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 643,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 644,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 645,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 646,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 647,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 648,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 649,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 650,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 651,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 652,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 653,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 654,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 655,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 656,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 657,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 658,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 659,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 660,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 661,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 662,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 663,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 664,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 665,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 666,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 667,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 668,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 669,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 670,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 671,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 672,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 673,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 674,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 675,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 676,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 677,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 678,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 679,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 680,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 681,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 682,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 683,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 684,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 685,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 686,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 687,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 688,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 689,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 690,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 691,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 692,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 693,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 694,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 695,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 696,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 697,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 698,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 699,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 700,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 701,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 702,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 703,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 704,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 705,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 706,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 707,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 708,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 709,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 710,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 711,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 712,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 713,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 714,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 715,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 716,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 717,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 718,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 719,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 720,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 721,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 722,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 723,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 724,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 725,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 726,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 727,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 728,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 729,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 730,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 731,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 732,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 733,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 734,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 735,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 736,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 737,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 738,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 739,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 740,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 741,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 742,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 743,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 744,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 745,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 746,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 747,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 748,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 749,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 750,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 751,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 752,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 753,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 754,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 755,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 756,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 757,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 758,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 759,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 760,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 761,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 762,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 763,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 764,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 765,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 766,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 767,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 768,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 769,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 770,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 771,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 772,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 773,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 774,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 775,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 776,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 777,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 778,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 779,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 780,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 781,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 782,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 783,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 784,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 785,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 786,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 787,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 788,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 789,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 790,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 791,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 792,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 793,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 794,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 795,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 796,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 797,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 798,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 799,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 800,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 801,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 802,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 803,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 804,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 805,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 806,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 807,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 808,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 809,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 810,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 811,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 812,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 813,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 814,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 815,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 816,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 817,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 818,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 819,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 820,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 821,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 822,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 823,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 824,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 825,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 826,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 827,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 828,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 829,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 830,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 831,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 832,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 833,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 834,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 835,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 836,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 837,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 838,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 839,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 840,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 841,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 842,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 843,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 844,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 845,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 846,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 847,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 848,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 849,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 850,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 851,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 852,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 853,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 854,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 855,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 856,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 857,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 858,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 859,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 860,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 861,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 862,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 863,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 864,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 865,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 866,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 867,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 868,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 869,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 870,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 871,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 872,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 873,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 874,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 875,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 876,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 877,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 878,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 879,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 880,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 881,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 882,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 883,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 884,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 885,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 886,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 887,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 888,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 889,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 890,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 891,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 892,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 893,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 894,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 895,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 896,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 897,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 898,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 899,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 900,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 901,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 902,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 903,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 904,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 905,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 906,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 907,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 908,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 909,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 910,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 911,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 912,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 913,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 914,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 915,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 916,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 917,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 918,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 919,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 920,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 921,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 922,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 923,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 924,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 925,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 926,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 927,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 928,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 929,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 930,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 931,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 932,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 933,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 934,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 935,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 936,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 937,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 938,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 939,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 940,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 941,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 942,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 943,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 944,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 945,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 946,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 947,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 948,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 949,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 950,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 951,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 952,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 953,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 954,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 955,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 956,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 957,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 958,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 959,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 960,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 961,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 962,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 963,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 964,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 965,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 966,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 967,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 968,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 969,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 970,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 971,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 972,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 973,
+        "painter_id": 20
+    },
+    {
+        "artifact_id": 974,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 975,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 976,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 977,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 978,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 979,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 980,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 981,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 982,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 983,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 984,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 985,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 986,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 987,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 988,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 989,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 990,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 991,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 992,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 993,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 994,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 995,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 996,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 997,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 998,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 999,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1000,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1001,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1002,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1003,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1004,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1005,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1006,
+        "painter_id": 21
+    },
+    {
+        "artifact_id": 1007,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1008,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1009,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1010,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1011,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1012,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1013,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1014,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1015,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1016,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1017,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1018,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1019,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1020,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1021,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1022,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1023,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1024,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1025,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1026,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1027,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1028,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1029,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1030,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1031,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1032,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1033,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1034,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1035,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1036,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1037,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1038,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1039,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1040,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1041,
+        "painter_id": 22
+    },
+    {
+        "artifact_id": 1042,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1043,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1044,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1045,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1046,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1047,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1048,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1049,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1050,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1051,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1052,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1053,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1054,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1055,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1056,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1057,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1058,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1059,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1060,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1061,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1062,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1063,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1064,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1065,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1066,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1067,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1068,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1069,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1070,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1071,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1072,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1073,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1074,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1075,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1076,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1077,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1078,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1079,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1080,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1081,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1082,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1083,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1084,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1085,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1086,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1087,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1088,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1089,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1090,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1091,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1092,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1093,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1094,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1095,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1096,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1097,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1098,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1099,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1100,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1101,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1102,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1103,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1104,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1105,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1106,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1107,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1108,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1109,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1110,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1111,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1112,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1113,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1114,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1115,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1116,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1117,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1118,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1119,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1120,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1121,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1122,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1123,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1124,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1125,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1126,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1127,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1128,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1129,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1130,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1131,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1132,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1133,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1134,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1135,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1136,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1137,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1138,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1139,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1140,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1141,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1142,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1143,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1144,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1145,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1146,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1147,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1148,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1149,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1150,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1151,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1152,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1153,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1154,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1155,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1156,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1157,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1158,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1159,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1160,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1161,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1162,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1163,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1164,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1165,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1166,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1167,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1168,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1169,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1170,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1171,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1172,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1173,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1174,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1175,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1176,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1177,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1178,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1179,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1180,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1181,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1182,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1183,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1184,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1185,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1186,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1187,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1188,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1189,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1190,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1191,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1192,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1193,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1194,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1195,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1196,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1197,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1198,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1199,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1200,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1201,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1202,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1203,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1204,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1205,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1206,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1207,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1208,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1209,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1210,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1211,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1212,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1213,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1214,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1215,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1216,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1217,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1218,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1219,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1220,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1221,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1222,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1223,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1224,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1225,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1226,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1227,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1228,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1229,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1230,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1231,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1232,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1233,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1234,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1235,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1236,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1237,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1238,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1239,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1240,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1241,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1242,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1243,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1244,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1245,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1246,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1247,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1248,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1249,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1250,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1251,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1252,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1253,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1254,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1255,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1256,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1257,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1258,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1259,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1260,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1261,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1262,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1263,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1264,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1265,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1266,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1267,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1268,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1269,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1270,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1271,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1272,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1273,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1274,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1275,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1276,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1277,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1278,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1279,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1280,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1281,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1282,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1283,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1284,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1285,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1286,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1287,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1288,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1289,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1290,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1291,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1292,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1293,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1294,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1295,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1296,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1297,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1298,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1299,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1300,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1301,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1302,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1303,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1304,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1305,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1306,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1307,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1308,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1309,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1310,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1311,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1312,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1313,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1314,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1315,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1316,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1317,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1318,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1319,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1320,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1321,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1322,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1323,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1324,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1325,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1326,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1327,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1328,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1329,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1330,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1331,
+        "painter_id": 23
+    },
+    {
+        "artifact_id": 1332,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1333,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1334,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1335,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1336,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1337,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1338,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1339,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1340,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1341,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1342,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1343,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1344,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1345,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1346,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1347,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1348,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1349,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1350,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1351,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1352,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1353,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1354,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1355,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1356,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1357,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1358,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1359,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1360,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1361,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1362,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1363,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1364,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1365,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1366,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1367,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1368,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1369,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1370,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1371,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1372,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1373,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1374,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1375,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1376,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1377,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1378,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1379,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1380,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1381,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1382,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1383,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1384,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1385,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1386,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1387,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1388,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1389,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1390,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1391,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1392,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1393,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1394,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1395,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1396,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1397,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1398,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1399,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1400,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1401,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1402,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1403,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1404,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1405,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1406,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1407,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1408,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1409,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1410,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1411,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1412,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1413,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1414,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1415,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1416,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1417,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1418,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1419,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1420,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1421,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1422,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1423,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1424,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1425,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1426,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1427,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1428,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1429,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1430,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1431,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1432,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1433,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1434,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1435,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1436,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1437,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1438,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1439,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1440,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1441,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1442,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1443,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1444,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1445,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1446,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1447,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1448,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1449,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1450,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1451,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1452,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1453,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1454,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1455,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1456,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1457,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1458,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1459,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1460,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1461,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1462,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1463,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1464,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1465,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1466,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1467,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1468,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1469,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1470,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1471,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1472,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1473,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1474,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1475,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1476,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1477,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1478,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1479,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1480,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1481,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1482,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1483,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1484,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1485,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1486,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1487,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1488,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1489,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1490,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1491,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1492,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1493,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1494,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1495,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1496,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1497,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1498,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1499,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1500,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1501,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1502,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1503,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1504,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1505,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1506,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1507,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1508,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1509,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1510,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1511,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1512,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1513,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1514,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1515,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1516,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1517,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1518,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1519,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1520,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1521,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1522,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1523,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1524,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1525,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1526,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1527,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1528,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1529,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1530,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1531,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1532,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1533,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1534,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1535,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1536,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1537,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1538,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1539,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1540,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1541,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1542,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1543,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1544,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1545,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1546,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1547,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1548,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1549,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1550,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1551,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1552,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1553,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1554,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1555,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1556,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1557,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1558,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1559,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1560,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1561,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1562,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1563,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1564,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1565,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1566,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1567,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1568,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1569,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1570,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1571,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1572,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1573,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1574,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1575,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1576,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1577,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1578,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1579,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1580,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1581,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1582,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1583,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1584,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1585,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1586,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1587,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1588,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1589,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1590,
+        "painter_id": 24
+    },
+    {
+        "artifact_id": 1591,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1592,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1593,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1594,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1595,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1596,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1597,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1598,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1599,
+        "painter_id": 25
+    },
+    {
+        "artifact_id": 1600,
+        "painter_id": 26
+    },
+    {
+        "artifact_id": 1601,
+        "painter_id": 26
+    },
+    {
+        "artifact_id": 1602,
+        "painter_id": 26
+    },
+    {
+        "artifact_id": 1603,
+        "painter_id": 26
+    },
+    {
+        "artifact_id": 1604,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1605,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1606,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1607,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1608,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1609,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1610,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1611,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1612,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1613,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1614,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1615,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1616,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1617,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1618,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1619,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1620,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1621,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1622,
+        "painter_id": 27
+    },
+    {
+        "artifact_id": 1623,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1624,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1625,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1626,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1627,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1628,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1629,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1630,
+        "painter_id": 28
+    },
+    {
+        "artifact_id": 1631,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1632,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1633,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1634,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1635,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1636,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1637,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1638,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1639,
+        "painter_id": 29
+    },
+    {
+        "artifact_id": 1640,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1641,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1642,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1643,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1644,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1645,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1646,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1647,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1648,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1649,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1650,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1651,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1652,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1653,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1654,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1655,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1656,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1657,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1658,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1659,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1660,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1661,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1662,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1663,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1664,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1665,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1666,
+        "painter_id": 30
+    },
+    {
+        "artifact_id": 1667,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1668,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1669,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1670,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1671,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1672,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1673,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1674,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1675,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1676,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1677,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1678,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1679,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1680,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1681,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1682,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1683,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1684,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1685,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1686,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1687,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1688,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1689,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1690,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1691,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1692,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1693,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1694,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1695,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1696,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1697,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1698,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1699,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1700,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1701,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1702,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1703,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1704,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1705,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1706,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1707,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1708,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1709,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1710,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1711,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1712,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1713,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1714,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1715,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1716,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1717,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1718,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1719,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1720,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1721,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1722,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1723,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1724,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1725,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1726,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1727,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1728,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1729,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1730,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1731,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1732,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1733,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1734,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1735,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1736,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1737,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1738,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1739,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1740,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1741,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1742,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1743,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1744,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1745,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1746,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1747,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1748,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1749,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1750,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1751,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1752,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1753,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1754,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1755,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1756,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1757,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1758,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1759,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1760,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1761,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1762,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1763,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1764,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1765,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1766,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1767,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1768,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1769,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1770,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1771,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1772,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1773,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1774,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1775,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1776,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1777,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1778,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1779,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1780,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1781,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1782,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1783,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1784,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1785,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1786,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1787,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1788,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1789,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1790,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1791,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1792,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1793,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1794,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1795,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1796,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1797,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1798,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1799,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1800,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1801,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1802,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1803,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1804,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1805,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1806,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1807,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1808,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1809,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1810,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1811,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1812,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1813,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1814,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1815,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1816,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1817,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1818,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1819,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1820,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1821,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1822,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1823,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1824,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1825,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1826,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1827,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1828,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1829,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1830,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1831,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1832,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1833,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1834,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1835,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1836,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1837,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1838,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1839,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1840,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1841,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1842,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1843,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1844,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1845,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1846,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1847,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1848,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1849,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1850,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1851,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1852,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1853,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1854,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1855,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1856,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1857,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1858,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1859,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1860,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1861,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1862,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1863,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1864,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1865,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1866,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1867,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1868,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1869,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1870,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1871,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1872,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1873,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1874,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1875,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1876,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1877,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1878,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1879,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1880,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1881,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1882,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1883,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1884,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1885,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1886,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1887,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1888,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1889,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1890,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1891,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1892,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1893,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1894,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1895,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1896,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1897,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1898,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1899,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1900,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1901,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1902,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1903,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1904,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1905,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1906,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1907,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1908,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1909,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1910,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1911,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1912,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1913,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1914,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1915,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1916,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1917,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1918,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1919,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1920,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1921,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1922,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1923,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1924,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1925,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1926,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1927,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1928,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1929,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1930,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1931,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1932,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1933,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1934,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1935,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1936,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1937,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1938,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1939,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1940,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1941,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1942,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1943,
+        "painter_id": 31
+    },
+    {
+        "artifact_id": 1944,
+        "painter_id": 31
+    }
+]}

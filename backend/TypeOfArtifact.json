@@ -1,0 +1,200 @@
+{
+    "TypeOfArtifact": [
+        {
+            "artifact_type_id": 1,
+            "artifact_type_name": "Pelikai"
+        },
+        {
+            "artifact_type_id": 2,
+            "artifact_type_name": "Calyx-kraters"
+        },
+        {
+            "artifact_type_id": 3,
+            "artifact_type_name": "Squat lekythos"
+        },
+        {
+            "artifact_type_id": 4,
+            "artifact_type_name": "Calyx-krater"
+        },
+        {
+            "artifact_type_id": 5,
+            "artifact_type_name": "Oenochoai (shape 3)"
+        },
+        {
+            "artifact_type_id": 6,
+            "artifact_type_name": "Skyphoid pyxides"
+        },
+        {
+            "artifact_type_id": 7,
+            "artifact_type_name": "Hydria"
+        },
+        {
+            "artifact_type_id": 8,
+            "artifact_type_name": "Lekanis lids"
+        },
+        {
+            "artifact_type_id": 9,
+            "artifact_type_name": "Lepaste (with five internal sections)"
+        },
+        {
+            "artifact_type_id": 10,
+            "artifact_type_name": "Bell-kraters"
+        },
+        {
+            "artifact_type_id": 11,
+            "artifact_type_name": "Rhyton (griffin-head)"
+        },
+        {
+            "artifact_type_id": 12,
+            "artifact_type_name": "Fragments (of calyx-krater)"
+        },
+        {
+            "artifact_type_id": 13,
+            "artifact_type_name": "Fragment (of a neck-amphora)"
+        },
+        {
+            "artifact_type_id": 14,
+            "artifact_type_name": "Fragments"
+        },
+        {
+            "artifact_type_id": 15,
+            "artifact_type_name": "Neck-amphorae"
+        },
+        {
+            "artifact_type_id": 16,
+            "artifact_type_name": "Hydriai"
+        },
+        {
+            "artifact_type_id": 17,
+            "artifact_type_name": "Neck-amphorare"
+        },
+        {
+            "artifact_type_id": 18,
+            "artifact_type_name": "Lebetes gamikoi"
+        },
+        {
+            "artifact_type_id": 19,
+            "artifact_type_name": "Foot of calyx-krater"
+        },
+        {
+            "artifact_type_id": 20,
+            "artifact_type_name": "Volute-krater"
+        },
+        {
+            "artifact_type_id": 21,
+            "artifact_type_name": "Lekanis lid"
+        },
+        {
+            "artifact_type_id": 22,
+            "artifact_type_name": "Squat lekythoi"
+        },
+        {
+            "artifact_type_id": 23,
+            "artifact_type_name": "Lekanides"
+        },
+        {
+            "artifact_type_id": 24,
+            "artifact_type_name": "Oenochoe (shape 10)"
+        },
+        {
+            "artifact_type_id": 25,
+            "artifact_type_name": "Kylikes"
+        },
+        {
+            "artifact_type_id": 26,
+            "artifact_type_name": "Neck-amphora"
+        },
+        {
+            "artifact_type_id": 27,
+            "artifact_type_name": "Kylix"
+        },
+        {
+            "artifact_type_id": 28,
+            "artifact_type_name": "Calyx-kraters (fragmentary)"
+        },
+        {
+            "artifact_type_id": 29,
+            "artifact_type_name": "Phiale"
+        },
+        {
+            "artifact_type_id": 30,
+            "artifact_type_name": "Bell-krater"
+        },
+        {
+            "artifact_type_id": 31,
+            "artifact_type_name": "Neck-amphora (with twisted handles)"
+        },
+        {
+            "artifact_type_id": 32,
+            "artifact_type_name": "Lebes gamikos"
+        },
+        {
+            "artifact_type_id": 33,
+            "artifact_type_name": "Pelike"
+        },
+        {
+            "artifact_type_id": 34,
+            "artifact_type_name": "Fish-plates"
+        },
+        {
+            "artifact_type_id": 35,
+            "artifact_type_name": "Neck-amphora (with twisted handles)\n"
+        },
+        {
+            "artifact_type_id": 36,
+            "artifact_type_name": "Neck-amphora (fragment)"
+        },
+        {
+            "artifact_type_id": 37,
+            "artifact_type_name": "Skyphoi"
+        },
+        {
+            "artifact_type_id": 38,
+            "artifact_type_name": "Stemless cups"
+        },
+        {
+            "artifact_type_id": 39,
+            "artifact_type_name": "Cup"
+        },
+        {
+            "artifact_type_id": 40,
+            "artifact_type_name": "Lepaste"
+        },
+        {
+            "artifact_type_id": 41,
+            "artifact_type_name": "Fish plates"
+        },
+        {
+            "artifact_type_id": 42,
+            "artifact_type_name": "Lekanis"
+        },
+        {
+            "artifact_type_id": 43,
+            "artifact_type_name": "Bottles"
+        },
+        {
+            "artifact_type_id": 44,
+            "artifact_type_name": "Plate"
+        },
+        {
+            "artifact_type_id": 45,
+            "artifact_type_name": "Skyphos"
+        },
+        {
+            "artifact_type_id": 46,
+            "artifact_type_name": "Stamnoid lebes"
+        },
+        {
+            "artifact_type_id": 47,
+            "artifact_type_name": "Volute-kraters"
+        },
+        {
+            "artifact_type_id": 48,
+            "artifact_type_name": "Alabastra"
+        },
+        {
+            "artifact_type_id": 49,
+            "artifact_type_name": "Skyphos (fragment)"
+        }
+    ]
+}

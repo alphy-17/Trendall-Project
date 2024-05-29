@@ -1,0 +1,4626 @@
+{"Collection": [
+    {
+        "collection_id": 1,
+        "collection_name": "29\nOnce Los Angeles Market"
+    },
+    {
+        "collection_id": 2,
+        "collection_name": "30\nSan Simeon 5426 (SSW 9847)"
+    },
+    {
+        "collection_id": 3,
+        "collection_name": "33\nLouvre G 517"
+    },
+    {
+        "collection_id": 4,
+        "collection_name": "35\nBasel"
+    },
+    {
+        "collection_id": 5,
+        "collection_name": "36\nMainz"
+    },
+    {
+        "collection_id": 6,
+        "collection_name": "38\nUdine 1538"
+    },
+    {
+        "collection_id": 7,
+        "collection_name": "39\nVatican U52 (inv. 18000)"
+    },
+    {
+        "collection_id": 8,
+        "collection_name": "1\nSyracuse 36334"
+    },
+    {
+        "collection_id": 9,
+        "collection_name": "2\nWest Berlin F 3296"
+    },
+    {
+        "collection_id": 10,
+        "collection_name": "3\nPalermo 2198 (old no. 3480)"
+    },
+    {
+        "collection_id": 11,
+        "collection_name": "5\nVienna 986"
+    },
+    {
+        "collection_id": 12,
+        "collection_name": "6\nMadrid 11026 (L. 388)"
+    },
+    {
+        "collection_id": 13,
+        "collection_name": "8\nSyracuse 36319"
+    },
+    {
+        "collection_id": 14,
+        "collection_name": "10\nLouvre K 249"
+    },
+    {
+        "collection_id": 15,
+        "collection_name": "11\nVoronezh (ex Dorpat 109)"
+    },
+    {
+        "collection_id": 16,
+        "collection_name": "12\nGela"
+    },
+    {
+        "collection_id": 17,
+        "collection_name": "13\nLipari inv"
+    },
+    {
+        "collection_id": 18,
+        "collection_name": "16\nLouvre K 234"
+    },
+    {
+        "collection_id": 19,
+        "collection_name": "17\nLouvre K 237"
+    },
+    {
+        "collection_id": 20,
+        "collection_name": "18\nNaples 2097 (inv. 81465)"
+    },
+    {
+        "collection_id": 21,
+        "collection_name": "19\nOnce Deepdene"
+    },
+    {
+        "collection_id": 22,
+        "collection_name": "20\nMainz"
+    },
+    {
+        "collection_id": 23,
+        "collection_name": "24\nNaples"
+    },
+    {
+        "collection_id": 24,
+        "collection_name": "26\nOdessa 23092"
+    },
+    {
+        "collection_id": 25,
+        "collection_name": "41\nWarsaw 147300"
+    },
+    {
+        "collection_id": 26,
+        "collection_name": "42\nMadrid 32653 (ex Prado 120)"
+    },
+    {
+        "collection_id": 27,
+        "collection_name": "43\nSyracuse 47102"
+    },
+    {
+        "collection_id": 28,
+        "collection_name": "46\nLipari 6814"
+    },
+    {
+        "collection_id": 29,
+        "collection_name": "47\nRagusa"
+    },
+    {
+        "collection_id": 30,
+        "collection_name": "50\nOnce Nocera"
+    },
+    {
+        "collection_id": 31,
+        "collection_name": "52\nGela 298"
+    },
+    {
+        "collection_id": 32,
+        "collection_name": "53\nNaples"
+    },
+    {
+        "collection_id": 33,
+        "collection_name": "71\nBologna 437"
+    },
+    {
+        "collection_id": 34,
+        "collection_name": "73\nBologna 491"
+    },
+    {
+        "collection_id": 35,
+        "collection_name": "74\nTischbein 134"
+    },
+    {
+        "collection_id": 36,
+        "collection_name": "55\nCefalh 8"
+    },
+    {
+        "collection_id": 37,
+        "collection_name": "56\nBari"
+    },
+    {
+        "collection_id": 38,
+        "collection_name": "57\nBaranello 203"
+    },
+    {
+        "collection_id": 39,
+        "collection_name": "69\nBerlin F2960"
+    },
+    {
+        "collection_id": 40,
+        "collection_name": "65\nReggio Cal"
+    },
+    {
+        "collection_id": 41,
+        "collection_name": "77\nOnce Zurich"
+    },
+    {
+        "collection_id": 42,
+        "collection_name": "78\nNaples 147324"
+    },
+    {
+        "collection_id": 43,
+        "collection_name": "87\nNaples 146775"
+    },
+    {
+        "collection_id": 44,
+        "collection_name": "84\nSyracuse 14625"
+    },
+    {
+        "collection_id": 45,
+        "collection_name": "103\nSyracuse 29966"
+    },
+    {
+        "collection_id": 46,
+        "collection_name": "6\nPaestum 6455"
+    },
+    {
+        "collection_id": 47,
+        "collection_name": "39\nBologna 490"
+    },
+    {
+        "collection_id": 48,
+        "collection_name": "40\nBenevento"
+    },
+    {
+        "collection_id": 49,
+        "collection_name": "42\nTurin 4703"
+    },
+    {
+        "collection_id": 50,
+        "collection_name": "47\nBenevento 348 (old no. 1503)"
+    },
+    {
+        "collection_id": 51,
+        "collection_name": "48\nSalerno"
+    },
+    {
+        "collection_id": 52,
+        "collection_name": "49\nS"
+    },
+    {
+        "collection_id": 53,
+        "collection_name": "55\nNaples 181117"
+    },
+    {
+        "collection_id": 54,
+        "collection_name": "56\nPaestum 1748"
+    },
+    {
+        "collection_id": 55,
+        "collection_name": "57\nGeneva"
+    },
+    {
+        "collection_id": 56,
+        "collection_name": "58\nLecce 741"
+    },
+    {
+        "collection_id": 57,
+        "collection_name": "61\nNe w York"
+    },
+    {
+        "collection_id": 58,
+        "collection_name": "67\nPaestum 6249"
+    },
+    {
+        "collection_id": 59,
+        "collection_name": "73\nOnce Basel Market"
+    },
+    {
+        "collection_id": 60,
+        "collection_name": "78\na Hamburg"
+    },
+    {
+        "collection_id": 61,
+        "collection_name": "79\nOnce Deepdene"
+    },
+    {
+        "collection_id": 62,
+        "collection_name": "82\nMunich 3295 (seemingly destroyed in World War II)"
+    },
+    {
+        "collection_id": 63,
+        "collection_name": "83\nLost"
+    },
+    {
+        "collection_id": 64,
+        "collection_name": "84\nPaestum"
+    },
+    {
+        "collection_id": 65,
+        "collection_name": "14\nKarlsruhe B 91 (W. 375)"
+    },
+    {
+        "collection_id": 66,
+        "collection_name": "17\nMainz O"
+    },
+    {
+        "collection_id": 67,
+        "collection_name": "21\nNaples 781 (inv. 82603)"
+    },
+    {
+        "collection_id": 68,
+        "collection_name": "30\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 69,
+        "collection_name": "100\nMadrid 11462 (L. 440)"
+    },
+    {
+        "collection_id": 70,
+        "collection_name": "101\nMadrid 11453 (L. 439)"
+    },
+    {
+        "collection_id": 71,
+        "collection_name": "107\nPontecagnano"
+    },
+    {
+        "collection_id": 72,
+        "collection_name": "109\nPaestum 40986"
+    },
+    {
+        "collection_id": 73,
+        "collection_name": "110\nPaestum"
+    },
+    {
+        "collection_id": 74,
+        "collection_name": "112\nHamburg"
+    },
+    {
+        "collection_id": 75,
+        "collection_name": "117\nSalerno"
+    },
+    {
+        "collection_id": 76,
+        "collection_name": "119\nSalerno"
+    },
+    {
+        "collection_id": 77,
+        "collection_name": "121\nPontecagnano 26228"
+    },
+    {
+        "collection_id": 78,
+        "collection_name": "131\nSalerno"
+    },
+    {
+        "collection_id": 79,
+        "collection_name": "155\nPaestum 26638"
+    },
+    {
+        "collection_id": 80,
+        "collection_name": "156\nPaestum 26632"
+    },
+    {
+        "collection_id": 81,
+        "collection_name": "163\nPaestum 21555"
+    },
+    {
+        "collection_id": 82,
+        "collection_name": "164\nOnce Nocera"
+    },
+    {
+        "collection_id": 83,
+        "collection_name": "165\nFrom Eboli"
+    },
+    {
+        "collection_id": 84,
+        "collection_name": "148\nPaestum 48431"
+    },
+    {
+        "collection_id": 85,
+        "collection_name": "145\nPaestum"
+    },
+    {
+        "collection_id": 86,
+        "collection_name": "146\nA Paestum 28872"
+    },
+    {
+        "collection_id": 87,
+        "collection_name": "146\nB Paestum 28847"
+    },
+    {
+        "collection_id": 88,
+        "collection_name": "182\nNe w York"
+    },
+    {
+        "collection_id": 89,
+        "collection_name": "185\nPaestum 20201"
+    },
+    {
+        "collection_id": 90,
+        "collection_name": "187\nNaples 2878 (inv. 81879)"
+    },
+    {
+        "collection_id": 91,
+        "collection_name": "189\nNaples"
+    },
+    {
+        "collection_id": 92,
+        "collection_name": "194\nSiena"
+    },
+    {
+        "collection_id": 93,
+        "collection_name": "198\nPaestum 21624"
+    },
+    {
+        "collection_id": 94,
+        "collection_name": "201\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 95,
+        "collection_name": "202\nPaestum"
+    },
+    {
+        "collection_id": 96,
+        "collection_name": "207\nMadrid 11307 (L. 524)"
+    },
+    {
+        "collection_id": 97,
+        "collection_name": "208\nMadrid 11308 (L. 526)"
+    },
+    {
+        "collection_id": 98,
+        "collection_name": "209\na Paestum 32129"
+    },
+    {
+        "collection_id": 99,
+        "collection_name": "210\nMeer"
+    },
+    {
+        "collection_id": 100,
+        "collection_name": "215\nS"
+    },
+    {
+        "collection_id": 101,
+        "collection_name": "217\nMilan 261"
+    },
+    {
+        "collection_id": 102,
+        "collection_name": "220\nNew York Market"
+    },
+    {
+        "collection_id": 103,
+        "collection_name": "222\nOnce London Market"
+    },
+    {
+        "collection_id": 104,
+        "collection_name": "225\nWestphalian private coll"
+    },
+    {
+        "collection_id": 105,
+        "collection_name": "178\nOnce Leeuwarden"
+    },
+    {
+        "collection_id": 106,
+        "collection_name": "180\nPontecagnano"
+    },
+    {
+        "collection_id": 107,
+        "collection_name": "234\nOnce Tokyo Market"
+    },
+    {
+        "collection_id": 108,
+        "collection_name": "243\nBerlin F 3297 a"
+    },
+    {
+        "collection_id": 109,
+        "collection_name": "370\nWestphalia"
+    },
+    {
+        "collection_id": 110,
+        "collection_name": "375\nSalerno"
+    },
+    {
+        "collection_id": 111,
+        "collection_name": "369\nLouvre K 287"
+    },
+    {
+        "collection_id": 112,
+        "collection_name": "254\nCopenhagen inv"
+    },
+    {
+        "collection_id": 113,
+        "collection_name": "258\nVatican U 18 (inv. 17966)"
+    },
+    {
+        "collection_id": 114,
+        "collection_name": "259\nSalerno (Soprintendenza)"
+    },
+    {
+        "collection_id": 115,
+        "collection_name": "260\nBenevento 28208"
+    },
+    {
+        "collection_id": 116,
+        "collection_name": "266\nOnce Agrigento"
+    },
+    {
+        "collection_id": 117,
+        "collection_name": "276\nOnce London Market"
+    },
+    {
+        "collection_id": 118,
+        "collection_name": "283\nSt"
+    },
+    {
+        "collection_id": 119,
+        "collection_name": "286\nOnce Lucerne Market"
+    },
+    {
+        "collection_id": 120,
+        "collection_name": "293\nOnce Deepdene"
+    },
+    {
+        "collection_id": 121,
+        "collection_name": "294\nOnce Deepdene"
+    },
+    {
+        "collection_id": 122,
+        "collection_name": "295\nOnce Naples"
+    },
+    {
+        "collection_id": 123,
+        "collection_name": "296\nTischbein I 40"
+    },
+    {
+        "collection_id": 124,
+        "collection_name": "297\nTischbein I 41"
+    },
+    {
+        "collection_id": 125,
+        "collection_name": "298\nTischbein I 44"
+    },
+    {
+        "collection_id": 126,
+        "collection_name": "299\nTischbein II 52"
+    },
+    {
+        "collection_id": 127,
+        "collection_name": "304\nBenevento"
+    },
+    {
+        "collection_id": 128,
+        "collection_name": "310\nWarsaw 147269 (ex Wilanow, Branicki)"
+    },
+    {
+        "collection_id": 129,
+        "collection_name": "311\nVatican U 15 (inv. 17963)"
+    },
+    {
+        "collection_id": 130,
+        "collection_name": "312\nS"
+    },
+    {
+        "collection_id": 131,
+        "collection_name": "313\nS"
+    },
+    {
+        "collection_id": 132,
+        "collection_name": "314\nRome"
+    },
+    {
+        "collection_id": 133,
+        "collection_name": "315\nStockholm"
+    },
+    {
+        "collection_id": 134,
+        "collection_name": "316\nPontecagnano 16306"
+    },
+    {
+        "collection_id": 135,
+        "collection_name": "317\nPontecagnano 36901"
+    },
+    {
+        "collection_id": 136,
+        "collection_name": "319\nPaestum 31906"
+    },
+    {
+        "collection_id": 137,
+        "collection_name": "321\nMadrid 11067 (L. 376)"
+    },
+    {
+        "collection_id": 138,
+        "collection_name": "322\nPontecagnano 10377"
+    },
+    {
+        "collection_id": 139,
+        "collection_name": "324\nCompiegne 1069"
+    },
+    {
+        "collection_id": 140,
+        "collection_name": "327\nOnce London Market"
+    },
+    {
+        "collection_id": 141,
+        "collection_name": "328\nOnce Ne w York Market"
+    },
+    {
+        "collection_id": 142,
+        "collection_name": "330\nOnce London Market"
+    },
+    {
+        "collection_id": 143,
+        "collection_name": "331\nVatican U 17 (inv. 17965)"
+    },
+    {
+        "collection_id": 144,
+        "collection_name": "332\nMonopoli"
+    },
+    {
+        "collection_id": 145,
+        "collection_name": "334\nVatican U 25 (inv. 17973)"
+    },
+    {
+        "collection_id": 146,
+        "collection_name": "336\nNaples 818 (inv. 82617)"
+    },
+    {
+        "collection_id": 147,
+        "collection_name": "338\nPontecagnano 36159"
+    },
+    {
+        "collection_id": 148,
+        "collection_name": "339\nOnce Karlsruhe"
+    },
+    {
+        "collection_id": 149,
+        "collection_name": "340\nPaestum 31897"
+    },
+    {
+        "collection_id": 150,
+        "collection_name": "342\na London Market"
+    },
+    {
+        "collection_id": 151,
+        "collection_name": "343\nVatican"
+    },
+    {
+        "collection_id": 152,
+        "collection_name": "344\nWestphalia"
+    },
+    {
+        "collection_id": 153,
+        "collection_name": "346\nLouvre K257"
+    },
+    {
+        "collection_id": 154,
+        "collection_name": "354\nNaples S N 76 DG"
+    },
+    {
+        "collection_id": 155,
+        "collection_name": "356\nOnce Berlin"
+    },
+    {
+        "collection_id": 156,
+        "collection_name": "359\nMannheim Cg 144"
+    },
+    {
+        "collection_id": 157,
+        "collection_name": "360\nOnce Nocera"
+    },
+    {
+        "collection_id": 158,
+        "collection_name": "361\nBarcelona"
+    },
+    {
+        "collection_id": 159,
+        "collection_name": "362\nPaestum 7430"
+    },
+    {
+        "collection_id": 160,
+        "collection_name": "363\nNaples"
+    },
+    {
+        "collection_id": 161,
+        "collection_name": "366\nPaestum 777"
+    },
+    {
+        "collection_id": 162,
+        "collection_name": "402\nPaestum 20197"
+    },
+    {
+        "collection_id": 163,
+        "collection_name": "404\nNohant"
+    },
+    {
+        "collection_id": 164,
+        "collection_name": "411\nWarsaw 147160"
+    },
+    {
+        "collection_id": 165,
+        "collection_name": "415\nNaples 85990 (RC67)"
+    },
+    {
+        "collection_id": 166,
+        "collection_name": "397\nPaestum 21388"
+    },
+    {
+        "collection_id": 167,
+        "collection_name": "417\nPaestum 31976"
+    },
+    {
+        "collection_id": 168,
+        "collection_name": "385\na Salerno"
+    },
+    {
+        "collection_id": 169,
+        "collection_name": "386\nWarsaw 138062 (ex Majewski Museu m 16283)"
+    },
+    {
+        "collection_id": 170,
+        "collection_name": "387\na San Francisco"
+    },
+    {
+        "collection_id": 171,
+        "collection_name": "674\nPaestum"
+    },
+    {
+        "collection_id": 172,
+        "collection_name": "675\nPaestum"
+    },
+    {
+        "collection_id": 173,
+        "collection_name": "676\nPaestum"
+    },
+    {
+        "collection_id": 174,
+        "collection_name": "677\nPaestum"
+    },
+    {
+        "collection_id": 175,
+        "collection_name": "678\nPaestum"
+    },
+    {
+        "collection_id": 176,
+        "collection_name": "679\nPaestum"
+    },
+    {
+        "collection_id": 177,
+        "collection_name": "681\nPaestum 22258"
+    },
+    {
+        "collection_id": 178,
+        "collection_name": "682\nPaestum 5667"
+    },
+    {
+        "collection_id": 179,
+        "collection_name": "683\nMadrid 11519 (L. 458)"
+    },
+    {
+        "collection_id": 180,
+        "collection_name": "684\nVatican U 22 (inv. 17970)"
+    },
+    {
+        "collection_id": 181,
+        "collection_name": "685\nMadrid 11524 (L. 456)"
+    },
+    {
+        "collection_id": 182,
+        "collection_name": "686\nMadrid 11529 (L. 454)"
+    },
+    {
+        "collection_id": 183,
+        "collection_name": "687\nMadrid 11539 (L. 453)"
+    },
+    {
+        "collection_id": 184,
+        "collection_name": "688\nPaestum 6257"
+    },
+    {
+        "collection_id": 185,
+        "collection_name": "689\nPaestum 20137"
+    },
+    {
+        "collection_id": 186,
+        "collection_name": "691\nPaestum 21582"
+    },
+    {
+        "collection_id": 187,
+        "collection_name": "692\nMadrid 11583"
+    },
+    {
+        "collection_id": 188,
+        "collection_name": "693\nPaestum 5554"
+    },
+    {
+        "collection_id": 189,
+        "collection_name": "694\nPaestum 6013"
+    },
+    {
+        "collection_id": 190,
+        "collection_name": "695\nPaestum 4990"
+    },
+    {
+        "collection_id": 191,
+        "collection_name": "696\nPaestum 32038"
+    },
+    {
+        "collection_id": 192,
+        "collection_name": "697\nPaestum 32062"
+    },
+    {
+        "collection_id": 193,
+        "collection_name": "699\nOnce Rome Market"
+    },
+    {
+        "collection_id": 194,
+        "collection_name": "700\nHaverford (Pa.)"
+    },
+    {
+        "collection_id": 195,
+        "collection_name": "701\nPaestum 26655"
+    },
+    {
+        "collection_id": 196,
+        "collection_name": "702\nPontecagnano 26226"
+    },
+    {
+        "collection_id": 197,
+        "collection_name": "703\nPontecagnano 26231"
+    },
+    {
+        "collection_id": 198,
+        "collection_name": "704\nPaestum 6192"
+    },
+    {
+        "collection_id": 199,
+        "collection_name": "706\nPaestum 6509"
+    },
+    {
+        "collection_id": 200,
+        "collection_name": "707\nMadrid 11523 (L. 452)"
+    },
+    {
+        "collection_id": 201,
+        "collection_name": "708\nMoscow"
+    },
+    {
+        "collection_id": 202,
+        "collection_name": "709\nPaestum 31972"
+    },
+    {
+        "collection_id": 203,
+        "collection_name": "710\nMadrid 11534 (L. 455)"
+    },
+    {
+        "collection_id": 204,
+        "collection_name": "712\nPaestum 7425"
+    },
+    {
+        "collection_id": 205,
+        "collection_name": "716\nPaestum 20316"
+    },
+    {
+        "collection_id": 206,
+        "collection_name": "717\nPaestum 21470"
+    },
+    {
+        "collection_id": 207,
+        "collection_name": "718\nPaestum 31712"
+    },
+    {
+        "collection_id": 208,
+        "collection_name": "719\nMadrid 11526 (L. 457)"
+    },
+    {
+        "collection_id": 209,
+        "collection_name": "720\nPaestum 22174"
+    },
+    {
+        "collection_id": 210,
+        "collection_name": "723\nSalerno"
+    },
+    {
+        "collection_id": 211,
+        "collection_name": "724\nPaestum"
+    },
+    {
+        "collection_id": 212,
+        "collection_name": "725\nPaestum 31713"
+    },
+    {
+        "collection_id": 213,
+        "collection_name": "725\na Kiel B 555"
+    },
+    {
+        "collection_id": 214,
+        "collection_name": "727\nPaestum 21423"
+    },
+    {
+        "collection_id": 215,
+        "collection_name": "728\nPaestum"
+    },
+    {
+        "collection_id": 216,
+        "collection_name": "729\nPaestum 32250"
+    },
+    {
+        "collection_id": 217,
+        "collection_name": "730\nNaples"
+    },
+    {
+        "collection_id": 218,
+        "collection_name": "731\nNaples"
+    },
+    {
+        "collection_id": 219,
+        "collection_name": "732\nMadrid 11564"
+    },
+    {
+        "collection_id": 220,
+        "collection_name": "733\nPaestum 21424"
+    },
+    {
+        "collection_id": 221,
+        "collection_name": "734\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 222,
+        "collection_name": "736\nMontpellier"
+    },
+    {
+        "collection_id": 223,
+        "collection_name": "739\nS"
+    },
+    {
+        "collection_id": 224,
+        "collection_name": "742\nJoliet (111.)"
+    },
+    {
+        "collection_id": 225,
+        "collection_name": "743\nPaestum 31727"
+    },
+    {
+        "collection_id": 226,
+        "collection_name": "744\nPaestum 6109"
+    },
+    {
+        "collection_id": 227,
+        "collection_name": "746\nSalerno"
+    },
+    {
+        "collection_id": 228,
+        "collection_name": "747\nPaestum 22781"
+    },
+    {
+        "collection_id": 229,
+        "collection_name": "748\nBologna 436"
+    },
+    {
+        "collection_id": 230,
+        "collection_name": "749\nStockport"
+    },
+    {
+        "collection_id": 231,
+        "collection_name": "750\nPaestum 21535"
+    },
+    {
+        "collection_id": 232,
+        "collection_name": "751\nPaestum (fragment)"
+    },
+    {
+        "collection_id": 233,
+        "collection_name": "752\nMadrid 11499 (L. 481)"
+    },
+    {
+        "collection_id": 234,
+        "collection_name": "753\nRio de Janeiro 1488"
+    },
+    {
+        "collection_id": 235,
+        "collection_name": "754\nOnce London Market"
+    },
+    {
+        "collection_id": 236,
+        "collection_name": "755\nPaestum"
+    },
+    {
+        "collection_id": 237,
+        "collection_name": "756\nLos Angeles Market"
+    },
+    {
+        "collection_id": 238,
+        "collection_name": "757\nSalerno"
+    },
+    {
+        "collection_id": 239,
+        "collection_name": "758\nLeiden GN V 138"
+    },
+    {
+        "collection_id": 240,
+        "collection_name": "759\nRome"
+    },
+    {
+        "collection_id": 241,
+        "collection_name": "760\nOnce Rom e Market"
+    },
+    {
+        "collection_id": 242,
+        "collection_name": "761\nOnce Nostell Priory"
+    },
+    {
+        "collection_id": 243,
+        "collection_name": "762\nPaestum"
+    },
+    {
+        "collection_id": 244,
+        "collection_name": "763\nPaestum 21191"
+    },
+    {
+        "collection_id": 245,
+        "collection_name": "764\nPaestum 22257"
+    },
+    {
+        "collection_id": 246,
+        "collection_name": "765\nPaestum 31714"
+    },
+    {
+        "collection_id": 247,
+        "collection_name": "766\nPaestum 32050"
+    },
+    {
+        "collection_id": 248,
+        "collection_name": "767\nRheinbach"
+    },
+    {
+        "collection_id": 249,
+        "collection_name": "768\nMadrid 11496 (L. 475)"
+    },
+    {
+        "collection_id": 250,
+        "collection_name": "769\nPaestum 31975"
+    },
+    {
+        "collection_id": 251,
+        "collection_name": "770\nJena 257 (431)"
+    },
+    {
+        "collection_id": 252,
+        "collection_name": "771\nNaples"
+    },
+    {
+        "collection_id": 253,
+        "collection_name": "774\nCologne"
+    },
+    {
+        "collection_id": 254,
+        "collection_name": "776\nCanberra"
+    },
+    {
+        "collection_id": 255,
+        "collection_name": "777\nMadrid 11489"
+    },
+    {
+        "collection_id": 256,
+        "collection_name": "778\nMadrid 11491 (L. 488)"
+    },
+    {
+        "collection_id": 257,
+        "collection_name": "779\nBerlin F 3069"
+    },
+    {
+        "collection_id": 258,
+        "collection_name": "780\nPaestum 21141"
+    },
+    {
+        "collection_id": 259,
+        "collection_name": "781\nHaverford"
+    },
+    {
+        "collection_id": 260,
+        "collection_name": "783\nMadrid 11488 (L. 349)"
+    },
+    {
+        "collection_id": 261,
+        "collection_name": "785\nLouvre S 1592 (ED 861)"
+    },
+    {
+        "collection_id": 262,
+        "collection_name": "786\nSwiss private coll"
+    },
+    {
+        "collection_id": 263,
+        "collection_name": "789\nOnce Los Angeles Market"
+    },
+    {
+        "collection_id": 264,
+        "collection_name": "791\nPontecagnano 26416"
+    },
+    {
+        "collection_id": 265,
+        "collection_name": "792\nPaestum 21208"
+    },
+    {
+        "collection_id": 266,
+        "collection_name": "793\nLouvre K 350"
+    },
+    {
+        "collection_id": 267,
+        "collection_name": "794\nOnce London Market"
+    },
+    {
+        "collection_id": 268,
+        "collection_name": "795\nPaestum 21233"
+    },
+    {
+        "collection_id": 269,
+        "collection_name": "796\nTatefield Hail (near Harrogate)"
+    },
+    {
+        "collection_id": 270,
+        "collection_name": "797\nPaestum 4957"
+    },
+    {
+        "collection_id": 271,
+        "collection_name": "798\nPaestum 21556"
+    },
+    {
+        "collection_id": 272,
+        "collection_name": "799\nPaestum 5658"
+    },
+    {
+        "collection_id": 273,
+        "collection_name": "800\nMadrid 11395"
+    },
+    {
+        "collection_id": 274,
+        "collection_name": "801\nPaestum 4956"
+    },
+    {
+        "collection_id": 275,
+        "collection_name": "802\nPaestum 21427"
+    },
+    {
+        "collection_id": 276,
+        "collection_name": "803\nPaestum 5429"
+    },
+    {
+        "collection_id": 277,
+        "collection_name": "804\nTatefield Hall"
+    },
+    {
+        "collection_id": 278,
+        "collection_name": "805\nPontecagnano 36115"
+    },
+    {
+        "collection_id": 279,
+        "collection_name": "806\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 280,
+        "collection_name": "807\nGeneva M F 244"
+    },
+    {
+        "collection_id": 281,
+        "collection_name": "808\nZurich"
+    },
+    {
+        "collection_id": 282,
+        "collection_name": "810\nMadrid 11283"
+    },
+    {
+        "collection_id": 283,
+        "collection_name": "811\nNaples 124283"
+    },
+    {
+        "collection_id": 284,
+        "collection_name": "812\nMadrid 11282 (L. 508)"
+    },
+    {
+        "collection_id": 285,
+        "collection_name": "815\nGela 9183 (fr.)"
+    },
+    {
+        "collection_id": 286,
+        "collection_name": "816\nPaestum 21526"
+    },
+    {
+        "collection_id": 287,
+        "collection_name": "817\nPaestum 7448"
+    },
+    {
+        "collection_id": 288,
+        "collection_name": "818\nOkayama 77"
+    },
+    {
+        "collection_id": 289,
+        "collection_name": "819\nPaestum 22661"
+    },
+    {
+        "collection_id": 290,
+        "collection_name": "820\nPaestum 7428"
+    },
+    {
+        "collection_id": 291,
+        "collection_name": "821\nPaestum (fr. of lekythos)"
+    },
+    {
+        "collection_id": 292,
+        "collection_name": "822\nPaestum 379IB (fr. of cup)"
+    },
+    {
+        "collection_id": 293,
+        "collection_name": "823\nPaestum"
+    },
+    {
+        "collection_id": 294,
+        "collection_name": "824\nPaestum"
+    },
+    {
+        "collection_id": 295,
+        "collection_name": "825\nPaestum"
+    },
+    {
+        "collection_id": 296,
+        "collection_name": "827\nPaestum 20294"
+    },
+    {
+        "collection_id": 297,
+        "collection_name": "829\nSalerno"
+    },
+    {
+        "collection_id": 298,
+        "collection_name": "831\nCambridge (Mass.)"
+    },
+    {
+        "collection_id": 299,
+        "collection_name": "838\nPaestum 5688"
+    },
+    {
+        "collection_id": 300,
+        "collection_name": "839\nPaestum 5696"
+    },
+    {
+        "collection_id": 301,
+        "collection_name": "840\nPaestum 22609"
+    },
+    {
+        "collection_id": 302,
+        "collection_name": "841\nPaestum 32392"
+    },
+    {
+        "collection_id": 303,
+        "collection_name": "842\nPaestum 32865"
+    },
+    {
+        "collection_id": 304,
+        "collection_name": "921\nNaples"
+    },
+    {
+        "collection_id": 305,
+        "collection_name": "922\nPaestum 4802"
+    },
+    {
+        "collection_id": 306,
+        "collection_name": "924\nPaestum 20188"
+    },
+    {
+        "collection_id": 307,
+        "collection_name": "925\nPaestum 39126"
+    },
+    {
+        "collection_id": 308,
+        "collection_name": "927\nPaestum 22325"
+    },
+    {
+        "collection_id": 309,
+        "collection_name": "928\nSalerno"
+    },
+    {
+        "collection_id": 310,
+        "collection_name": "929\nNaples"
+    },
+    {
+        "collection_id": 311,
+        "collection_name": "930\nLondon Market"
+    },
+    {
+        "collection_id": 312,
+        "collection_name": "931\nSalerno"
+    },
+    {
+        "collection_id": 313,
+        "collection_name": "932\nRome"
+    },
+    {
+        "collection_id": 314,
+        "collection_name": "933\nLeningrad 376 (St. 1793)"
+    },
+    {
+        "collection_id": 315,
+        "collection_name": "934\nMadrid 11374 (L. 366)"
+    },
+    {
+        "collection_id": 316,
+        "collection_name": "935\nBerlin F 3605"
+    },
+    {
+        "collection_id": 317,
+        "collection_name": "936\nOnce Paris Market"
+    },
+    {
+        "collection_id": 318,
+        "collection_name": "860\nPaestum 20139"
+    },
+    {
+        "collection_id": 319,
+        "collection_name": "861\nPaestum 32010"
+    },
+    {
+        "collection_id": 320,
+        "collection_name": "862\nPaestum 22340"
+    },
+    {
+        "collection_id": 321,
+        "collection_name": "863\nNaples Stg"
+    },
+    {
+        "collection_id": 322,
+        "collection_name": "864\nTatefield Hall"
+    },
+    {
+        "collection_id": 323,
+        "collection_name": "865\nPaestum"
+    },
+    {
+        "collection_id": 324,
+        "collection_name": "870\nPaestum 5402"
+    },
+    {
+        "collection_id": 325,
+        "collection_name": "873\nPaestum 32218"
+    },
+    {
+        "collection_id": 326,
+        "collection_name": "874\nOnce Athens Market"
+    },
+    {
+        "collection_id": 327,
+        "collection_name": "875\nPaestum 5774"
+    },
+    {
+        "collection_id": 328,
+        "collection_name": "876\nPaestum 5973"
+    },
+    {
+        "collection_id": 329,
+        "collection_name": "877\nPaestum 6659"
+    },
+    {
+        "collection_id": 330,
+        "collection_name": "878\nPaestum 20212"
+    },
+    {
+        "collection_id": 331,
+        "collection_name": "879\nPaestum 20308"
+    },
+    {
+        "collection_id": 332,
+        "collection_name": "880\nPontecagnano 36116"
+    },
+    {
+        "collection_id": 333,
+        "collection_name": "881\nPontecagnano 47805"
+    },
+    {
+        "collection_id": 334,
+        "collection_name": "882\nMoscow 487"
+    },
+    {
+        "collection_id": 335,
+        "collection_name": "884\nPaestum 5135"
+    },
+    {
+        "collection_id": 336,
+        "collection_name": "885\nNaples 734 (inv. 82837)"
+    },
+    {
+        "collection_id": 337,
+        "collection_name": "886\nPaestum 5700"
+    },
+    {
+        "collection_id": 338,
+        "collection_name": "887\nPaestum 5513"
+    },
+    {
+        "collection_id": 339,
+        "collection_name": "888\nPaestum 31999"
+    },
+    {
+        "collection_id": 340,
+        "collection_name": "889\nPaestum 22593"
+    },
+    {
+        "collection_id": 341,
+        "collection_name": "890\nPaestum 23054"
+    },
+    {
+        "collection_id": 342,
+        "collection_name": "891\nPaestum 21692"
+    },
+    {
+        "collection_id": 343,
+        "collection_name": "892\nPaestum 22347"
+    },
+    {
+        "collection_id": 344,
+        "collection_name": "893\nPaestum 32222"
+    },
+    {
+        "collection_id": 345,
+        "collection_name": "894\nPaestum 32322"
+    },
+    {
+        "collection_id": 346,
+        "collection_name": "895\nPaestum 40983"
+    },
+    {
+        "collection_id": 347,
+        "collection_name": "897\nPaestum 7439"
+    },
+    {
+        "collection_id": 348,
+        "collection_name": "898\nPaestum 22572"
+    },
+    {
+        "collection_id": 349,
+        "collection_name": "900\nPaestum"
+    },
+    {
+        "collection_id": 350,
+        "collection_name": "901\nPaestum 5692"
+    },
+    {
+        "collection_id": 351,
+        "collection_name": "902\nPaestum 5565"
+    },
+    {
+        "collection_id": 352,
+        "collection_name": "903\nPadula"
+    },
+    {
+        "collection_id": 353,
+        "collection_name": "904\nPaestum 21151"
+    },
+    {
+        "collection_id": 354,
+        "collection_name": "905\nGeneva I 93"
+    },
+    {
+        "collection_id": 355,
+        "collection_name": "906\nPaestum"
+    },
+    {
+        "collection_id": 356,
+        "collection_name": "907\nPaestum"
+    },
+    {
+        "collection_id": 357,
+        "collection_name": "908\nPaestum"
+    },
+    {
+        "collection_id": 358,
+        "collection_name": "909\nPaestum"
+    },
+    {
+        "collection_id": 359,
+        "collection_name": "910\nPaestum 22599"
+    },
+    {
+        "collection_id": 360,
+        "collection_name": "911\nPontecagnano 36113"
+    },
+    {
+        "collection_id": 361,
+        "collection_name": "913\nBraunschweig A T 372"
+    },
+    {
+        "collection_id": 362,
+        "collection_name": "914\nPaestum"
+    },
+    {
+        "collection_id": 363,
+        "collection_name": "917\nPaestum 40961"
+    },
+    {
+        "collection_id": 364,
+        "collection_name": "919\nMnichovo Hradiste"
+    },
+    {
+        "collection_id": 365,
+        "collection_name": "429\nPontecagnano 26319"
+    },
+    {
+        "collection_id": 366,
+        "collection_name": "432\nNaples 1772 (inv. 82243)"
+    },
+    {
+        "collection_id": 367,
+        "collection_name": "433\nSalerno"
+    },
+    {
+        "collection_id": 368,
+        "collection_name": "434\nPaestum"
+    },
+    {
+        "collection_id": 369,
+        "collection_name": "435\nPaestum"
+    },
+    {
+        "collection_id": 370,
+        "collection_name": "437\nSalerno"
+    },
+    {
+        "collection_id": 371,
+        "collection_name": "438\nLost"
+    },
+    {
+        "collection_id": 372,
+        "collection_name": "439\nPaestum (once Salerno, Soprintendenza)"
+    },
+    {
+        "collection_id": 373,
+        "collection_name": "441\nRio de Janeiro 1529"
+    },
+    {
+        "collection_id": 374,
+        "collection_name": "444\nPontecagnano"
+    },
+    {
+        "collection_id": 375,
+        "collection_name": "445\nNaples 2245 (inv. 81783)"
+    },
+    {
+        "collection_id": 376,
+        "collection_name": "446\nOnce Treben"
+    },
+    {
+        "collection_id": 377,
+        "collection_name": "447\nPaestum 1274"
+    },
+    {
+        "collection_id": 378,
+        "collection_name": "449\nMadrid 11259"
+    },
+    {
+        "collection_id": 379,
+        "collection_name": "450\nVienna 1133"
+    },
+    {
+        "collection_id": 380,
+        "collection_name": "451\nPaestum"
+    },
+    {
+        "collection_id": 381,
+        "collection_name": "452\nPaestum"
+    },
+    {
+        "collection_id": 382,
+        "collection_name": "453\nPaestum 5695"
+    },
+    {
+        "collection_id": 383,
+        "collection_name": "454\nPaestum 5445"
+    },
+    {
+        "collection_id": 384,
+        "collection_name": "455\nNarbonne 3684 (26)"
+    },
+    {
+        "collection_id": 385,
+        "collection_name": "456\nPaestum 7449"
+    },
+    {
+        "collection_id": 386,
+        "collection_name": "457\nPaestum 21207"
+    },
+    {
+        "collection_id": 387,
+        "collection_name": "458\nPaestum 25009"
+    },
+    {
+        "collection_id": 388,
+        "collection_name": "459\nPontecagnano 26241"
+    },
+    {
+        "collection_id": 389,
+        "collection_name": "462\nPaestum 32244"
+    },
+    {
+        "collection_id": 390,
+        "collection_name": "463\nPaestum 21528"
+    },
+    {
+        "collection_id": 391,
+        "collection_name": "464\nLugano"
+    },
+    {
+        "collection_id": 392,
+        "collection_name": "465\nSalerno"
+    },
+    {
+        "collection_id": 393,
+        "collection_name": "468\nMadrid 11245"
+    },
+    {
+        "collection_id": 394,
+        "collection_name": "469\nMadrid 11246"
+    },
+    {
+        "collection_id": 395,
+        "collection_name": "471\nPontecagnano 26414"
+    },
+    {
+        "collection_id": 396,
+        "collection_name": "472\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 397,
+        "collection_name": "473\nOnce Gy (Geneva)"
+    },
+    {
+        "collection_id": 398,
+        "collection_name": "474\nPaestum 24985"
+    },
+    {
+        "collection_id": 399,
+        "collection_name": "475\nNaples 128035"
+    },
+    {
+        "collection_id": 400,
+        "collection_name": "476\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 401,
+        "collection_name": "478\nPaestum 4988"
+    },
+    {
+        "collection_id": 402,
+        "collection_name": "479\nNaples 186375"
+    },
+    {
+        "collection_id": 403,
+        "collection_name": "480\nPaestum 22756"
+    },
+    {
+        "collection_id": 404,
+        "collection_name": "481\nPaestum 24984"
+    },
+    {
+        "collection_id": 405,
+        "collection_name": "482\nPaestum 5447"
+    },
+    {
+        "collection_id": 406,
+        "collection_name": "483\nPontecagnano 26227"
+    },
+    {
+        "collection_id": 407,
+        "collection_name": "484\nMadrid 11243 (L. 414)"
+    },
+    {
+        "collection_id": 408,
+        "collection_name": "485\nManchester IV E 5"
+    },
+    {
+        "collection_id": 409,
+        "collection_name": "486\nPaestum 22641"
+    },
+    {
+        "collection_id": 410,
+        "collection_name": "487\nPontecagnano 26412"
+    },
+    {
+        "collection_id": 411,
+        "collection_name": "488\nPadula"
+    },
+    {
+        "collection_id": 412,
+        "collection_name": "489\nSalerno"
+    },
+    {
+        "collection_id": 413,
+        "collection_name": "490\nMainz"
+    },
+    {
+        "collection_id": 414,
+        "collection_name": "491\nMelbourne"
+    },
+    {
+        "collection_id": 415,
+        "collection_name": "492\nPaestum 21483"
+    },
+    {
+        "collection_id": 416,
+        "collection_name": "493\nCatania 4327"
+    },
+    {
+        "collection_id": 417,
+        "collection_name": "495\nBerlin F 3026"
+    },
+    {
+        "collection_id": 418,
+        "collection_name": "496\nNaples 2233 (inv. 81787)"
+    },
+    {
+        "collection_id": 419,
+        "collection_name": "498\nPaestum 20315"
+    },
+    {
+        "collection_id": 420,
+        "collection_name": "500\nOnce London Market"
+    },
+    {
+        "collection_id": 421,
+        "collection_name": "502\nOnce Nocera"
+    },
+    {
+        "collection_id": 422,
+        "collection_name": "504\nPaestum 22950"
+    },
+    {
+        "collection_id": 423,
+        "collection_name": "505\nPaestum 5528"
+    },
+    {
+        "collection_id": 424,
+        "collection_name": "506\nPaestum 5437"
+    },
+    {
+        "collection_id": 425,
+        "collection_name": "507\nPaestum 21218"
+    },
+    {
+        "collection_id": 426,
+        "collection_name": "508\nNaples Stg"
+    },
+    {
+        "collection_id": 427,
+        "collection_name": "509\nPaestum 32255"
+    },
+    {
+        "collection_id": 428,
+        "collection_name": "510\nPaestum"
+    },
+    {
+        "collection_id": 429,
+        "collection_name": "511\nMadrid 11206"
+    },
+    {
+        "collection_id": 430,
+        "collection_name": "512\nSalerno"
+    },
+    {
+        "collection_id": 431,
+        "collection_name": "515\nPaestum 21557"
+    },
+    {
+        "collection_id": 432,
+        "collection_name": "516\nOnce London Market"
+    },
+    {
+        "collection_id": 433,
+        "collection_name": "517\nOnce Basel Market"
+    },
+    {
+        "collection_id": 434,
+        "collection_name": "518\nJapan"
+    },
+    {
+        "collection_id": 435,
+        "collection_name": "519\nPaestum 21428"
+    },
+    {
+        "collection_id": 436,
+        "collection_name": "520\nMadrid 11148 (L.430)"
+    },
+    {
+        "collection_id": 437,
+        "collection_name": "521\nMadrid 11149 (L. 426)"
+    },
+    {
+        "collection_id": 438,
+        "collection_name": "522\nPalermo"
+    },
+    {
+        "collection_id": 439,
+        "collection_name": "523\nAuxerre 9"
+    },
+    {
+        "collection_id": 440,
+        "collection_name": "524\nPaestum 21453"
+    },
+    {
+        "collection_id": 441,
+        "collection_name": "525\nPaestum 21466"
+    },
+    {
+        "collection_id": 442,
+        "collection_name": "526\nPaestum 21503"
+    },
+    {
+        "collection_id": 443,
+        "collection_name": "527\nPaestum 24986"
+    },
+    {
+        "collection_id": 444,
+        "collection_name": "528\nPaestum 32382"
+    },
+    {
+        "collection_id": 445,
+        "collection_name": "529\nPaestum 39103"
+    },
+    {
+        "collection_id": 446,
+        "collection_name": "531\nMadrid 11150 (L. 431)"
+    },
+    {
+        "collection_id": 447,
+        "collection_name": "532\nNaples 1888 (inv. 81844)"
+    },
+    {
+        "collection_id": 448,
+        "collection_name": "533\nOnce Nocera"
+    },
+    {
+        "collection_id": 449,
+        "collection_name": "534\nPaestum 32308"
+    },
+    {
+        "collection_id": 450,
+        "collection_name": "535\nPaestum 21570"
+    },
+    {
+        "collection_id": 451,
+        "collection_name": "536\nBuenos Aires"
+    },
+    {
+        "collection_id": 452,
+        "collection_name": "538\nOnce London Market"
+    },
+    {
+        "collection_id": 453,
+        "collection_name": "539\nSalerno"
+    },
+    {
+        "collection_id": 454,
+        "collection_name": "540\nPontecagnano 36145"
+    },
+    {
+        "collection_id": 455,
+        "collection_name": "541\nBerlin F 4100"
+    },
+    {
+        "collection_id": 456,
+        "collection_name": "542\nPurchase (N.Y.)"
+    },
+    {
+        "collection_id": 457,
+        "collection_name": "543\nMadrid 11152 (L. 429)"
+    },
+    {
+        "collection_id": 458,
+        "collection_name": "544\nMadrid 11151 (L. 428)"
+    },
+    {
+        "collection_id": 459,
+        "collection_name": "545\nMadrid 11147 (L. 427)"
+    },
+    {
+        "collection_id": 460,
+        "collection_name": "546\nPaestum 21973"
+    },
+    {
+        "collection_id": 461,
+        "collection_name": "547\nPaestum 31863"
+    },
+    {
+        "collection_id": 462,
+        "collection_name": "548\nVienna 932"
+    },
+    {
+        "collection_id": 463,
+        "collection_name": "549\nAvignon"
+    },
+    {
+        "collection_id": 464,
+        "collection_name": "550\nPaestum 21143"
+    },
+    {
+        "collection_id": 465,
+        "collection_name": "551\nPaestum 21441"
+    },
+    {
+        "collection_id": 466,
+        "collection_name": "552\nPaestum"
+    },
+    {
+        "collection_id": 467,
+        "collection_name": "553\nPaestum 5577"
+    },
+    {
+        "collection_id": 468,
+        "collection_name": "554\nOnce Basel Market"
+    },
+    {
+        "collection_id": 469,
+        "collection_name": "555\nOnce London Market"
+    },
+    {
+        "collection_id": 470,
+        "collection_name": "556\nPadula"
+    },
+    {
+        "collection_id": 471,
+        "collection_name": "557\nBasel"
+    },
+    {
+        "collection_id": 472,
+        "collection_name": "558\nLouvre C A 2270"
+    },
+    {
+        "collection_id": 473,
+        "collection_name": "559\nOnce London Market"
+    },
+    {
+        "collection_id": 474,
+        "collection_name": "560\nMadrid 11146 (L. 425)"
+    },
+    {
+        "collection_id": 475,
+        "collection_name": "561\nPaestum 32243"
+    },
+    {
+        "collection_id": 476,
+        "collection_name": "562\nPontecagnano 26325"
+    },
+    {
+        "collection_id": 477,
+        "collection_name": "563\nNaples 736 (inv. 82737)"
+    },
+    {
+        "collection_id": 478,
+        "collection_name": "564\nBerlin F 4129"
+    },
+    {
+        "collection_id": 479,
+        "collection_name": "567\nOnce Cologne Market"
+    },
+    {
+        "collection_id": 480,
+        "collection_name": "568\nPontecagnano"
+    },
+    {
+        "collection_id": 481,
+        "collection_name": "570\nOnce Nostell Priory 41"
+    },
+    {
+        "collection_id": 482,
+        "collection_name": "571\nPaestum 4978"
+    },
+    {
+        "collection_id": 483,
+        "collection_name": "572\nPaestum 1252"
+    },
+    {
+        "collection_id": 484,
+        "collection_name": "573\nPaestum 21136"
+    },
+    {
+        "collection_id": 485,
+        "collection_name": "574\nPaestum 21259"
+    },
+    {
+        "collection_id": 486,
+        "collection_name": "575\nPaestum 41125"
+    },
+    {
+        "collection_id": 487,
+        "collection_name": "576\nPaestum 21452"
+    },
+    {
+        "collection_id": 488,
+        "collection_name": "577\nPaestum 21460"
+    },
+    {
+        "collection_id": 489,
+        "collection_name": "578\nPaestum 21548"
+    },
+    {
+        "collection_id": 490,
+        "collection_name": "579\nPontecagnano 26245"
+    },
+    {
+        "collection_id": 491,
+        "collection_name": "580\nPaestum 25010"
+    },
+    {
+        "collection_id": 492,
+        "collection_name": "582\nSalerno"
+    },
+    {
+        "collection_id": 493,
+        "collection_name": "582\na Madrid 11459"
+    },
+    {
+        "collection_id": 494,
+        "collection_name": "584\nOnce London Market"
+    },
+    {
+        "collection_id": 495,
+        "collection_name": "586\nPaestum"
+    },
+    {
+        "collection_id": 496,
+        "collection_name": "587\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 497,
+        "collection_name": "590\nSalerno"
+    },
+    {
+        "collection_id": 498,
+        "collection_name": "591\nPaestum 20369"
+    },
+    {
+        "collection_id": 499,
+        "collection_name": "592\nMadrid"
+    },
+    {
+        "collection_id": 500,
+        "collection_name": "594\nPaestum 5974"
+    },
+    {
+        "collection_id": 501,
+        "collection_name": "595\nPaestum"
+    },
+    {
+        "collection_id": 502,
+        "collection_name": "596\nPaestum 6014"
+    },
+    {
+        "collection_id": 503,
+        "collection_name": "597\nPaestum"
+    },
+    {
+        "collection_id": 504,
+        "collection_name": "598\nPaestum 1253"
+    },
+    {
+        "collection_id": 505,
+        "collection_name": "599\nMadrid 11451 (L.445)"
+    },
+    {
+        "collection_id": 506,
+        "collection_name": "600\nPaestum 5272"
+    },
+    {
+        "collection_id": 507,
+        "collection_name": "600\na Salerno"
+    },
+    {
+        "collection_id": 508,
+        "collection_name": "601\nBerkeley"
+    },
+    {
+        "collection_id": 509,
+        "collection_name": "602\nSalerno"
+    },
+    {
+        "collection_id": 510,
+        "collection_name": "603\nCopenhagen"
+    },
+    {
+        "collection_id": 511,
+        "collection_name": "605\nPaestum 4973"
+    },
+    {
+        "collection_id": 512,
+        "collection_name": "606\nOkayama"
+    },
+    {
+        "collection_id": 513,
+        "collection_name": "607\nPadula"
+    },
+    {
+        "collection_id": 514,
+        "collection_name": "608\nPaestum 32029"
+    },
+    {
+        "collection_id": 515,
+        "collection_name": "609\nPaestum 21495"
+    },
+    {
+        "collection_id": 516,
+        "collection_name": "611\nPaestum 21504"
+    },
+    {
+        "collection_id": 517,
+        "collection_name": "612\nPaestum 41156"
+    },
+    {
+        "collection_id": 518,
+        "collection_name": "613\nPaestum 32068"
+    },
+    {
+        "collection_id": 519,
+        "collection_name": "614\nPaestum 5433"
+    },
+    {
+        "collection_id": 520,
+        "collection_name": "615\nMadrid 11449 (L. 441)"
+    },
+    {
+        "collection_id": 521,
+        "collection_name": "616\nSalerno"
+    },
+    {
+        "collection_id": 522,
+        "collection_name": "618\nParis"
+    },
+    {
+        "collection_id": 523,
+        "collection_name": "622\nPontecagnano 36118"
+    },
+    {
+        "collection_id": 524,
+        "collection_name": "623\nPaestum 32115"
+    },
+    {
+        "collection_id": 525,
+        "collection_name": "625\nReading"
+    },
+    {
+        "collection_id": 526,
+        "collection_name": "626\nPaestum 4975"
+    },
+    {
+        "collection_id": 527,
+        "collection_name": "627\nPaestum"
+    },
+    {
+        "collection_id": 528,
+        "collection_name": "629\nPaestum 24987"
+    },
+    {
+        "collection_id": 529,
+        "collection_name": "630\nPaestum 5434"
+    },
+    {
+        "collection_id": 530,
+        "collection_name": "632\nGeneva I 462"
+    },
+    {
+        "collection_id": 531,
+        "collection_name": "633\nOnce Basel Market"
+    },
+    {
+        "collection_id": 532,
+        "collection_name": "635\nPaestum 5392"
+    },
+    {
+        "collection_id": 533,
+        "collection_name": "636\nOnce London Market"
+    },
+    {
+        "collection_id": 534,
+        "collection_name": "638\na Paris Market"
+    },
+    {
+        "collection_id": 535,
+        "collection_name": "639\nPaestum from C"
+    },
+    {
+        "collection_id": 536,
+        "collection_name": "640\na Paestum 6120"
+    },
+    {
+        "collection_id": 537,
+        "collection_name": "641\nPaestum 20211"
+    },
+    {
+        "collection_id": 538,
+        "collection_name": "642\nPaestum 21585"
+    },
+    {
+        "collection_id": 539,
+        "collection_name": "644\nNorth German private coll"
+    },
+    {
+        "collection_id": 540,
+        "collection_name": "645\nPaestum 1247"
+    },
+    {
+        "collection_id": 541,
+        "collection_name": "646\nPaestum 1248"
+    },
+    {
+        "collection_id": 542,
+        "collection_name": "647\nTurin 4585"
+    },
+    {
+        "collection_id": 543,
+        "collection_name": "648\nPaestum 21456"
+    },
+    {
+        "collection_id": 544,
+        "collection_name": "649\nPaestum 32058"
+    },
+    {
+        "collection_id": 545,
+        "collection_name": "650\na Taranto"
+    },
+    {
+        "collection_id": 546,
+        "collection_name": "651\nLeningrad inv"
+    },
+    {
+        "collection_id": 547,
+        "collection_name": "652\nPaestum 20370"
+    },
+    {
+        "collection_id": 548,
+        "collection_name": "653\nComo C 128"
+    },
+    {
+        "collection_id": 549,
+        "collection_name": "654\nPaestum 7457"
+    },
+    {
+        "collection_id": 550,
+        "collection_name": "655\nNew York"
+    },
+    {
+        "collection_id": 551,
+        "collection_name": "656\nOnce Tokyo Market"
+    },
+    {
+        "collection_id": 552,
+        "collection_name": "657\nOnce Basel Market"
+    },
+    {
+        "collection_id": 553,
+        "collection_name": "658\nNaples 1853 (inv. 82207)"
+    },
+    {
+        "collection_id": 554,
+        "collection_name": "660\nOnce Rome Market"
+    },
+    {
+        "collection_id": 555,
+        "collection_name": "663\nPaestum 32247"
+    },
+    {
+        "collection_id": 556,
+        "collection_name": "664\nGeneva Market"
+    },
+    {
+        "collection_id": 557,
+        "collection_name": "665\nPaestum 39104"
+    },
+    {
+        "collection_id": 558,
+        "collection_name": "667\nPaestum 25053"
+    },
+    {
+        "collection_id": 559,
+        "collection_name": "668\nMadrid 11325 (L. 529)"
+    },
+    {
+        "collection_id": 560,
+        "collection_name": "669\nPaestum 21173"
+    },
+    {
+        "collection_id": 561,
+        "collection_name": "670\nPaestum 31700"
+    },
+    {
+        "collection_id": 562,
+        "collection_name": "671\nSalerno"
+    },
+    {
+        "collection_id": 563,
+        "collection_name": "672\nPontecagnano 26224"
+    },
+    {
+        "collection_id": 564,
+        "collection_name": "673\nLeipzig T 4740"
+    },
+    {
+        "collection_id": 565,
+        "collection_name": "854\nMadrid 11541"
+    },
+    {
+        "collection_id": 566,
+        "collection_name": "855\nPaestum 5330"
+    },
+    {
+        "collection_id": 567,
+        "collection_name": "856\nPaestum 32251"
+    },
+    {
+        "collection_id": 568,
+        "collection_name": "857\nSalerno"
+    },
+    {
+        "collection_id": 569,
+        "collection_name": "981\nOnce Rome Market"
+    },
+    {
+        "collection_id": 570,
+        "collection_name": "982\nNe w York Market"
+    },
+    {
+        "collection_id": 571,
+        "collection_name": "986\nOnce London Market"
+    },
+    {
+        "collection_id": 572,
+        "collection_name": "990\nNaples 786 (inv. 82760)"
+    },
+    {
+        "collection_id": 573,
+        "collection_name": "991\nLos Angeles Market"
+    },
+    {
+        "collection_id": 574,
+        "collection_name": "994\nOnce Rome Market"
+    },
+    {
+        "collection_id": 575,
+        "collection_name": "967\nPaestum 20302"
+    },
+    {
+        "collection_id": 576,
+        "collection_name": "1028\nLouvre K 325"
+    },
+    {
+        "collection_id": 577,
+        "collection_name": "1006\nLeningrad inv"
+    },
+    {
+        "collection_id": 578,
+        "collection_name": "1008\nBrussels R 261"
+    },
+    {
+        "collection_id": 579,
+        "collection_name": "1010\nNaples 1793 (inv. 81930)"
+    },
+    {
+        "collection_id": 580,
+        "collection_name": "1012\nBenevento 601 S (348 xix)"
+    },
+    {
+        "collection_id": 581,
+        "collection_name": "1015\nTurin 4700"
+    },
+    {
+        "collection_id": 582,
+        "collection_name": "1016\nBuffalo"
+    },
+    {
+        "collection_id": 583,
+        "collection_name": "1018\nVatican U 24 (inv. 17972)"
+    },
+    {
+        "collection_id": 584,
+        "collection_name": "1022\nLisbon"
+    },
+    {
+        "collection_id": 585,
+        "collection_name": "1024\nVienna 527"
+    },
+    {
+        "collection_id": 586,
+        "collection_name": "1030\nVienna 478"
+    },
+    {
+        "collection_id": 587,
+        "collection_name": "1032\nNaples 828 (inv. 81889)"
+    },
+    {
+        "collection_id": 588,
+        "collection_name": "1033\nVienna 287"
+    },
+    {
+        "collection_id": 589,
+        "collection_name": "1003\nBerlin F 3025"
+    },
+    {
+        "collection_id": 590,
+        "collection_name": "1034\nTurin 4729"
+    },
+    {
+        "collection_id": 591,
+        "collection_name": "125\nMadrid 11521 (L. 449)"
+    },
+    {
+        "collection_id": 592,
+        "collection_name": "126\nPaestum 4913"
+    },
+    {
+        "collection_id": 593,
+        "collection_name": "127\nPaestum 5065"
+    },
+    {
+        "collection_id": 594,
+        "collection_name": "128\nPaestum 21402"
+    },
+    {
+        "collection_id": 595,
+        "collection_name": "129\nPaestum"
+    },
+    {
+        "collection_id": 596,
+        "collection_name": "130\nPaestum 22308"
+    },
+    {
+        "collection_id": 597,
+        "collection_name": "131\nBerlin F 3213"
+    },
+    {
+        "collection_id": 598,
+        "collection_name": "133\nOnce Basel Market"
+    },
+    {
+        "collection_id": 599,
+        "collection_name": "134\nPalermo"
+    },
+    {
+        "collection_id": 600,
+        "collection_name": "135\nPaestum 31774"
+    },
+    {
+        "collection_id": 601,
+        "collection_name": "136\nPaestum 5435"
+    },
+    {
+        "collection_id": 602,
+        "collection_name": "138\nPaestum 24671"
+    },
+    {
+        "collection_id": 603,
+        "collection_name": "139\nPaestum 20348"
+    },
+    {
+        "collection_id": 604,
+        "collection_name": "140\nMadrid 11497 (L. 480)"
+    },
+    {
+        "collection_id": 605,
+        "collection_name": "141\nMadrid 11498 (L. 483)"
+    },
+    {
+        "collection_id": 606,
+        "collection_name": "142\nPaestum 23098"
+    },
+    {
+        "collection_id": 607,
+        "collection_name": "143\nGeneva I 718"
+    },
+    {
+        "collection_id": 608,
+        "collection_name": "144\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 609,
+        "collection_name": "145\nNaples 124287"
+    },
+    {
+        "collection_id": 610,
+        "collection_name": "147\nPaestum 5067"
+    },
+    {
+        "collection_id": 611,
+        "collection_name": "148\nNaples 128018"
+    },
+    {
+        "collection_id": 612,
+        "collection_name": "149\nPrinceton"
+    },
+    {
+        "collection_id": 613,
+        "collection_name": "151\nMadrid 11286 (L. 513)"
+    },
+    {
+        "collection_id": 614,
+        "collection_name": "152\nPaestum 5063"
+    },
+    {
+        "collection_id": 615,
+        "collection_name": "155\nPaestum 21401"
+    },
+    {
+        "collection_id": 616,
+        "collection_name": "156\nPaestum 32863"
+    },
+    {
+        "collection_id": 617,
+        "collection_name": "157\nPaestum 21184"
+    },
+    {
+        "collection_id": 618,
+        "collection_name": "158\nNaples 2592 (inv. 82530)"
+    },
+    {
+        "collection_id": 619,
+        "collection_name": "160\nSalerno"
+    },
+    {
+        "collection_id": 620,
+        "collection_name": "161\nPaestum"
+    },
+    {
+        "collection_id": 621,
+        "collection_name": "163\nS"
+    },
+    {
+        "collection_id": 622,
+        "collection_name": "164\nPaestum 22309"
+    },
+    {
+        "collection_id": 623,
+        "collection_name": "167\nPaestum"
+    },
+    {
+        "collection_id": 624,
+        "collection_name": "169\nPaestum"
+    },
+    {
+        "collection_id": 625,
+        "collection_name": "170\nPaestum"
+    },
+    {
+        "collection_id": 626,
+        "collection_name": "172\nPaestum 5511"
+    },
+    {
+        "collection_id": 627,
+        "collection_name": "175\nMadrid 11238 (L. 410)"
+    },
+    {
+        "collection_id": 628,
+        "collection_name": "178\nPaestum 4954"
+    },
+    {
+        "collection_id": 629,
+        "collection_name": "179\nPaestum 31992"
+    },
+    {
+        "collection_id": 630,
+        "collection_name": "180\nPaestum 32323"
+    },
+    {
+        "collection_id": 631,
+        "collection_name": "182\nSalerno"
+    },
+    {
+        "collection_id": 632,
+        "collection_name": "183\nPaestum"
+    },
+    {
+        "collection_id": 633,
+        "collection_name": "186\nPaestum 5702"
+    },
+    {
+        "collection_id": 634,
+        "collection_name": "190\nPaestum 22314"
+    },
+    {
+        "collection_id": 635,
+        "collection_name": "191\nMadrid 11456 (L. 442)"
+    },
+    {
+        "collection_id": 636,
+        "collection_name": "192\nPaestum 31998"
+    },
+    {
+        "collection_id": 637,
+        "collection_name": "194\nPaestum"
+    },
+    {
+        "collection_id": 638,
+        "collection_name": "195\nPaestum"
+    },
+    {
+        "collection_id": 639,
+        "collection_name": "196\nPaestum 23099"
+    },
+    {
+        "collection_id": 640,
+        "collection_name": "197\nPaestum 21198"
+    },
+    {
+        "collection_id": 641,
+        "collection_name": "198\nPaestum 21490"
+    },
+    {
+        "collection_id": 642,
+        "collection_name": "199\nPaestum 22120"
+    },
+    {
+        "collection_id": 643,
+        "collection_name": "200\nPaestum 6259"
+    },
+    {
+        "collection_id": 644,
+        "collection_name": "203\nPaestum 32000"
+    },
+    {
+        "collection_id": 645,
+        "collection_name": "205\nPaestum 4941"
+    },
+    {
+        "collection_id": 646,
+        "collection_name": "206\nPaestum"
+    },
+    {
+        "collection_id": 647,
+        "collection_name": "207\nSalerno"
+    },
+    {
+        "collection_id": 648,
+        "collection_name": "208\nPaestum 40898"
+    },
+    {
+        "collection_id": 649,
+        "collection_name": "209\nPaestum 32011"
+    },
+    {
+        "collection_id": 650,
+        "collection_name": "210\nPaestum"
+    },
+    {
+        "collection_id": 651,
+        "collection_name": "211\nPaestum 31997"
+    },
+    {
+        "collection_id": 652,
+        "collection_name": "212\nPaestum 5082"
+    },
+    {
+        "collection_id": 653,
+        "collection_name": "213\nPaestum 4926"
+    },
+    {
+        "collection_id": 654,
+        "collection_name": "215\nPaestum 1770"
+    },
+    {
+        "collection_id": 655,
+        "collection_name": "216\nPaestum 4923"
+    },
+    {
+        "collection_id": 656,
+        "collection_name": "218\nPaestum 31988"
+    },
+    {
+        "collection_id": 657,
+        "collection_name": "219\nGeneva I 697"
+    },
+    {
+        "collection_id": 658,
+        "collection_name": "220\nPaestum 34860"
+    },
+    {
+        "collection_id": 659,
+        "collection_name": "221\nPaestum 5436"
+    },
+    {
+        "collection_id": 660,
+        "collection_name": "222\nPaestum 5670"
+    },
+    {
+        "collection_id": 661,
+        "collection_name": "223\nHazlet (N. J.)"
+    },
+    {
+        "collection_id": 662,
+        "collection_name": "225\nPaestum 32013"
+    },
+    {
+        "collection_id": 663,
+        "collection_name": "226\nPaestum 4921"
+    },
+    {
+        "collection_id": 664,
+        "collection_name": "227\nPaestum 21516"
+    },
+    {
+        "collection_id": 665,
+        "collection_name": "228\nPaestum 32245"
+    },
+    {
+        "collection_id": 666,
+        "collection_name": "229\nPaestum 6256"
+    },
+    {
+        "collection_id": 667,
+        "collection_name": "230\nPaestum 4960"
+    },
+    {
+        "collection_id": 668,
+        "collection_name": "59\nPalermo 5532"
+    },
+    {
+        "collection_id": 669,
+        "collection_name": "61\nNaples 2583 (inv. 82033)"
+    },
+    {
+        "collection_id": 670,
+        "collection_name": "62\nNaples 2589 (inv. 82092)"
+    },
+    {
+        "collection_id": 671,
+        "collection_name": "63\nNaples 3468 (inv. 82088)"
+    },
+    {
+        "collection_id": 672,
+        "collection_name": "64\nMadrid 11293 (L. 510)"
+    },
+    {
+        "collection_id": 673,
+        "collection_name": "65\nPaestum 24320"
+    },
+    {
+        "collection_id": 674,
+        "collection_name": "72\nPaestum 22906"
+    },
+    {
+        "collection_id": 675,
+        "collection_name": "73\nNaples 2681 (inv. 82059)"
+    },
+    {
+        "collection_id": 676,
+        "collection_name": "74\nGeneva Market"
+    },
+    {
+        "collection_id": 677,
+        "collection_name": "77\nSalerno"
+    },
+    {
+        "collection_id": 678,
+        "collection_name": "79\nMadrid 11230 (L. 397)"
+    },
+    {
+        "collection_id": 679,
+        "collection_name": "80\nPaestum 6258"
+    },
+    {
+        "collection_id": 680,
+        "collection_name": "81\nPaestum 31891"
+    },
+    {
+        "collection_id": 681,
+        "collection_name": "82\nPaestum 21527"
+    },
+    {
+        "collection_id": 682,
+        "collection_name": "83\nPaestum 28902"
+    },
+    {
+        "collection_id": 683,
+        "collection_name": "87\nRio de Janeiro 1530"
+    },
+    {
+        "collection_id": 684,
+        "collection_name": "88\nPaestum 6236"
+    },
+    {
+        "collection_id": 685,
+        "collection_name": "91\nPaestum"
+    },
+    {
+        "collection_id": 686,
+        "collection_name": "93\nSalerno"
+    },
+    {
+        "collection_id": 687,
+        "collection_name": "94\nSalerno"
+    },
+    {
+        "collection_id": 688,
+        "collection_name": "95\nPaestum"
+    },
+    {
+        "collection_id": 689,
+        "collection_name": "96\nPaestum 22586"
+    },
+    {
+        "collection_id": 690,
+        "collection_name": "97\nPaestum 1769"
+    },
+    {
+        "collection_id": 691,
+        "collection_name": "98\nPaestum 5050"
+    },
+    {
+        "collection_id": 692,
+        "collection_name": "99\nPaestum"
+    },
+    {
+        "collection_id": 693,
+        "collection_name": "100\nNe w York"
+    },
+    {
+        "collection_id": 694,
+        "collection_name": "101\nOnce London Market"
+    },
+    {
+        "collection_id": 695,
+        "collection_name": "103\nPaestum 5199"
+    },
+    {
+        "collection_id": 696,
+        "collection_name": "105\nPaestum 6592"
+    },
+    {
+        "collection_id": 697,
+        "collection_name": "111\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 698,
+        "collection_name": "112\nSalerno"
+    },
+    {
+        "collection_id": 699,
+        "collection_name": "113\nMadrid 11327 (L. 528)"
+    },
+    {
+        "collection_id": 700,
+        "collection_name": "114\nOnce Basel Market"
+    },
+    {
+        "collection_id": 701,
+        "collection_name": "115\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 702,
+        "collection_name": "116\nPaestum"
+    },
+    {
+        "collection_id": 703,
+        "collection_name": "118\nPaestum 20345"
+    },
+    {
+        "collection_id": 704,
+        "collection_name": "119\nPaestum 4930"
+    },
+    {
+        "collection_id": 705,
+        "collection_name": "120\nMadrid 11315 (L. 520)"
+    },
+    {
+        "collection_id": 706,
+        "collection_name": "121\nMadrid 11314 (L. 527)"
+    },
+    {
+        "collection_id": 707,
+        "collection_name": "122\nOnce Geneva Market"
+    },
+    {
+        "collection_id": 708,
+        "collection_name": "49\nNaples 1794 (inv. 81681)"
+    },
+    {
+        "collection_id": 709,
+        "collection_name": "50\nMadrid 11493 (L. 476)"
+    },
+    {
+        "collection_id": 710,
+        "collection_name": "52\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 711,
+        "collection_name": "53\nPaestum 21185"
+    },
+    {
+        "collection_id": 712,
+        "collection_name": "55\nPaestum 24322"
+    },
+    {
+        "collection_id": 713,
+        "collection_name": "56\nPaestum 4915"
+    },
+    {
+        "collection_id": 714,
+        "collection_name": "4\nOnce Deepdene"
+    },
+    {
+        "collection_id": 715,
+        "collection_name": "9\nSalerno"
+    },
+    {
+        "collection_id": 716,
+        "collection_name": "10\nPaestum 6623"
+    },
+    {
+        "collection_id": 717,
+        "collection_name": "11\nPaestum 21404"
+    },
+    {
+        "collection_id": 718,
+        "collection_name": "17\nPaestum 22306"
+    },
+    {
+        "collection_id": 719,
+        "collection_name": "18\nPaestum 5214"
+    },
+    {
+        "collection_id": 720,
+        "collection_name": "19\nPaestum 6591"
+    },
+    {
+        "collection_id": 721,
+        "collection_name": "21\nPaestum 20351"
+    },
+    {
+        "collection_id": 722,
+        "collection_name": "27\nPaestum 7464"
+    },
+    {
+        "collection_id": 723,
+        "collection_name": "28\nPaestum"
+    },
+    {
+        "collection_id": 724,
+        "collection_name": "29\nNaples 124288"
+    },
+    {
+        "collection_id": 725,
+        "collection_name": "30\nOnce Geneva Market"
+    },
+    {
+        "collection_id": 726,
+        "collection_name": "31\nPaestum"
+    },
+    {
+        "collection_id": 727,
+        "collection_name": "32\nPaestum"
+    },
+    {
+        "collection_id": 728,
+        "collection_name": "35\nNaples 2267 (inv. 82212)"
+    },
+    {
+        "collection_id": 729,
+        "collection_name": "37\nNaples 1784 (inv. 82315)"
+    },
+    {
+        "collection_id": 730,
+        "collection_name": "39\nPaestum 5602"
+    },
+    {
+        "collection_id": 731,
+        "collection_name": "41\nNaples 3426 (inv. 82317)"
+    },
+    {
+        "collection_id": 732,
+        "collection_name": "42\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 733,
+        "collection_name": "44\nPaestum 21485"
+    },
+    {
+        "collection_id": 734,
+        "collection_name": "45\nPalermo 2206 (old no. 1006)"
+    },
+    {
+        "collection_id": 735,
+        "collection_name": "46\nBerlin F 3081"
+    },
+    {
+        "collection_id": 736,
+        "collection_name": "262\nPaestum"
+    },
+    {
+        "collection_id": 737,
+        "collection_name": "263\nPaestum 22735"
+    },
+    {
+        "collection_id": 738,
+        "collection_name": "269\nPaestum 6510"
+    },
+    {
+        "collection_id": 739,
+        "collection_name": "272\nAdolphseck"
+    },
+    {
+        "collection_id": 740,
+        "collection_name": "275\nPaestum 21576"
+    },
+    {
+        "collection_id": 741,
+        "collection_name": "276\nPaestum 21577"
+    },
+    {
+        "collection_id": 742,
+        "collection_name": "277\nNaples 1960 (inv. 82173)"
+    },
+    {
+        "collection_id": 743,
+        "collection_name": "278\nPaestum 21180"
+    },
+    {
+        "collection_id": 744,
+        "collection_name": "280\nPaestum"
+    },
+    {
+        "collection_id": 745,
+        "collection_name": "281\nPaestum"
+    },
+    {
+        "collection_id": 746,
+        "collection_name": "282\nPaestum 31914"
+    },
+    {
+        "collection_id": 747,
+        "collection_name": "283\nPaestum 31775"
+    },
+    {
+        "collection_id": 748,
+        "collection_name": "292\nPaestum 22068"
+    },
+    {
+        "collection_id": 749,
+        "collection_name": "295\nPaestum 5668"
+    },
+    {
+        "collection_id": 750,
+        "collection_name": "245\nCracow"
+    },
+    {
+        "collection_id": 751,
+        "collection_name": "246\nPaestum 7150"
+    },
+    {
+        "collection_id": 752,
+        "collection_name": "248\nPaestum 20213"
+    },
+    {
+        "collection_id": 753,
+        "collection_name": "249\nPaestum 21694"
+    },
+    {
+        "collection_id": 754,
+        "collection_name": "250\nPaestum 22346"
+    },
+    {
+        "collection_id": 755,
+        "collection_name": "251\nBerlin F 3060"
+    },
+    {
+        "collection_id": 756,
+        "collection_name": "252\nLausanne"
+    },
+    {
+        "collection_id": 757,
+        "collection_name": "253\nOnce London Market"
+    },
+    {
+        "collection_id": 758,
+        "collection_name": "254\nPaestum 5680"
+    },
+    {
+        "collection_id": 759,
+        "collection_name": "255\nPaestum 5534"
+    },
+    {
+        "collection_id": 760,
+        "collection_name": "259\nPaestum 22348"
+    },
+    {
+        "collection_id": 761,
+        "collection_name": "260\nPaestum 21181"
+    },
+    {
+        "collection_id": 762,
+        "collection_name": "261\nPaestum"
+    },
+    {
+        "collection_id": 763,
+        "collection_name": "301\nCambridge (Mass.)"
+    },
+    {
+        "collection_id": 764,
+        "collection_name": "302\nNew York Market"
+    },
+    {
+        "collection_id": 765,
+        "collection_name": "303\nCapua"
+    },
+    {
+        "collection_id": 766,
+        "collection_name": "304\nTurin"
+    },
+    {
+        "collection_id": 767,
+        "collection_name": "305\nZurich 2641"
+    },
+    {
+        "collection_id": 768,
+        "collection_name": "306\nNaples 2553 (inv. 82094)"
+    },
+    {
+        "collection_id": 769,
+        "collection_name": "307\nNaples 2549 (inv. 82062)"
+    },
+    {
+        "collection_id": 770,
+        "collection_name": "308\nPaestum 21183"
+    },
+    {
+        "collection_id": 771,
+        "collection_name": "310\nPaestum 20336"
+    },
+    {
+        "collection_id": 772,
+        "collection_name": "315\nPaestum 21403"
+    },
+    {
+        "collection_id": 773,
+        "collection_name": "316\nSanta Monica"
+    },
+    {
+        "collection_id": 774,
+        "collection_name": "317\nOnce Paris Market"
+    },
+    {
+        "collection_id": 775,
+        "collection_name": "320\nAdolphseck 173 (on loan to Kassel, AV 541)"
+    },
+    {
+        "collection_id": 776,
+        "collection_name": "321\nOnce London Market"
+    },
+    {
+        "collection_id": 777,
+        "collection_name": "322\nMilan"
+    },
+    {
+        "collection_id": 778,
+        "collection_name": "244\nPaestum 22350"
+    },
+    {
+        "collection_id": 779,
+        "collection_name": "551\nNaples 185587"
+    },
+    {
+        "collection_id": 780,
+        "collection_name": "553\nPaestum 5515"
+    },
+    {
+        "collection_id": 781,
+        "collection_name": "554\nPaestum 32852"
+    },
+    {
+        "collection_id": 782,
+        "collection_name": "556\nPaestum 6002"
+    },
+    {
+        "collection_id": 783,
+        "collection_name": "557\nGenoa"
+    },
+    {
+        "collection_id": 784,
+        "collection_name": "558\nPaestum 6613 A"
+    },
+    {
+        "collection_id": 785,
+        "collection_name": "333\nPaestum 21159"
+    },
+    {
+        "collection_id": 786,
+        "collection_name": "334\nPaestum 21988"
+    },
+    {
+        "collection_id": 787,
+        "collection_name": "335\nPaestum 32394"
+    },
+    {
+        "collection_id": 788,
+        "collection_name": "336\nPaestum 28903"
+    },
+    {
+        "collection_id": 789,
+        "collection_name": "343\nRuvo"
+    },
+    {
+        "collection_id": 790,
+        "collection_name": "345\nMadrid 11228 (L. 403)"
+    },
+    {
+        "collection_id": 791,
+        "collection_name": "349\nPaestum"
+    },
+    {
+        "collection_id": 792,
+        "collection_name": "350\nPaestum 22660"
+    },
+    {
+        "collection_id": 793,
+        "collection_name": "351\nPaestum 20142"
+    },
+    {
+        "collection_id": 794,
+        "collection_name": "352\nPaestum 20324"
+    },
+    {
+        "collection_id": 795,
+        "collection_name": "353\nPaestum 5066"
+    },
+    {
+        "collection_id": 796,
+        "collection_name": "354\nMadrid 11242"
+    },
+    {
+        "collection_id": 797,
+        "collection_name": "356\nRome"
+    },
+    {
+        "collection_id": 798,
+        "collection_name": "358\nS"
+    },
+    {
+        "collection_id": 799,
+        "collection_name": "362\nSalerno"
+    },
+    {
+        "collection_id": 800,
+        "collection_name": "363\nBenevento 28466"
+    },
+    {
+        "collection_id": 801,
+        "collection_name": "365\nBenevento 348 XXVII"
+    },
+    {
+        "collection_id": 802,
+        "collection_name": "366\nBenevento 615 S (348a)"
+    },
+    {
+        "collection_id": 803,
+        "collection_name": "367\nBenevento 616 S (348c)"
+    },
+    {
+        "collection_id": 804,
+        "collection_name": "368\nOnce London Market"
+    },
+    {
+        "collection_id": 805,
+        "collection_name": "370\nVatican U 16 (inv. 17964)"
+    },
+    {
+        "collection_id": 806,
+        "collection_name": "371\nS"
+    },
+    {
+        "collection_id": 807,
+        "collection_name": "372\nS"
+    },
+    {
+        "collection_id": 808,
+        "collection_name": "376\nMnichovo Hradiste"
+    },
+    {
+        "collection_id": 809,
+        "collection_name": "379\nNaples 1942 (inv. 82571)"
+    },
+    {
+        "collection_id": 810,
+        "collection_name": "380\nNaples 1791 (inv. 82916)"
+    },
+    {
+        "collection_id": 811,
+        "collection_name": "382\nLouvre K 265 bis"
+    },
+    {
+        "collection_id": 812,
+        "collection_name": "384\nLost"
+    },
+    {
+        "collection_id": 813,
+        "collection_name": "385\nPaestum 6133"
+    },
+    {
+        "collection_id": 814,
+        "collection_name": "386\nPalermo 2260 (old no. 1098)"
+    },
+    {
+        "collection_id": 815,
+        "collection_name": "387\nDublin"
+    },
+    {
+        "collection_id": 816,
+        "collection_name": "390\nMadrid 11145"
+    },
+    {
+        "collection_id": 817,
+        "collection_name": "391\nMadrid 11222"
+    },
+    {
+        "collection_id": 818,
+        "collection_name": "396\nPaestum"
+    },
+    {
+        "collection_id": 819,
+        "collection_name": "400\nOnce Geneva Market"
+    },
+    {
+        "collection_id": 820,
+        "collection_name": "401\nGeneva 23472"
+    },
+    {
+        "collection_id": 821,
+        "collection_name": "402\nPaestum 5183"
+    },
+    {
+        "collection_id": 822,
+        "collection_name": "403\nPaestum"
+    },
+    {
+        "collection_id": 823,
+        "collection_name": "405\nPaestum 5472"
+    },
+    {
+        "collection_id": 824,
+        "collection_name": "406\nMadrid 11515 (L. 450)"
+    },
+    {
+        "collection_id": 825,
+        "collection_name": "407\nLeningrad inv"
+    },
+    {
+        "collection_id": 826,
+        "collection_name": "409\nPaestum"
+    },
+    {
+        "collection_id": 827,
+        "collection_name": "411\nPaestum 32861"
+    },
+    {
+        "collection_id": 828,
+        "collection_name": "412\nPaestum 1273"
+    },
+    {
+        "collection_id": 829,
+        "collection_name": "413\nMadrid 11494 (L. 478)"
+    },
+    {
+        "collection_id": 830,
+        "collection_name": "414\nParis"
+    },
+    {
+        "collection_id": 831,
+        "collection_name": "417\nPaestum 24670"
+    },
+    {
+        "collection_id": 832,
+        "collection_name": "418\nNe w York Market"
+    },
+    {
+        "collection_id": 833,
+        "collection_name": "421\nMadrid 11279 (L. 505)"
+    },
+    {
+        "collection_id": 834,
+        "collection_name": "423\nPaestum 5473"
+    },
+    {
+        "collection_id": 835,
+        "collection_name": "424\nPaestum"
+    },
+    {
+        "collection_id": 836,
+        "collection_name": "425\nS"
+    },
+    {
+        "collection_id": 837,
+        "collection_name": "428\nPaestum 24672"
+    },
+    {
+        "collection_id": 838,
+        "collection_name": "429\nPaestum 41064"
+    },
+    {
+        "collection_id": 839,
+        "collection_name": "430\nMadrid 11294 (L. 512)"
+    },
+    {
+        "collection_id": 840,
+        "collection_name": "432\nMadrid 11399 (L. 496)"
+    },
+    {
+        "collection_id": 841,
+        "collection_name": "433\nPaestum 21487"
+    },
+    {
+        "collection_id": 842,
+        "collection_name": "435\nBenevento"
+    },
+    {
+        "collection_id": 843,
+        "collection_name": "436\nLouvre K 267"
+    },
+    {
+        "collection_id": 844,
+        "collection_name": "438\nOnce Geneva Market"
+    },
+    {
+        "collection_id": 845,
+        "collection_name": "440\nPaestum 22268"
+    },
+    {
+        "collection_id": 846,
+        "collection_name": "445\nPaestum 22267"
+    },
+    {
+        "collection_id": 847,
+        "collection_name": "446\nPaestum"
+    },
+    {
+        "collection_id": 848,
+        "collection_name": "455\nPaestum 24611"
+    },
+    {
+        "collection_id": 849,
+        "collection_name": "456\nS"
+    },
+    {
+        "collection_id": 850,
+        "collection_name": "457\nNaples 1876 (inv. 82614)"
+    },
+    {
+        "collection_id": 851,
+        "collection_name": "458\nGenoa 1225"
+    },
+    {
+        "collection_id": 852,
+        "collection_name": "461\nLouvre K 367"
+    },
+    {
+        "collection_id": 853,
+        "collection_name": "463\nTrapani 5255"
+    },
+    {
+        "collection_id": 854,
+        "collection_name": "466\nPaestum 26682"
+    },
+    {
+        "collection_id": 855,
+        "collection_name": "467\nPaestum 31890"
+    },
+    {
+        "collection_id": 856,
+        "collection_name": "471\nPaestum 24608"
+    },
+    {
+        "collection_id": 857,
+        "collection_name": "472\nPaestum 24605"
+    },
+    {
+        "collection_id": 858,
+        "collection_name": "473\nPaestum 24606"
+    },
+    {
+        "collection_id": 859,
+        "collection_name": "474\nPaestum 24607"
+    },
+    {
+        "collection_id": 860,
+        "collection_name": "477\nMadrid 11250 (L. 412)"
+    },
+    {
+        "collection_id": 861,
+        "collection_name": "478\nMadrid 11251 (L. 413)"
+    },
+    {
+        "collection_id": 862,
+        "collection_name": "482\nPaestum 6487"
+    },
+    {
+        "collection_id": 863,
+        "collection_name": "483\nOnce Athens Market"
+    },
+    {
+        "collection_id": 864,
+        "collection_name": "485\nPaestum 21532"
+    },
+    {
+        "collection_id": 865,
+        "collection_name": "486\nOnce Zurich Market"
+    },
+    {
+        "collection_id": 866,
+        "collection_name": "490\nPaestum"
+    },
+    {
+        "collection_id": 867,
+        "collection_name": "491\nNaples VI 1401"
+    },
+    {
+        "collection_id": 868,
+        "collection_name": "493\nPaestum"
+    },
+    {
+        "collection_id": 869,
+        "collection_name": "494\nPaestum 5323"
+    },
+    {
+        "collection_id": 870,
+        "collection_name": "495\nS"
+    },
+    {
+        "collection_id": 871,
+        "collection_name": "496\nPaestum 22991"
+    },
+    {
+        "collection_id": 872,
+        "collection_name": "497\nMadrid 11155"
+    },
+    {
+        "collection_id": 873,
+        "collection_name": "498\nSalerno"
+    },
+    {
+        "collection_id": 874,
+        "collection_name": "500\nTurin 4596"
+    },
+    {
+        "collection_id": 875,
+        "collection_name": "501\nTurin 4697"
+    },
+    {
+        "collection_id": 876,
+        "collection_name": "502\nTurin 4597"
+    },
+    {
+        "collection_id": 877,
+        "collection_name": "508\nNaples 816 (81896)"
+    },
+    {
+        "collection_id": 878,
+        "collection_name": "509\nMunich"
+    },
+    {
+        "collection_id": 879,
+        "collection_name": "510\nNaples 723 (inv. 81892)"
+    },
+    {
+        "collection_id": 880,
+        "collection_name": "511\nPaestum 30842"
+    },
+    {
+        "collection_id": 881,
+        "collection_name": "512\nPaestum"
+    },
+    {
+        "collection_id": 882,
+        "collection_name": "513\nPaestum 5228"
+    },
+    {
+        "collection_id": 883,
+        "collection_name": "514\nPaestum 24647"
+    },
+    {
+        "collection_id": 884,
+        "collection_name": "515\nPaestum 24584"
+    },
+    {
+        "collection_id": 885,
+        "collection_name": "517\nMadrid 11533 (L. 469)"
+    },
+    {
+        "collection_id": 886,
+        "collection_name": "518\nMadrid 11522 (L. 470)"
+    },
+    {
+        "collection_id": 887,
+        "collection_name": "522\nPaestum"
+    },
+    {
+        "collection_id": 888,
+        "collection_name": "523\nPaestum"
+    },
+    {
+        "collection_id": 889,
+        "collection_name": "524\nPaestum 24646"
+    },
+    {
+        "collection_id": 890,
+        "collection_name": "525\nPaestum 6143"
+    },
+    {
+        "collection_id": 891,
+        "collection_name": "526\nPaestum 5166"
+    },
+    {
+        "collection_id": 892,
+        "collection_name": "527\nPaestum 5335"
+    },
+    {
+        "collection_id": 893,
+        "collection_name": "528\nPaestum 32285"
+    },
+    {
+        "collection_id": 894,
+        "collection_name": "530\nPaestum"
+    },
+    {
+        "collection_id": 895,
+        "collection_name": "536\nPaestum 7435"
+    },
+    {
+        "collection_id": 896,
+        "collection_name": "537\nNaples 2693 (inv. 82066)"
+    },
+    {
+        "collection_id": 897,
+        "collection_name": "538\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 898,
+        "collection_name": "542\nPaestum"
+    },
+    {
+        "collection_id": 899,
+        "collection_name": "543\nPaestum 1736"
+    },
+    {
+        "collection_id": 900,
+        "collection_name": "547\nPaestum"
+    },
+    {
+        "collection_id": 901,
+        "collection_name": "549\nPaestum 5116"
+    },
+    {
+        "collection_id": 902,
+        "collection_name": "562\nPaestum 24616"
+    },
+    {
+        "collection_id": 903,
+        "collection_name": "564\nVatican U 20 (inv. 17968)"
+    },
+    {
+        "collection_id": 904,
+        "collection_name": "567\nMatera 156622"
+    },
+    {
+        "collection_id": 905,
+        "collection_name": "568\nPaestum 7446"
+    },
+    {
+        "collection_id": 906,
+        "collection_name": "570\nOnce Basel Market"
+    },
+    {
+        "collection_id": 907,
+        "collection_name": "571\nPaestum 21471"
+    },
+    {
+        "collection_id": 908,
+        "collection_name": "572\nPaestum 5705"
+    },
+    {
+        "collection_id": 909,
+        "collection_name": "573\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 910,
+        "collection_name": "575\nPaestum 24617"
+    },
+    {
+        "collection_id": 911,
+        "collection_name": "576\nLeningrad 4746"
+    },
+    {
+        "collection_id": 912,
+        "collection_name": "577\nBerlin F 3612"
+    },
+    {
+        "collection_id": 913,
+        "collection_name": "578\nAgrigento R 205"
+    },
+    {
+        "collection_id": 914,
+        "collection_name": "579\nOnce Gy (Geneva)"
+    },
+    {
+        "collection_id": 915,
+        "collection_name": "580\nPaestum 5474"
+    },
+    {
+        "collection_id": 916,
+        "collection_name": "585\nPaestum 5423"
+    },
+    {
+        "collection_id": 917,
+        "collection_name": "588\nPaestum 6541"
+    },
+    {
+        "collection_id": 918,
+        "collection_name": "589\nPaestum 1237"
+    },
+    {
+        "collection_id": 919,
+        "collection_name": "592\nPaestum 5247"
+    },
+    {
+        "collection_id": 920,
+        "collection_name": "608\nPaestum"
+    },
+    {
+        "collection_id": 921,
+        "collection_name": "609\nPaestum"
+    },
+    {
+        "collection_id": 922,
+        "collection_name": "610\nPaestum"
+    },
+    {
+        "collection_id": 923,
+        "collection_name": "611\nPaestum"
+    },
+    {
+        "collection_id": 924,
+        "collection_name": "612\nPaestum"
+    },
+    {
+        "collection_id": 925,
+        "collection_name": "613\nNaples 134285"
+    },
+    {
+        "collection_id": 926,
+        "collection_name": "614\nPaestum 5542"
+    },
+    {
+        "collection_id": 927,
+        "collection_name": "615\nPaestum 5562"
+    },
+    {
+        "collection_id": 928,
+        "collection_name": "604\nPaestum"
+    },
+    {
+        "collection_id": 929,
+        "collection_name": "605\nNaples 3025 (inv. 81914)"
+    },
+    {
+        "collection_id": 930,
+        "collection_name": "606\nMadrid 11607 (L. 350)"
+    },
+    {
+        "collection_id": 931,
+        "collection_name": "607\nPaestum 3551"
+    },
+    {
+        "collection_id": 932,
+        "collection_name": "616\nPaestum"
+    },
+    {
+        "collection_id": 933,
+        "collection_name": "617\nPaestum"
+    },
+    {
+        "collection_id": 934,
+        "collection_name": "600\nPaestum"
+    },
+    {
+        "collection_id": 935,
+        "collection_name": "602\nPaestum"
+    },
+    {
+        "collection_id": 936,
+        "collection_name": "603\nLouvre K 368"
+    },
+    {
+        "collection_id": 937,
+        "collection_name": "599\nNaples 803 (inv. 82745)"
+    },
+    {
+        "collection_id": 938,
+        "collection_name": "629\nNaples"
+    },
+    {
+        "collection_id": 939,
+        "collection_name": "632\nSalerno"
+    },
+    {
+        "collection_id": 940,
+        "collection_name": "633\nPontecagnano"
+    },
+    {
+        "collection_id": 941,
+        "collection_name": "636\nOnce Bern Market"
+    },
+    {
+        "collection_id": 942,
+        "collection_name": "637\nPaestum 24612"
+    },
+    {
+        "collection_id": 943,
+        "collection_name": "638\nPaestum"
+    },
+    {
+        "collection_id": 944,
+        "collection_name": "639\nPaestum 24613"
+    },
+    {
+        "collection_id": 945,
+        "collection_name": "652\nPaestum"
+    },
+    {
+        "collection_id": 946,
+        "collection_name": "653\nPaestum 41473"
+    },
+    {
+        "collection_id": 947,
+        "collection_name": "654\nPaestum 40860"
+    },
+    {
+        "collection_id": 948,
+        "collection_name": "659\nPaestum 3489 BA"
+    },
+    {
+        "collection_id": 949,
+        "collection_name": "647\nPaestum"
+    },
+    {
+        "collection_id": 950,
+        "collection_name": "647\nA Another fragment"
+    },
+    {
+        "collection_id": 951,
+        "collection_name": "644\nPaestum 27088"
+    },
+    {
+        "collection_id": 952,
+        "collection_name": "13\na Once Freiburg Market"
+    },
+    {
+        "collection_id": 953,
+        "collection_name": "64\na Geneva"
+    },
+    {
+        "collection_id": 954,
+        "collection_name": "690\nPaestum 26989"
+    },
+    {
+        "collection_id": 955,
+        "collection_name": "692\nPaestum"
+    },
+    {
+        "collection_id": 956,
+        "collection_name": "693\nPaestum"
+    },
+    {
+        "collection_id": 957,
+        "collection_name": "695\nPaestum"
+    },
+    {
+        "collection_id": 958,
+        "collection_name": "696\nPaestum 32067"
+    },
+    {
+        "collection_id": 959,
+        "collection_name": "697\nPaestum 6381"
+    },
+    {
+        "collection_id": 960,
+        "collection_name": "698\nPaestum"
+    },
+    {
+        "collection_id": 961,
+        "collection_name": "702\nPaestum"
+    },
+    {
+        "collection_id": 962,
+        "collection_name": "1\nPaestum 24111"
+    },
+    {
+        "collection_id": 963,
+        "collection_name": "2\nPaestum 6205"
+    },
+    {
+        "collection_id": 964,
+        "collection_name": "3\nPaestum 24145"
+    },
+    {
+        "collection_id": 965,
+        "collection_name": "4\nPaestum 3553"
+    },
+    {
+        "collection_id": 966,
+        "collection_name": "5\nPaestum 24122"
+    },
+    {
+        "collection_id": 967,
+        "collection_name": "6\nPaestum 3552"
+    },
+    {
+        "collection_id": 968,
+        "collection_name": "7\nPaestum 24109"
+    },
+    {
+        "collection_id": 969,
+        "collection_name": "8\nPaestum 22381"
+    },
+    {
+        "collection_id": 970,
+        "collection_name": "9\nPaestum 22163"
+    },
+    {
+        "collection_id": 971,
+        "collection_name": "10\nPaestum 39955"
+    },
+    {
+        "collection_id": 972,
+        "collection_name": "11\nPaestum 22430"
+    },
+    {
+        "collection_id": 973,
+        "collection_name": "12\nPaestum 24905"
+    },
+    {
+        "collection_id": 974,
+        "collection_name": "2\nPaestum 6016"
+    },
+    {
+        "collection_id": 975,
+        "collection_name": "3\nPaestum 24997"
+    },
+    {
+        "collection_id": 976,
+        "collection_name": "4\nMadrid 11257 (L. 544)"
+    },
+    {
+        "collection_id": 977,
+        "collection_name": "5\nMadrid 11260 (L. 545)"
+    },
+    {
+        "collection_id": 978,
+        "collection_name": "6\nMadrid 11262 (L. 543)"
+    },
+    {
+        "collection_id": 979,
+        "collection_name": "7\nPaestum 39109"
+    },
+    {
+        "collection_id": 980,
+        "collection_name": "8\nPaestum 21201"
+    },
+    {
+        "collection_id": 981,
+        "collection_name": "9\nPaestum 21583"
+    },
+    {
+        "collection_id": 982,
+        "collection_name": "10\nNaples 844 (inv. 82896)"
+    },
+    {
+        "collection_id": 983,
+        "collection_name": "11\nPaestum 6508"
+    },
+    {
+        "collection_id": 984,
+        "collection_name": "12\nPaestum 21463"
+    },
+    {
+        "collection_id": 985,
+        "collection_name": "13\nPaestum 21219"
+    },
+    {
+        "collection_id": 986,
+        "collection_name": "15\nOnce Chicago Market"
+    },
+    {
+        "collection_id": 987,
+        "collection_name": "16\nNaples"
+    },
+    {
+        "collection_id": 988,
+        "collection_name": "17\nNaples"
+    },
+    {
+        "collection_id": 989,
+        "collection_name": "18\nPaestum 22324"
+    },
+    {
+        "collection_id": 990,
+        "collection_name": "19\nPaestum 31717"
+    },
+    {
+        "collection_id": 991,
+        "collection_name": "20\nPaestum 6191"
+    },
+    {
+        "collection_id": 992,
+        "collection_name": "21\nPaestum 26609"
+    },
+    {
+        "collection_id": 993,
+        "collection_name": "22\nPaestum 26610"
+    },
+    {
+        "collection_id": 994,
+        "collection_name": "23\nPaestum 26611"
+    },
+    {
+        "collection_id": 995,
+        "collection_name": "24\nPaestum 26612"
+    },
+    {
+        "collection_id": 996,
+        "collection_name": "26\nOnce Ascona Market"
+    },
+    {
+        "collection_id": 997,
+        "collection_name": "27\nPaestum 20195"
+    },
+    {
+        "collection_id": 998,
+        "collection_name": "28\nPaestum 6017"
+    },
+    {
+        "collection_id": 999,
+        "collection_name": "29\nPaestum 25013"
+    },
+    {
+        "collection_id": 1000,
+        "collection_name": "30\nOnce London Market"
+    },
+    {
+        "collection_id": 1001,
+        "collection_name": "32\nPaestum 31751"
+    },
+    {
+        "collection_id": 1002,
+        "collection_name": "33\nMadrid 11156 (L. 559)"
+    },
+    {
+        "collection_id": 1003,
+        "collection_name": "34\nCapua 7533 (P. 32)"
+    },
+    {
+        "collection_id": 1004,
+        "collection_name": "35\nOnce Los Angeles Market"
+    },
+    {
+        "collection_id": 1005,
+        "collection_name": "36\nOnce Los Angeles Market"
+    },
+    {
+        "collection_id": 1006,
+        "collection_name": "37\nVerona 138 Ce"
+    },
+    {
+        "collection_id": 1007,
+        "collection_name": "38\nPaestum 22592"
+    },
+    {
+        "collection_id": 1008,
+        "collection_name": "40\nPaestum 21170"
+    },
+    {
+        "collection_id": 1009,
+        "collection_name": "41\nMadrid 11460 (L. 547)"
+    },
+    {
+        "collection_id": 1010,
+        "collection_name": "42\nPaestum 31754"
+    },
+    {
+        "collection_id": 1011,
+        "collection_name": "43\nOnce Basel Market"
+    },
+    {
+        "collection_id": 1012,
+        "collection_name": "44\nPaestum 5391"
+    },
+    {
+        "collection_id": 1013,
+        "collection_name": "45\nPaestum 21442"
+    },
+    {
+        "collection_id": 1014,
+        "collection_name": "47\nPaestum"
+    },
+    {
+        "collection_id": 1015,
+        "collection_name": "48\nPaestum 26614"
+    },
+    {
+        "collection_id": 1016,
+        "collection_name": "49\nMadrid 11538 (L. 550)"
+    },
+    {
+        "collection_id": 1017,
+        "collection_name": "50\nNaples 188372"
+    },
+    {
+        "collection_id": 1018,
+        "collection_name": "51\nPaestum 5386"
+    },
+    {
+        "collection_id": 1019,
+        "collection_name": "52\nPaestum 22937"
+    },
+    {
+        "collection_id": 1020,
+        "collection_name": "53\nMadrid 11536 (L. 551)"
+    },
+    {
+        "collection_id": 1021,
+        "collection_name": "55\nPaestum 25078"
+    },
+    {
+        "collection_id": 1022,
+        "collection_name": "56\nPontecagnano 36403"
+    },
+    {
+        "collection_id": 1023,
+        "collection_name": "57\nPaestum 5396"
+    },
+    {
+        "collection_id": 1024,
+        "collection_name": "58\nNaples 188371"
+    },
+    {
+        "collection_id": 1025,
+        "collection_name": "59\nPontecagnano 16688"
+    },
+    {
+        "collection_id": 1026,
+        "collection_name": "60\nPaestum 21250"
+    },
+    {
+        "collection_id": 1027,
+        "collection_name": "61\nScottsdale (Arizona)"
+    },
+    {
+        "collection_id": 1028,
+        "collection_name": "62\nOnce Basel Market"
+    },
+    {
+        "collection_id": 1029,
+        "collection_name": "63\nPaestum 26613"
+    },
+    {
+        "collection_id": 1030,
+        "collection_name": "64\nNaples 841 (inv. 82681)"
+    },
+    {
+        "collection_id": 1031,
+        "collection_name": "65\nPaestum 21264"
+    },
+    {
+        "collection_id": 1032,
+        "collection_name": "66\nPaestum 22379"
+    },
+    {
+        "collection_id": 1033,
+        "collection_name": "67\nPaestum 24991"
+    },
+    {
+        "collection_id": 1034,
+        "collection_name": "68\nPaestum 26608"
+    },
+    {
+        "collection_id": 1035,
+        "collection_name": "69\nMadrid 11416 (L. 564)"
+    },
+    {
+        "collection_id": 1036,
+        "collection_name": "70\nPaestum 6505"
+    },
+    {
+        "collection_id": 1037,
+        "collection_name": "71\nPaestum 21172"
+    },
+    {
+        "collection_id": 1038,
+        "collection_name": "72\nNaples inv"
+    },
+    {
+        "collection_id": 1039,
+        "collection_name": "73\nNaples 2121 (inv. 81982)"
+    },
+    {
+        "collection_id": 1040,
+        "collection_name": "74\nNaples 963 (inv. 82272)"
+    },
+    {
+        "collection_id": 1041,
+        "collection_name": "76\nMadrid 11415 (L. 559)"
+    },
+    {
+        "collection_id": 1042,
+        "collection_name": "77\nOnce Konigsberg (Kaliningrad)"
+    },
+    {
+        "collection_id": 1043,
+        "collection_name": "78\nPaestum 32342"
+    },
+    {
+        "collection_id": 1044,
+        "collection_name": "79\nPontecagnano 26145"
+    },
+    {
+        "collection_id": 1045,
+        "collection_name": "80\nPaestum 1745"
+    },
+    {
+        "collection_id": 1046,
+        "collection_name": "81\nNaples"
+    },
+    {
+        "collection_id": 1047,
+        "collection_name": "82\nPaestum 39106"
+    },
+    {
+        "collection_id": 1048,
+        "collection_name": "83\nNaples"
+    },
+    {
+        "collection_id": 1049,
+        "collection_name": "84\nNaples 838 (inv. 82591)"
+    },
+    {
+        "collection_id": 1050,
+        "collection_name": "85\nPaestum 6026"
+    },
+    {
+        "collection_id": 1051,
+        "collection_name": "86\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 1052,
+        "collection_name": "88\nPaestum 25014"
+    },
+    {
+        "collection_id": 1053,
+        "collection_name": "89\nNaples 862 (inv. 82872)"
+    },
+    {
+        "collection_id": 1054,
+        "collection_name": "91\nPaestum 32892"
+    },
+    {
+        "collection_id": 1055,
+        "collection_name": "92\nNaples 124290"
+    },
+    {
+        "collection_id": 1056,
+        "collection_name": "92\na Naples"
+    },
+    {
+        "collection_id": 1057,
+        "collection_name": "93\nPaestum 1746"
+    },
+    {
+        "collection_id": 1058,
+        "collection_name": "94\nPaestum 21148"
+    },
+    {
+        "collection_id": 1059,
+        "collection_name": "95\na Salerno"
+    },
+    {
+        "collection_id": 1060,
+        "collection_name": "96\nPaestum 21268"
+    },
+    {
+        "collection_id": 1061,
+        "collection_name": "97\nNe w York Market"
+    },
+    {
+        "collection_id": 1062,
+        "collection_name": "97\na Salerno"
+    },
+    {
+        "collection_id": 1063,
+        "collection_name": "99\nPaestum 5394"
+    },
+    {
+        "collection_id": 1064,
+        "collection_name": "100\nPaestum 22938"
+    },
+    {
+        "collection_id": 1065,
+        "collection_name": "101\nPaestum 32363"
+    },
+    {
+        "collection_id": 1066,
+        "collection_name": "102\nPaestum 21142"
+    },
+    {
+        "collection_id": 1067,
+        "collection_name": "103\nOnce Freiburg Market"
+    },
+    {
+        "collection_id": 1068,
+        "collection_name": "104\nChur K 44"
+    },
+    {
+        "collection_id": 1069,
+        "collection_name": "107\nNaples"
+    },
+    {
+        "collection_id": 1070,
+        "collection_name": "108\nAdolphseck 188"
+    },
+    {
+        "collection_id": 1071,
+        "collection_name": "111\nSevres 5335"
+    },
+    {
+        "collection_id": 1072,
+        "collection_name": "112\nOnce London Market"
+    },
+    {
+        "collection_id": 1073,
+        "collection_name": "113\nGeneva"
+    },
+    {
+        "collection_id": 1074,
+        "collection_name": "113\na Salerno"
+    },
+    {
+        "collection_id": 1075,
+        "collection_name": "115\nOnce London Market"
+    },
+    {
+        "collection_id": 1076,
+        "collection_name": "116\nNaples 904 (inv. 82783)"
+    },
+    {
+        "collection_id": 1077,
+        "collection_name": "117\nNaples 915 (inv. 82619)"
+    },
+    {
+        "collection_id": 1078,
+        "collection_name": "118\nNaples 3441 (inv. 82643)"
+    },
+    {
+        "collection_id": 1079,
+        "collection_name": "119\nNaples"
+    },
+    {
+        "collection_id": 1080,
+        "collection_name": "120\nNaples 1946 (inv. 81903)"
+    },
+    {
+        "collection_id": 1081,
+        "collection_name": "121\nLouvre K 642 (ED 683)"
+    },
+    {
+        "collection_id": 1082,
+        "collection_name": "122\nLouvre C A 2956"
+    },
+    {
+        "collection_id": 1083,
+        "collection_name": "123\nOnce Basel Market"
+    },
+    {
+        "collection_id": 1084,
+        "collection_name": "124\nNaples 2069 (inv. 82653)"
+    },
+    {
+        "collection_id": 1085,
+        "collection_name": "125\nPaestum 5244"
+    },
+    {
+        "collection_id": 1086,
+        "collection_name": "127\nMadrid 11070 (L. 542)"
+    },
+    {
+        "collection_id": 1087,
+        "collection_name": "129\nOnce Swiss Market"
+    },
+    {
+        "collection_id": 1088,
+        "collection_name": "130\nVienna 1147"
+    },
+    {
+        "collection_id": 1089,
+        "collection_name": "137\nNaples"
+    },
+    {
+        "collection_id": 1090,
+        "collection_name": "140\nMadrid 11056 (L. 540)"
+    },
+    {
+        "collection_id": 1091,
+        "collection_name": "141\nPaestum 6115"
+    },
+    {
+        "collection_id": 1092,
+        "collection_name": "143\nPaestum 21144"
+    },
+    {
+        "collection_id": 1093,
+        "collection_name": "144\nWurzburg 812"
+    },
+    {
+        "collection_id": 1094,
+        "collection_name": "145\nPaestum 1743"
+    },
+    {
+        "collection_id": 1095,
+        "collection_name": "147\nMadrid 11452 (L. 546)"
+    },
+    {
+        "collection_id": 1096,
+        "collection_name": "149\nPaestum 1742"
+    },
+    {
+        "collection_id": 1097,
+        "collection_name": "151\nPaestum 21265"
+    },
+    {
+        "collection_id": 1098,
+        "collection_name": "152\nPaestum 21267"
+    },
+    {
+        "collection_id": 1099,
+        "collection_name": "153\nPaestum 26615"
+    },
+    {
+        "collection_id": 1100,
+        "collection_name": "154\nMadrid 11527 (L. 552)"
+    },
+    {
+        "collection_id": 1101,
+        "collection_name": "155\nMadrid 11545 (L. 549)"
+    },
+    {
+        "collection_id": 1102,
+        "collection_name": "157\nPaestum 5431"
+    },
+    {
+        "collection_id": 1103,
+        "collection_name": "158\nPaestum 23183"
+    },
+    {
+        "collection_id": 1104,
+        "collection_name": "160\nPaestum 5389"
+    },
+    {
+        "collection_id": 1105,
+        "collection_name": "162\nMadrid 11486"
+    },
+    {
+        "collection_id": 1106,
+        "collection_name": "164\nPaestum"
+    },
+    {
+        "collection_id": 1107,
+        "collection_name": "165\nPaestum 1744"
+    },
+    {
+        "collection_id": 1108,
+        "collection_name": "166\nNaples"
+    },
+    {
+        "collection_id": 1109,
+        "collection_name": "167\nPontecagnano 36047"
+    },
+    {
+        "collection_id": 1110,
+        "collection_name": "168\nLondon Market"
+    },
+    {
+        "collection_id": 1111,
+        "collection_name": "169\nMadrid 11398 (L. 561)"
+    },
+    {
+        "collection_id": 1112,
+        "collection_name": "170\nMadrid 11407"
+    },
+    {
+        "collection_id": 1113,
+        "collection_name": "171\nMadrid 11409"
+    },
+    {
+        "collection_id": 1114,
+        "collection_name": "172\nMadrid 11417 (L. 560)"
+    },
+    {
+        "collection_id": 1115,
+        "collection_name": "173\nMadrid 11420"
+    },
+    {
+        "collection_id": 1116,
+        "collection_name": "174\nMadrid 11423 (L. 563)"
+    },
+    {
+        "collection_id": 1117,
+        "collection_name": "175\nMadrid 11424 (L. 562)"
+    },
+    {
+        "collection_id": 1118,
+        "collection_name": "176\nMadrid 11425"
+    },
+    {
+        "collection_id": 1119,
+        "collection_name": "178\nOnce New York Market"
+    },
+    {
+        "collection_id": 1120,
+        "collection_name": "179\nPaestum 22259"
+    },
+    {
+        "collection_id": 1121,
+        "collection_name": "180\nMadrid 11413 (L. 558)"
+    },
+    {
+        "collection_id": 1122,
+        "collection_name": "29a\n Geneva"
+    },
+    {
+        "collection_id": 1123,
+        "collection_name": "89a\n Naples"
+    },
+    {
+        "collection_id": 1124,
+        "collection_name": "108a \nNaples"
+    },
+    {
+        "collection_id": 1125,
+        "collection_name": "118\na Naples"
+    },
+    {
+        "collection_id": 1126,
+        "collection_name": "143\na Salerno"
+    },
+    {
+        "collection_id": 1127,
+        "collection_name": "143\nb Salerno"
+    },
+    {
+        "collection_id": 1128,
+        "collection_name": "159\na Geneva"
+    },
+    {
+        "collection_id": 1129,
+        "collection_name": "198\na Naples"
+    },
+    {
+        "collection_id": 1130,
+        "collection_name": "207\na Naples"
+    },
+    {
+        "collection_id": 1131,
+        "collection_name": "220\na Once Freiburg Market"
+    },
+    {
+        "collection_id": 1132,
+        "collection_name": "380\na Salerno"
+    },
+    {
+        "collection_id": 1133,
+        "collection_name": "736\na Naples"
+    },
+    {
+        "collection_id": 1134,
+        "collection_name": "736\nb London Market"
+    },
+    {
+        "collection_id": 1135,
+        "collection_name": "928\na Sorengo (Ticino)"
+    },
+    {
+        "collection_id": 1136,
+        "collection_name": "928\nb Sorengo (Ticino)"
+    },
+    {
+        "collection_id": 1137,
+        "collection_name": "928\nc Once New York Market"
+    },
+    {
+        "collection_id": 1138,
+        "collection_name": "3\na Geneva"
+    },
+    {
+        "collection_id": 1139,
+        "collection_name": "29\na Once Ne w York Market"
+    },
+    {
+        "collection_id": 1140,
+        "collection_name": "404\na Geneva"
+    },
+    {
+        "collection_id": 1141,
+        "collection_name": "664\nPaestum"
+    },
+    {
+        "collection_id": 1142,
+        "collection_name": "665\nPaestum"
+    },
+    {
+        "collection_id": 1143,
+        "collection_name": "666\nPaestum"
+    },
+    {
+        "collection_id": 1144,
+        "collection_name": "667\nPaestum"
+    },
+    {
+        "collection_id": 1145,
+        "collection_name": "669\nPaestum"
+    },
+    {
+        "collection_id": 1146,
+        "collection_name": "670\nPaestum 48433"
+    },
+    {
+        "collection_id": 1147,
+        "collection_name": "671\nPaestum"
+    },
+    {
+        "collection_id": 1148,
+        "collection_name": "673\nPaestum 3553 BA"
+    },
+    {
+        "collection_id": 1149,
+        "collection_name": "675\nCopenhagen ABc 985"
+    },
+    {
+        "collection_id": 1150,
+        "collection_name": "677\nSalerno"
+    },
+    {
+        "collection_id": 1151,
+        "collection_name": "678\nPaestum 2341"
+    },
+    {
+        "collection_id": 1152,
+        "collection_name": "679\nPaestum 6608"
+    },
+    {
+        "collection_id": 1153,
+        "collection_name": "680\nPaestum 24645"
+    },
+    {
+        "collection_id": 1154,
+        "collection_name": "681\nPaestum (frr.)"
+    },
+    {
+        "collection_id": 1155,
+        "collection_name": "682\nSalerno"
+    },
+    {
+        "collection_id": 1156,
+        "collection_name": "683\nPaestum (fr.)"
+    }
+]}

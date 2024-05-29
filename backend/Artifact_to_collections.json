@@ -1,0 +1,4638 @@
+{"Artifact_Collection": [
+    {
+        "artifact_id": 1,
+        "collection_id": 1
+    },
+    {
+        "artifact_id": 2,
+        "collection_id": 2
+    },
+    {
+        "artifact_id": 5,
+        "collection_id": 3
+    },
+    {
+        "artifact_id": 6,
+        "collection_id": 4
+    },
+    {
+        "artifact_id": 7,
+        "collection_id": 5
+    },
+    {
+        "artifact_id": 9,
+        "collection_id": 6
+    },
+    {
+        "artifact_id": 10,
+        "collection_id": 7
+    },
+    {
+        "artifact_id": 11,
+        "collection_id": 8
+    },
+    {
+        "artifact_id": 12,
+        "collection_id": 9
+    },
+    {
+        "artifact_id": 13,
+        "collection_id": 10
+    },
+    {
+        "artifact_id": 14,
+        "collection_id": 11
+    },
+    {
+        "artifact_id": 15,
+        "collection_id": 12
+    },
+    {
+        "artifact_id": 16,
+        "collection_id": 13
+    },
+    {
+        "artifact_id": 18,
+        "collection_id": 14
+    },
+    {
+        "artifact_id": 19,
+        "collection_id": 15
+    },
+    {
+        "artifact_id": 20,
+        "collection_id": 16
+    },
+    {
+        "artifact_id": 21,
+        "collection_id": 17
+    },
+    {
+        "artifact_id": 22,
+        "collection_id": 18
+    },
+    {
+        "artifact_id": 23,
+        "collection_id": 19
+    },
+    {
+        "artifact_id": 24,
+        "collection_id": 20
+    },
+    {
+        "artifact_id": 25,
+        "collection_id": 21
+    },
+    {
+        "artifact_id": 26,
+        "collection_id": 22
+    },
+    {
+        "artifact_id": 29,
+        "collection_id": 23
+    },
+    {
+        "artifact_id": 30,
+        "collection_id": 24
+    },
+    {
+        "artifact_id": 31,
+        "collection_id": 25
+    },
+    {
+        "artifact_id": 32,
+        "collection_id": 26
+    },
+    {
+        "artifact_id": 33,
+        "collection_id": 27
+    },
+    {
+        "artifact_id": 35,
+        "collection_id": 28
+    },
+    {
+        "artifact_id": 36,
+        "collection_id": 29
+    },
+    {
+        "artifact_id": 37,
+        "collection_id": 30
+    },
+    {
+        "artifact_id": 38,
+        "collection_id": 31
+    },
+    {
+        "artifact_id": 39,
+        "collection_id": 32
+    },
+    {
+        "artifact_id": 40,
+        "collection_id": 33
+    },
+    {
+        "artifact_id": 42,
+        "collection_id": 34
+    },
+    {
+        "artifact_id": 43,
+        "collection_id": 35
+    },
+    {
+        "artifact_id": 44,
+        "collection_id": 36
+    },
+    {
+        "artifact_id": 45,
+        "collection_id": 37
+    },
+    {
+        "artifact_id": 46,
+        "collection_id": 38
+    },
+    {
+        "artifact_id": 55,
+        "collection_id": 39
+    },
+    {
+        "artifact_id": 56,
+        "collection_id": 40
+    },
+    {
+        "artifact_id": 57,
+        "collection_id": 41
+    },
+    {
+        "artifact_id": 58,
+        "collection_id": 42
+    },
+    {
+        "artifact_id": 62,
+        "collection_id": 43
+    },
+    {
+        "artifact_id": 63,
+        "collection_id": 44
+    },
+    {
+        "artifact_id": 69,
+        "collection_id": 45
+    },
+    {
+        "artifact_id": 79,
+        "collection_id": 46
+    },
+    {
+        "artifact_id": 98,
+        "collection_id": 47
+    },
+    {
+        "artifact_id": 99,
+        "collection_id": 48
+    },
+    {
+        "artifact_id": 101,
+        "collection_id": 49
+    },
+    {
+        "artifact_id": 106,
+        "collection_id": 50
+    },
+    {
+        "artifact_id": 107,
+        "collection_id": 51
+    },
+    {
+        "artifact_id": 108,
+        "collection_id": 52
+    },
+    {
+        "artifact_id": 114,
+        "collection_id": 53
+    },
+    {
+        "artifact_id": 115,
+        "collection_id": 54
+    },
+    {
+        "artifact_id": 116,
+        "collection_id": 55
+    },
+    {
+        "artifact_id": 117,
+        "collection_id": 56
+    },
+    {
+        "artifact_id": 120,
+        "collection_id": 57
+    },
+    {
+        "artifact_id": 124,
+        "collection_id": 58
+    },
+    {
+        "artifact_id": 130,
+        "collection_id": 59
+    },
+    {
+        "artifact_id": 136,
+        "collection_id": 60
+    },
+    {
+        "artifact_id": 137,
+        "collection_id": 61
+    },
+    {
+        "artifact_id": 140,
+        "collection_id": 62
+    },
+    {
+        "artifact_id": 141,
+        "collection_id": 63
+    },
+    {
+        "artifact_id": 142,
+        "collection_id": 64
+    },
+    {
+        "artifact_id": 148,
+        "collection_id": 65
+    },
+    {
+        "artifact_id": 151,
+        "collection_id": 66
+    },
+    {
+        "artifact_id": 155,
+        "collection_id": 67
+    },
+    {
+        "artifact_id": 164,
+        "collection_id": 68
+    },
+    {
+        "artifact_id": 174,
+        "collection_id": 69
+    },
+    {
+        "artifact_id": 175,
+        "collection_id": 70
+    },
+    {
+        "artifact_id": 180,
+        "collection_id": 71
+    },
+    {
+        "artifact_id": 182,
+        "collection_id": 72
+    },
+    {
+        "artifact_id": 183,
+        "collection_id": 73
+    },
+    {
+        "artifact_id": 185,
+        "collection_id": 74
+    },
+    {
+        "artifact_id": 187,
+        "collection_id": 75
+    },
+    {
+        "artifact_id": 189,
+        "collection_id": 76
+    },
+    {
+        "artifact_id": 191,
+        "collection_id": 77
+    },
+    {
+        "artifact_id": 197,
+        "collection_id": 78
+    },
+    {
+        "artifact_id": 211,
+        "collection_id": 79
+    },
+    {
+        "artifact_id": 212,
+        "collection_id": 80
+    },
+    {
+        "artifact_id": 219,
+        "collection_id": 81
+    },
+    {
+        "artifact_id": 220,
+        "collection_id": 82
+    },
+    {
+        "artifact_id": 221,
+        "collection_id": 83
+    },
+    {
+        "artifact_id": 227,
+        "collection_id": 84
+    },
+    {
+        "artifact_id": 229,
+        "collection_id": 85
+    },
+    {
+        "artifact_id": 230,
+        "collection_id": 86
+    },
+    {
+        "artifact_id": 231,
+        "collection_id": 87
+    },
+    {
+        "artifact_id": 235,
+        "collection_id": 88
+    },
+    {
+        "artifact_id": 238,
+        "collection_id": 89
+    },
+    {
+        "artifact_id": 240,
+        "collection_id": 90
+    },
+    {
+        "artifact_id": 242,
+        "collection_id": 91
+    },
+    {
+        "artifact_id": 246,
+        "collection_id": 92
+    },
+    {
+        "artifact_id": 250,
+        "collection_id": 93
+    },
+    {
+        "artifact_id": 253,
+        "collection_id": 94
+    },
+    {
+        "artifact_id": 254,
+        "collection_id": 95
+    },
+    {
+        "artifact_id": 258,
+        "collection_id": 96
+    },
+    {
+        "artifact_id": 259,
+        "collection_id": 97
+    },
+    {
+        "artifact_id": 261,
+        "collection_id": 98
+    },
+    {
+        "artifact_id": 262,
+        "collection_id": 99
+    },
+    {
+        "artifact_id": 266,
+        "collection_id": 100
+    },
+    {
+        "artifact_id": 268,
+        "collection_id": 101
+    },
+    {
+        "artifact_id": 271,
+        "collection_id": 102
+    },
+    {
+        "artifact_id": 273,
+        "collection_id": 103
+    },
+    {
+        "artifact_id": 276,
+        "collection_id": 104
+    },
+    {
+        "artifact_id": 286,
+        "collection_id": 105
+    },
+    {
+        "artifact_id": 288,
+        "collection_id": 106
+    },
+    {
+        "artifact_id": 296,
+        "collection_id": 107
+    },
+    {
+        "artifact_id": 307,
+        "collection_id": 108
+    },
+    {
+        "artifact_id": 313,
+        "collection_id": 109
+    },
+    {
+        "artifact_id": 318,
+        "collection_id": 110
+    },
+    {
+        "artifact_id": 323,
+        "collection_id": 111
+    },
+    {
+        "artifact_id": 327,
+        "collection_id": 112
+    },
+    {
+        "artifact_id": 331,
+        "collection_id": 113
+    },
+    {
+        "artifact_id": 332,
+        "collection_id": 114
+    },
+    {
+        "artifact_id": 333,
+        "collection_id": 115
+    },
+    {
+        "artifact_id": 339,
+        "collection_id": 116
+    },
+    {
+        "artifact_id": 350,
+        "collection_id": 117
+    },
+    {
+        "artifact_id": 357,
+        "collection_id": 118
+    },
+    {
+        "artifact_id": 360,
+        "collection_id": 119
+    },
+    {
+        "artifact_id": 367,
+        "collection_id": 120
+    },
+    {
+        "artifact_id": 368,
+        "collection_id": 121
+    },
+    {
+        "artifact_id": 369,
+        "collection_id": 122
+    },
+    {
+        "artifact_id": 370,
+        "collection_id": 123
+    },
+    {
+        "artifact_id": 371,
+        "collection_id": 124
+    },
+    {
+        "artifact_id": 372,
+        "collection_id": 125
+    },
+    {
+        "artifact_id": 373,
+        "collection_id": 126
+    },
+    {
+        "artifact_id": 377,
+        "collection_id": 127
+    },
+    {
+        "artifact_id": 382,
+        "collection_id": 128
+    },
+    {
+        "artifact_id": 383,
+        "collection_id": 129
+    },
+    {
+        "artifact_id": 384,
+        "collection_id": 130
+    },
+    {
+        "artifact_id": 385,
+        "collection_id": 131
+    },
+    {
+        "artifact_id": 386,
+        "collection_id": 132
+    },
+    {
+        "artifact_id": 387,
+        "collection_id": 133
+    },
+    {
+        "artifact_id": 388,
+        "collection_id": 134
+    },
+    {
+        "artifact_id": 389,
+        "collection_id": 135
+    },
+    {
+        "artifact_id": 391,
+        "collection_id": 136
+    },
+    {
+        "artifact_id": 392,
+        "collection_id": 137
+    },
+    {
+        "artifact_id": 393,
+        "collection_id": 138
+    },
+    {
+        "artifact_id": 395,
+        "collection_id": 139
+    },
+    {
+        "artifact_id": 398,
+        "collection_id": 140
+    },
+    {
+        "artifact_id": 399,
+        "collection_id": 141
+    },
+    {
+        "artifact_id": 401,
+        "collection_id": 142
+    },
+    {
+        "artifact_id": 402,
+        "collection_id": 143
+    },
+    {
+        "artifact_id": 403,
+        "collection_id": 144
+    },
+    {
+        "artifact_id": 405,
+        "collection_id": 145
+    },
+    {
+        "artifact_id": 407,
+        "collection_id": 146
+    },
+    {
+        "artifact_id": 409,
+        "collection_id": 147
+    },
+    {
+        "artifact_id": 410,
+        "collection_id": 148
+    },
+    {
+        "artifact_id": 411,
+        "collection_id": 149
+    },
+    {
+        "artifact_id": 414,
+        "collection_id": 150
+    },
+    {
+        "artifact_id": 415,
+        "collection_id": 151
+    },
+    {
+        "artifact_id": 416,
+        "collection_id": 152
+    },
+    {
+        "artifact_id": 418,
+        "collection_id": 153
+    },
+    {
+        "artifact_id": 423,
+        "collection_id": 154
+    },
+    {
+        "artifact_id": 425,
+        "collection_id": 155
+    },
+    {
+        "artifact_id": 428,
+        "collection_id": 156
+    },
+    {
+        "artifact_id": 429,
+        "collection_id": 157
+    },
+    {
+        "artifact_id": 430,
+        "collection_id": 158
+    },
+    {
+        "artifact_id": 431,
+        "collection_id": 159
+    },
+    {
+        "artifact_id": 432,
+        "collection_id": 160
+    },
+    {
+        "artifact_id": 435,
+        "collection_id": 161
+    },
+    {
+        "artifact_id": 438,
+        "collection_id": 162
+    },
+    {
+        "artifact_id": 440,
+        "collection_id": 163
+    },
+    {
+        "artifact_id": 447,
+        "collection_id": 164
+    },
+    {
+        "artifact_id": 451,
+        "collection_id": 165
+    },
+    {
+        "artifact_id": 454,
+        "collection_id": 166
+    },
+    {
+        "artifact_id": 457,
+        "collection_id": 167
+    },
+    {
+        "artifact_id": 461,
+        "collection_id": 168
+    },
+    {
+        "artifact_id": 462,
+        "collection_id": 169
+    },
+    {
+        "artifact_id": 464,
+        "collection_id": 170
+    },
+    {
+        "artifact_id": 481,
+        "collection_id": 171
+    },
+    {
+        "artifact_id": 482,
+        "collection_id": 172
+    },
+    {
+        "artifact_id": 483,
+        "collection_id": 173
+    },
+    {
+        "artifact_id": 484,
+        "collection_id": 174
+    },
+    {
+        "artifact_id": 485,
+        "collection_id": 175
+    },
+    {
+        "artifact_id": 486,
+        "collection_id": 176
+    },
+    {
+        "artifact_id": 488,
+        "collection_id": 177
+    },
+    {
+        "artifact_id": 489,
+        "collection_id": 178
+    },
+    {
+        "artifact_id": 490,
+        "collection_id": 179
+    },
+    {
+        "artifact_id": 491,
+        "collection_id": 180
+    },
+    {
+        "artifact_id": 492,
+        "collection_id": 181
+    },
+    {
+        "artifact_id": 493,
+        "collection_id": 182
+    },
+    {
+        "artifact_id": 494,
+        "collection_id": 183
+    },
+    {
+        "artifact_id": 495,
+        "collection_id": 184
+    },
+    {
+        "artifact_id": 496,
+        "collection_id": 185
+    },
+    {
+        "artifact_id": 498,
+        "collection_id": 186
+    },
+    {
+        "artifact_id": 499,
+        "collection_id": 187
+    },
+    {
+        "artifact_id": 500,
+        "collection_id": 188
+    },
+    {
+        "artifact_id": 501,
+        "collection_id": 189
+    },
+    {
+        "artifact_id": 502,
+        "collection_id": 190
+    },
+    {
+        "artifact_id": 503,
+        "collection_id": 191
+    },
+    {
+        "artifact_id": 504,
+        "collection_id": 192
+    },
+    {
+        "artifact_id": 506,
+        "collection_id": 193
+    },
+    {
+        "artifact_id": 507,
+        "collection_id": 194
+    },
+    {
+        "artifact_id": 508,
+        "collection_id": 195
+    },
+    {
+        "artifact_id": 509,
+        "collection_id": 196
+    },
+    {
+        "artifact_id": 510,
+        "collection_id": 197
+    },
+    {
+        "artifact_id": 511,
+        "collection_id": 198
+    },
+    {
+        "artifact_id": 513,
+        "collection_id": 199
+    },
+    {
+        "artifact_id": 514,
+        "collection_id": 200
+    },
+    {
+        "artifact_id": 515,
+        "collection_id": 201
+    },
+    {
+        "artifact_id": 516,
+        "collection_id": 202
+    },
+    {
+        "artifact_id": 517,
+        "collection_id": 203
+    },
+    {
+        "artifact_id": 519,
+        "collection_id": 204
+    },
+    {
+        "artifact_id": 523,
+        "collection_id": 205
+    },
+    {
+        "artifact_id": 524,
+        "collection_id": 206
+    },
+    {
+        "artifact_id": 525,
+        "collection_id": 207
+    },
+    {
+        "artifact_id": 526,
+        "collection_id": 208
+    },
+    {
+        "artifact_id": 527,
+        "collection_id": 209
+    },
+    {
+        "artifact_id": 530,
+        "collection_id": 210
+    },
+    {
+        "artifact_id": 531,
+        "collection_id": 211
+    },
+    {
+        "artifact_id": 532,
+        "collection_id": 212
+    },
+    {
+        "artifact_id": 533,
+        "collection_id": 213
+    },
+    {
+        "artifact_id": 535,
+        "collection_id": 214
+    },
+    {
+        "artifact_id": 536,
+        "collection_id": 215
+    },
+    {
+        "artifact_id": 537,
+        "collection_id": 216
+    },
+    {
+        "artifact_id": 538,
+        "collection_id": 217
+    },
+    {
+        "artifact_id": 539,
+        "collection_id": 218
+    },
+    {
+        "artifact_id": 540,
+        "collection_id": 219
+    },
+    {
+        "artifact_id": 541,
+        "collection_id": 220
+    },
+    {
+        "artifact_id": 542,
+        "collection_id": 221
+    },
+    {
+        "artifact_id": 544,
+        "collection_id": 222
+    },
+    {
+        "artifact_id": 547,
+        "collection_id": 223
+    },
+    {
+        "artifact_id": 550,
+        "collection_id": 224
+    },
+    {
+        "artifact_id": 551,
+        "collection_id": 225
+    },
+    {
+        "artifact_id": 552,
+        "collection_id": 226
+    },
+    {
+        "artifact_id": 554,
+        "collection_id": 227
+    },
+    {
+        "artifact_id": 555,
+        "collection_id": 228
+    },
+    {
+        "artifact_id": 556,
+        "collection_id": 229
+    },
+    {
+        "artifact_id": 557,
+        "collection_id": 230
+    },
+    {
+        "artifact_id": 558,
+        "collection_id": 231
+    },
+    {
+        "artifact_id": 559,
+        "collection_id": 232
+    },
+    {
+        "artifact_id": 560,
+        "collection_id": 233
+    },
+    {
+        "artifact_id": 561,
+        "collection_id": 234
+    },
+    {
+        "artifact_id": 562,
+        "collection_id": 235
+    },
+    {
+        "artifact_id": 563,
+        "collection_id": 236
+    },
+    {
+        "artifact_id": 564,
+        "collection_id": 237
+    },
+    {
+        "artifact_id": 565,
+        "collection_id": 238
+    },
+    {
+        "artifact_id": 566,
+        "collection_id": 239
+    },
+    {
+        "artifact_id": 567,
+        "collection_id": 240
+    },
+    {
+        "artifact_id": 568,
+        "collection_id": 241
+    },
+    {
+        "artifact_id": 569,
+        "collection_id": 242
+    },
+    {
+        "artifact_id": 570,
+        "collection_id": 243
+    },
+    {
+        "artifact_id": 571,
+        "collection_id": 244
+    },
+    {
+        "artifact_id": 572,
+        "collection_id": 245
+    },
+    {
+        "artifact_id": 573,
+        "collection_id": 246
+    },
+    {
+        "artifact_id": 574,
+        "collection_id": 247
+    },
+    {
+        "artifact_id": 575,
+        "collection_id": 248
+    },
+    {
+        "artifact_id": 576,
+        "collection_id": 249
+    },
+    {
+        "artifact_id": 577,
+        "collection_id": 250
+    },
+    {
+        "artifact_id": 578,
+        "collection_id": 251
+    },
+    {
+        "artifact_id": 579,
+        "collection_id": 252
+    },
+    {
+        "artifact_id": 582,
+        "collection_id": 253
+    },
+    {
+        "artifact_id": 584,
+        "collection_id": 254
+    },
+    {
+        "artifact_id": 585,
+        "collection_id": 255
+    },
+    {
+        "artifact_id": 586,
+        "collection_id": 256
+    },
+    {
+        "artifact_id": 587,
+        "collection_id": 257
+    },
+    {
+        "artifact_id": 588,
+        "collection_id": 258
+    },
+    {
+        "artifact_id": 589,
+        "collection_id": 259
+    },
+    {
+        "artifact_id": 591,
+        "collection_id": 260
+    },
+    {
+        "artifact_id": 593,
+        "collection_id": 261
+    },
+    {
+        "artifact_id": 594,
+        "collection_id": 262
+    },
+    {
+        "artifact_id": 596,
+        "collection_id": 263
+    },
+    {
+        "artifact_id": 598,
+        "collection_id": 264
+    },
+    {
+        "artifact_id": 599,
+        "collection_id": 265
+    },
+    {
+        "artifact_id": 600,
+        "collection_id": 266
+    },
+    {
+        "artifact_id": 601,
+        "collection_id": 267
+    },
+    {
+        "artifact_id": 602,
+        "collection_id": 268
+    },
+    {
+        "artifact_id": 603,
+        "collection_id": 269
+    },
+    {
+        "artifact_id": 604,
+        "collection_id": 270
+    },
+    {
+        "artifact_id": 605,
+        "collection_id": 271
+    },
+    {
+        "artifact_id": 606,
+        "collection_id": 272
+    },
+    {
+        "artifact_id": 607,
+        "collection_id": 273
+    },
+    {
+        "artifact_id": 608,
+        "collection_id": 274
+    },
+    {
+        "artifact_id": 609,
+        "collection_id": 275
+    },
+    {
+        "artifact_id": 610,
+        "collection_id": 276
+    },
+    {
+        "artifact_id": 611,
+        "collection_id": 277
+    },
+    {
+        "artifact_id": 612,
+        "collection_id": 278
+    },
+    {
+        "artifact_id": 613,
+        "collection_id": 279
+    },
+    {
+        "artifact_id": 614,
+        "collection_id": 280
+    },
+    {
+        "artifact_id": 615,
+        "collection_id": 281
+    },
+    {
+        "artifact_id": 617,
+        "collection_id": 282
+    },
+    {
+        "artifact_id": 618,
+        "collection_id": 283
+    },
+    {
+        "artifact_id": 619,
+        "collection_id": 284
+    },
+    {
+        "artifact_id": 621,
+        "collection_id": 285
+    },
+    {
+        "artifact_id": 622,
+        "collection_id": 286
+    },
+    {
+        "artifact_id": 623,
+        "collection_id": 287
+    },
+    {
+        "artifact_id": 624,
+        "collection_id": 288
+    },
+    {
+        "artifact_id": 625,
+        "collection_id": 289
+    },
+    {
+        "artifact_id": 626,
+        "collection_id": 290
+    },
+    {
+        "artifact_id": 627,
+        "collection_id": 291
+    },
+    {
+        "artifact_id": 628,
+        "collection_id": 292
+    },
+    {
+        "artifact_id": 629,
+        "collection_id": 293
+    },
+    {
+        "artifact_id": 630,
+        "collection_id": 294
+    },
+    {
+        "artifact_id": 631,
+        "collection_id": 295
+    },
+    {
+        "artifact_id": 633,
+        "collection_id": 296
+    },
+    {
+        "artifact_id": 635,
+        "collection_id": 297
+    },
+    {
+        "artifact_id": 637,
+        "collection_id": 298
+    },
+    {
+        "artifact_id": 644,
+        "collection_id": 299
+    },
+    {
+        "artifact_id": 645,
+        "collection_id": 300
+    },
+    {
+        "artifact_id": 646,
+        "collection_id": 301
+    },
+    {
+        "artifact_id": 647,
+        "collection_id": 302
+    },
+    {
+        "artifact_id": 648,
+        "collection_id": 303
+    },
+    {
+        "artifact_id": 650,
+        "collection_id": 304
+    },
+    {
+        "artifact_id": 651,
+        "collection_id": 305
+    },
+    {
+        "artifact_id": 653,
+        "collection_id": 306
+    },
+    {
+        "artifact_id": 654,
+        "collection_id": 307
+    },
+    {
+        "artifact_id": 656,
+        "collection_id": 308
+    },
+    {
+        "artifact_id": 657,
+        "collection_id": 309
+    },
+    {
+        "artifact_id": 658,
+        "collection_id": 310
+    },
+    {
+        "artifact_id": 659,
+        "collection_id": 311
+    },
+    {
+        "artifact_id": 660,
+        "collection_id": 312
+    },
+    {
+        "artifact_id": 661,
+        "collection_id": 313
+    },
+    {
+        "artifact_id": 662,
+        "collection_id": 314
+    },
+    {
+        "artifact_id": 663,
+        "collection_id": 315
+    },
+    {
+        "artifact_id": 664,
+        "collection_id": 316
+    },
+    {
+        "artifact_id": 665,
+        "collection_id": 317
+    },
+    {
+        "artifact_id": 666,
+        "collection_id": 318
+    },
+    {
+        "artifact_id": 667,
+        "collection_id": 319
+    },
+    {
+        "artifact_id": 668,
+        "collection_id": 320
+    },
+    {
+        "artifact_id": 669,
+        "collection_id": 321
+    },
+    {
+        "artifact_id": 670,
+        "collection_id": 322
+    },
+    {
+        "artifact_id": 671,
+        "collection_id": 323
+    },
+    {
+        "artifact_id": 673,
+        "collection_id": 324
+    },
+    {
+        "artifact_id": 676,
+        "collection_id": 325
+    },
+    {
+        "artifact_id": 677,
+        "collection_id": 326
+    },
+    {
+        "artifact_id": 678,
+        "collection_id": 327
+    },
+    {
+        "artifact_id": 679,
+        "collection_id": 328
+    },
+    {
+        "artifact_id": 680,
+        "collection_id": 329
+    },
+    {
+        "artifact_id": 681,
+        "collection_id": 330
+    },
+    {
+        "artifact_id": 682,
+        "collection_id": 331
+    },
+    {
+        "artifact_id": 683,
+        "collection_id": 332
+    },
+    {
+        "artifact_id": 684,
+        "collection_id": 333
+    },
+    {
+        "artifact_id": 685,
+        "collection_id": 334
+    },
+    {
+        "artifact_id": 687,
+        "collection_id": 335
+    },
+    {
+        "artifact_id": 688,
+        "collection_id": 336
+    },
+    {
+        "artifact_id": 689,
+        "collection_id": 337
+    },
+    {
+        "artifact_id": 690,
+        "collection_id": 338
+    },
+    {
+        "artifact_id": 691,
+        "collection_id": 339
+    },
+    {
+        "artifact_id": 692,
+        "collection_id": 340
+    },
+    {
+        "artifact_id": 693,
+        "collection_id": 341
+    },
+    {
+        "artifact_id": 694,
+        "collection_id": 342
+    },
+    {
+        "artifact_id": 695,
+        "collection_id": 343
+    },
+    {
+        "artifact_id": 696,
+        "collection_id": 344
+    },
+    {
+        "artifact_id": 697,
+        "collection_id": 345
+    },
+    {
+        "artifact_id": 698,
+        "collection_id": 346
+    },
+    {
+        "artifact_id": 700,
+        "collection_id": 347
+    },
+    {
+        "artifact_id": 701,
+        "collection_id": 348
+    },
+    {
+        "artifact_id": 702,
+        "collection_id": 349
+    },
+    {
+        "artifact_id": 703,
+        "collection_id": 350
+    },
+    {
+        "artifact_id": 704,
+        "collection_id": 351
+    },
+    {
+        "artifact_id": 705,
+        "collection_id": 352
+    },
+    {
+        "artifact_id": 706,
+        "collection_id": 353
+    },
+    {
+        "artifact_id": 707,
+        "collection_id": 354
+    },
+    {
+        "artifact_id": 708,
+        "collection_id": 355
+    },
+    {
+        "artifact_id": 709,
+        "collection_id": 356
+    },
+    {
+        "artifact_id": 710,
+        "collection_id": 357
+    },
+    {
+        "artifact_id": 711,
+        "collection_id": 358
+    },
+    {
+        "artifact_id": 712,
+        "collection_id": 359
+    },
+    {
+        "artifact_id": 713,
+        "collection_id": 360
+    },
+    {
+        "artifact_id": 715,
+        "collection_id": 361
+    },
+    {
+        "artifact_id": 716,
+        "collection_id": 362
+    },
+    {
+        "artifact_id": 719,
+        "collection_id": 363
+    },
+    {
+        "artifact_id": 721,
+        "collection_id": 364
+    },
+    {
+        "artifact_id": 724,
+        "collection_id": 365
+    },
+    {
+        "artifact_id": 727,
+        "collection_id": 366
+    },
+    {
+        "artifact_id": 728,
+        "collection_id": 367
+    },
+    {
+        "artifact_id": 729,
+        "collection_id": 368
+    },
+    {
+        "artifact_id": 730,
+        "collection_id": 369
+    },
+    {
+        "artifact_id": 732,
+        "collection_id": 370
+    },
+    {
+        "artifact_id": 733,
+        "collection_id": 371
+    },
+    {
+        "artifact_id": 734,
+        "collection_id": 372
+    },
+    {
+        "artifact_id": 736,
+        "collection_id": 373
+    },
+    {
+        "artifact_id": 739,
+        "collection_id": 374
+    },
+    {
+        "artifact_id": 740,
+        "collection_id": 375
+    },
+    {
+        "artifact_id": 741,
+        "collection_id": 376
+    },
+    {
+        "artifact_id": 742,
+        "collection_id": 377
+    },
+    {
+        "artifact_id": 744,
+        "collection_id": 378
+    },
+    {
+        "artifact_id": 745,
+        "collection_id": 379
+    },
+    {
+        "artifact_id": 746,
+        "collection_id": 380
+    },
+    {
+        "artifact_id": 747,
+        "collection_id": 381
+    },
+    {
+        "artifact_id": 748,
+        "collection_id": 382
+    },
+    {
+        "artifact_id": 749,
+        "collection_id": 383
+    },
+    {
+        "artifact_id": 750,
+        "collection_id": 384
+    },
+    {
+        "artifact_id": 751,
+        "collection_id": 385
+    },
+    {
+        "artifact_id": 752,
+        "collection_id": 386
+    },
+    {
+        "artifact_id": 753,
+        "collection_id": 387
+    },
+    {
+        "artifact_id": 754,
+        "collection_id": 388
+    },
+    {
+        "artifact_id": 755,
+        "collection_id": 389
+    },
+    {
+        "artifact_id": 756,
+        "collection_id": 390
+    },
+    {
+        "artifact_id": 757,
+        "collection_id": 391
+    },
+    {
+        "artifact_id": 758,
+        "collection_id": 392
+    },
+    {
+        "artifact_id": 760,
+        "collection_id": 393
+    },
+    {
+        "artifact_id": 761,
+        "collection_id": 394
+    },
+    {
+        "artifact_id": 763,
+        "collection_id": 395
+    },
+    {
+        "artifact_id": 764,
+        "collection_id": 396
+    },
+    {
+        "artifact_id": 765,
+        "collection_id": 397
+    },
+    {
+        "artifact_id": 766,
+        "collection_id": 398
+    },
+    {
+        "artifact_id": 767,
+        "collection_id": 399
+    },
+    {
+        "artifact_id": 768,
+        "collection_id": 400
+    },
+    {
+        "artifact_id": 770,
+        "collection_id": 401
+    },
+    {
+        "artifact_id": 771,
+        "collection_id": 402
+    },
+    {
+        "artifact_id": 772,
+        "collection_id": 403
+    },
+    {
+        "artifact_id": 773,
+        "collection_id": 404
+    },
+    {
+        "artifact_id": 774,
+        "collection_id": 405
+    },
+    {
+        "artifact_id": 775,
+        "collection_id": 406
+    },
+    {
+        "artifact_id": 776,
+        "collection_id": 407
+    },
+    {
+        "artifact_id": 777,
+        "collection_id": 408
+    },
+    {
+        "artifact_id": 778,
+        "collection_id": 409
+    },
+    {
+        "artifact_id": 779,
+        "collection_id": 410
+    },
+    {
+        "artifact_id": 780,
+        "collection_id": 411
+    },
+    {
+        "artifact_id": 781,
+        "collection_id": 412
+    },
+    {
+        "artifact_id": 782,
+        "collection_id": 413
+    },
+    {
+        "artifact_id": 783,
+        "collection_id": 414
+    },
+    {
+        "artifact_id": 784,
+        "collection_id": 415
+    },
+    {
+        "artifact_id": 785,
+        "collection_id": 416
+    },
+    {
+        "artifact_id": 787,
+        "collection_id": 417
+    },
+    {
+        "artifact_id": 788,
+        "collection_id": 418
+    },
+    {
+        "artifact_id": 790,
+        "collection_id": 419
+    },
+    {
+        "artifact_id": 792,
+        "collection_id": 420
+    },
+    {
+        "artifact_id": 794,
+        "collection_id": 421
+    },
+    {
+        "artifact_id": 796,
+        "collection_id": 422
+    },
+    {
+        "artifact_id": 797,
+        "collection_id": 423
+    },
+    {
+        "artifact_id": 798,
+        "collection_id": 424
+    },
+    {
+        "artifact_id": 799,
+        "collection_id": 425
+    },
+    {
+        "artifact_id": 800,
+        "collection_id": 426
+    },
+    {
+        "artifact_id": 801,
+        "collection_id": 427
+    },
+    {
+        "artifact_id": 802,
+        "collection_id": 428
+    },
+    {
+        "artifact_id": 803,
+        "collection_id": 429
+    },
+    {
+        "artifact_id": 804,
+        "collection_id": 430
+    },
+    {
+        "artifact_id": 807,
+        "collection_id": 431
+    },
+    {
+        "artifact_id": 808,
+        "collection_id": 432
+    },
+    {
+        "artifact_id": 809,
+        "collection_id": 433
+    },
+    {
+        "artifact_id": 810,
+        "collection_id": 434
+    },
+    {
+        "artifact_id": 811,
+        "collection_id": 435
+    },
+    {
+        "artifact_id": 812,
+        "collection_id": 436
+    },
+    {
+        "artifact_id": 813,
+        "collection_id": 437
+    },
+    {
+        "artifact_id": 814,
+        "collection_id": 438
+    },
+    {
+        "artifact_id": 815,
+        "collection_id": 439
+    },
+    {
+        "artifact_id": 816,
+        "collection_id": 440
+    },
+    {
+        "artifact_id": 817,
+        "collection_id": 441
+    },
+    {
+        "artifact_id": 818,
+        "collection_id": 442
+    },
+    {
+        "artifact_id": 819,
+        "collection_id": 443
+    },
+    {
+        "artifact_id": 820,
+        "collection_id": 444
+    },
+    {
+        "artifact_id": 821,
+        "collection_id": 445
+    },
+    {
+        "artifact_id": 823,
+        "collection_id": 446
+    },
+    {
+        "artifact_id": 824,
+        "collection_id": 447
+    },
+    {
+        "artifact_id": 825,
+        "collection_id": 448
+    },
+    {
+        "artifact_id": 826,
+        "collection_id": 449
+    },
+    {
+        "artifact_id": 827,
+        "collection_id": 450
+    },
+    {
+        "artifact_id": 828,
+        "collection_id": 451
+    },
+    {
+        "artifact_id": 830,
+        "collection_id": 452
+    },
+    {
+        "artifact_id": 831,
+        "collection_id": 453
+    },
+    {
+        "artifact_id": 832,
+        "collection_id": 454
+    },
+    {
+        "artifact_id": 833,
+        "collection_id": 455
+    },
+    {
+        "artifact_id": 834,
+        "collection_id": 456
+    },
+    {
+        "artifact_id": 835,
+        "collection_id": 457
+    },
+    {
+        "artifact_id": 836,
+        "collection_id": 458
+    },
+    {
+        "artifact_id": 837,
+        "collection_id": 459
+    },
+    {
+        "artifact_id": 838,
+        "collection_id": 460
+    },
+    {
+        "artifact_id": 839,
+        "collection_id": 461
+    },
+    {
+        "artifact_id": 840,
+        "collection_id": 462
+    },
+    {
+        "artifact_id": 841,
+        "collection_id": 463
+    },
+    {
+        "artifact_id": 842,
+        "collection_id": 464
+    },
+    {
+        "artifact_id": 843,
+        "collection_id": 465
+    },
+    {
+        "artifact_id": 844,
+        "collection_id": 466
+    },
+    {
+        "artifact_id": 845,
+        "collection_id": 467
+    },
+    {
+        "artifact_id": 846,
+        "collection_id": 468
+    },
+    {
+        "artifact_id": 847,
+        "collection_id": 469
+    },
+    {
+        "artifact_id": 848,
+        "collection_id": 470
+    },
+    {
+        "artifact_id": 849,
+        "collection_id": 471
+    },
+    {
+        "artifact_id": 850,
+        "collection_id": 472
+    },
+    {
+        "artifact_id": 851,
+        "collection_id": 473
+    },
+    {
+        "artifact_id": 852,
+        "collection_id": 474
+    },
+    {
+        "artifact_id": 853,
+        "collection_id": 475
+    },
+    {
+        "artifact_id": 854,
+        "collection_id": 476
+    },
+    {
+        "artifact_id": 855,
+        "collection_id": 477
+    },
+    {
+        "artifact_id": 856,
+        "collection_id": 478
+    },
+    {
+        "artifact_id": 859,
+        "collection_id": 479
+    },
+    {
+        "artifact_id": 860,
+        "collection_id": 480
+    },
+    {
+        "artifact_id": 862,
+        "collection_id": 481
+    },
+    {
+        "artifact_id": 863,
+        "collection_id": 482
+    },
+    {
+        "artifact_id": 864,
+        "collection_id": 483
+    },
+    {
+        "artifact_id": 865,
+        "collection_id": 484
+    },
+    {
+        "artifact_id": 866,
+        "collection_id": 485
+    },
+    {
+        "artifact_id": 867,
+        "collection_id": 486
+    },
+    {
+        "artifact_id": 868,
+        "collection_id": 487
+    },
+    {
+        "artifact_id": 869,
+        "collection_id": 488
+    },
+    {
+        "artifact_id": 870,
+        "collection_id": 489
+    },
+    {
+        "artifact_id": 871,
+        "collection_id": 490
+    },
+    {
+        "artifact_id": 872,
+        "collection_id": 491
+    },
+    {
+        "artifact_id": 874,
+        "collection_id": 492
+    },
+    {
+        "artifact_id": 875,
+        "collection_id": 493
+    },
+    {
+        "artifact_id": 877,
+        "collection_id": 494
+    },
+    {
+        "artifact_id": 879,
+        "collection_id": 495
+    },
+    {
+        "artifact_id": 880,
+        "collection_id": 496
+    },
+    {
+        "artifact_id": 882,
+        "collection_id": 497
+    },
+    {
+        "artifact_id": 883,
+        "collection_id": 498
+    },
+    {
+        "artifact_id": 884,
+        "collection_id": 499
+    },
+    {
+        "artifact_id": 886,
+        "collection_id": 500
+    },
+    {
+        "artifact_id": 887,
+        "collection_id": 501
+    },
+    {
+        "artifact_id": 888,
+        "collection_id": 502
+    },
+    {
+        "artifact_id": 889,
+        "collection_id": 503
+    },
+    {
+        "artifact_id": 890,
+        "collection_id": 504
+    },
+    {
+        "artifact_id": 891,
+        "collection_id": 505
+    },
+    {
+        "artifact_id": 892,
+        "collection_id": 506
+    },
+    {
+        "artifact_id": 893,
+        "collection_id": 507
+    },
+    {
+        "artifact_id": 894,
+        "collection_id": 508
+    },
+    {
+        "artifact_id": 895,
+        "collection_id": 509
+    },
+    {
+        "artifact_id": 896,
+        "collection_id": 510
+    },
+    {
+        "artifact_id": 897,
+        "collection_id": 511
+    },
+    {
+        "artifact_id": 898,
+        "collection_id": 512
+    },
+    {
+        "artifact_id": 899,
+        "collection_id": 513
+    },
+    {
+        "artifact_id": 900,
+        "collection_id": 514
+    },
+    {
+        "artifact_id": 901,
+        "collection_id": 515
+    },
+    {
+        "artifact_id": 903,
+        "collection_id": 516
+    },
+    {
+        "artifact_id": 904,
+        "collection_id": 517
+    },
+    {
+        "artifact_id": 905,
+        "collection_id": 518
+    },
+    {
+        "artifact_id": 906,
+        "collection_id": 519
+    },
+    {
+        "artifact_id": 907,
+        "collection_id": 520
+    },
+    {
+        "artifact_id": 908,
+        "collection_id": 521
+    },
+    {
+        "artifact_id": 910,
+        "collection_id": 522
+    },
+    {
+        "artifact_id": 914,
+        "collection_id": 523
+    },
+    {
+        "artifact_id": 915,
+        "collection_id": 524
+    },
+    {
+        "artifact_id": 917,
+        "collection_id": 525
+    },
+    {
+        "artifact_id": 918,
+        "collection_id": 526
+    },
+    {
+        "artifact_id": 919,
+        "collection_id": 527
+    },
+    {
+        "artifact_id": 921,
+        "collection_id": 528
+    },
+    {
+        "artifact_id": 922,
+        "collection_id": 529
+    },
+    {
+        "artifact_id": 924,
+        "collection_id": 530
+    },
+    {
+        "artifact_id": 925,
+        "collection_id": 531
+    },
+    {
+        "artifact_id": 927,
+        "collection_id": 532
+    },
+    {
+        "artifact_id": 928,
+        "collection_id": 533
+    },
+    {
+        "artifact_id": 931,
+        "collection_id": 534
+    },
+    {
+        "artifact_id": 932,
+        "collection_id": 535
+    },
+    {
+        "artifact_id": 933,
+        "collection_id": 536
+    },
+    {
+        "artifact_id": 934,
+        "collection_id": 537
+    },
+    {
+        "artifact_id": 935,
+        "collection_id": 538
+    },
+    {
+        "artifact_id": 937,
+        "collection_id": 539
+    },
+    {
+        "artifact_id": 938,
+        "collection_id": 540
+    },
+    {
+        "artifact_id": 939,
+        "collection_id": 541
+    },
+    {
+        "artifact_id": 940,
+        "collection_id": 542
+    },
+    {
+        "artifact_id": 941,
+        "collection_id": 543
+    },
+    {
+        "artifact_id": 942,
+        "collection_id": 544
+    },
+    {
+        "artifact_id": 944,
+        "collection_id": 545
+    },
+    {
+        "artifact_id": 945,
+        "collection_id": 546
+    },
+    {
+        "artifact_id": 946,
+        "collection_id": 547
+    },
+    {
+        "artifact_id": 947,
+        "collection_id": 548
+    },
+    {
+        "artifact_id": 948,
+        "collection_id": 549
+    },
+    {
+        "artifact_id": 949,
+        "collection_id": 550
+    },
+    {
+        "artifact_id": 950,
+        "collection_id": 551
+    },
+    {
+        "artifact_id": 951,
+        "collection_id": 552
+    },
+    {
+        "artifact_id": 952,
+        "collection_id": 553
+    },
+    {
+        "artifact_id": 954,
+        "collection_id": 554
+    },
+    {
+        "artifact_id": 957,
+        "collection_id": 555
+    },
+    {
+        "artifact_id": 958,
+        "collection_id": 556
+    },
+    {
+        "artifact_id": 959,
+        "collection_id": 557
+    },
+    {
+        "artifact_id": 961,
+        "collection_id": 558
+    },
+    {
+        "artifact_id": 962,
+        "collection_id": 559
+    },
+    {
+        "artifact_id": 963,
+        "collection_id": 560
+    },
+    {
+        "artifact_id": 964,
+        "collection_id": 561
+    },
+    {
+        "artifact_id": 965,
+        "collection_id": 562
+    },
+    {
+        "artifact_id": 966,
+        "collection_id": 563
+    },
+    {
+        "artifact_id": 967,
+        "collection_id": 564
+    },
+    {
+        "artifact_id": 969,
+        "collection_id": 565
+    },
+    {
+        "artifact_id": 970,
+        "collection_id": 566
+    },
+    {
+        "artifact_id": 971,
+        "collection_id": 567
+    },
+    {
+        "artifact_id": 972,
+        "collection_id": 568
+    },
+    {
+        "artifact_id": 984,
+        "collection_id": 569
+    },
+    {
+        "artifact_id": 985,
+        "collection_id": 570
+    },
+    {
+        "artifact_id": 989,
+        "collection_id": 571
+    },
+    {
+        "artifact_id": 993,
+        "collection_id": 572
+    },
+    {
+        "artifact_id": 994,
+        "collection_id": 573
+    },
+    {
+        "artifact_id": 997,
+        "collection_id": 574
+    },
+    {
+        "artifact_id": 1003,
+        "collection_id": 575
+    },
+    {
+        "artifact_id": 1010,
+        "collection_id": 576
+    },
+    {
+        "artifact_id": 1014,
+        "collection_id": 577
+    },
+    {
+        "artifact_id": 1016,
+        "collection_id": 578
+    },
+    {
+        "artifact_id": 1018,
+        "collection_id": 579
+    },
+    {
+        "artifact_id": 1020,
+        "collection_id": 580
+    },
+    {
+        "artifact_id": 1023,
+        "collection_id": 581
+    },
+    {
+        "artifact_id": 1024,
+        "collection_id": 582
+    },
+    {
+        "artifact_id": 1026,
+        "collection_id": 583
+    },
+    {
+        "artifact_id": 1030,
+        "collection_id": 584
+    },
+    {
+        "artifact_id": 1032,
+        "collection_id": 585
+    },
+    {
+        "artifact_id": 1034,
+        "collection_id": 586
+    },
+    {
+        "artifact_id": 1036,
+        "collection_id": 587
+    },
+    {
+        "artifact_id": 1037,
+        "collection_id": 588
+    },
+    {
+        "artifact_id": 1039,
+        "collection_id": 589
+    },
+    {
+        "artifact_id": 1041,
+        "collection_id": 590
+    },
+    {
+        "artifact_id": 1044,
+        "collection_id": 591
+    },
+    {
+        "artifact_id": 1045,
+        "collection_id": 592
+    },
+    {
+        "artifact_id": 1046,
+        "collection_id": 593
+    },
+    {
+        "artifact_id": 1047,
+        "collection_id": 594
+    },
+    {
+        "artifact_id": 1048,
+        "collection_id": 595
+    },
+    {
+        "artifact_id": 1049,
+        "collection_id": 596
+    },
+    {
+        "artifact_id": 1050,
+        "collection_id": 597
+    },
+    {
+        "artifact_id": 1052,
+        "collection_id": 598
+    },
+    {
+        "artifact_id": 1053,
+        "collection_id": 599
+    },
+    {
+        "artifact_id": 1054,
+        "collection_id": 600
+    },
+    {
+        "artifact_id": 1055,
+        "collection_id": 601
+    },
+    {
+        "artifact_id": 1057,
+        "collection_id": 602
+    },
+    {
+        "artifact_id": 1058,
+        "collection_id": 603
+    },
+    {
+        "artifact_id": 1059,
+        "collection_id": 604
+    },
+    {
+        "artifact_id": 1060,
+        "collection_id": 605
+    },
+    {
+        "artifact_id": 1061,
+        "collection_id": 606
+    },
+    {
+        "artifact_id": 1062,
+        "collection_id": 607
+    },
+    {
+        "artifact_id": 1063,
+        "collection_id": 608
+    },
+    {
+        "artifact_id": 1064,
+        "collection_id": 609
+    },
+    {
+        "artifact_id": 1066,
+        "collection_id": 610
+    },
+    {
+        "artifact_id": 1067,
+        "collection_id": 611
+    },
+    {
+        "artifact_id": 1068,
+        "collection_id": 612
+    },
+    {
+        "artifact_id": 1070,
+        "collection_id": 613
+    },
+    {
+        "artifact_id": 1071,
+        "collection_id": 614
+    },
+    {
+        "artifact_id": 1074,
+        "collection_id": 615
+    },
+    {
+        "artifact_id": 1075,
+        "collection_id": 616
+    },
+    {
+        "artifact_id": 1076,
+        "collection_id": 617
+    },
+    {
+        "artifact_id": 1077,
+        "collection_id": 618
+    },
+    {
+        "artifact_id": 1079,
+        "collection_id": 619
+    },
+    {
+        "artifact_id": 1080,
+        "collection_id": 620
+    },
+    {
+        "artifact_id": 1082,
+        "collection_id": 621
+    },
+    {
+        "artifact_id": 1083,
+        "collection_id": 622
+    },
+    {
+        "artifact_id": 1086,
+        "collection_id": 623
+    },
+    {
+        "artifact_id": 1088,
+        "collection_id": 624
+    },
+    {
+        "artifact_id": 1089,
+        "collection_id": 625
+    },
+    {
+        "artifact_id": 1091,
+        "collection_id": 626
+    },
+    {
+        "artifact_id": 1094,
+        "collection_id": 627
+    },
+    {
+        "artifact_id": 1097,
+        "collection_id": 628
+    },
+    {
+        "artifact_id": 1098,
+        "collection_id": 629
+    },
+    {
+        "artifact_id": 1099,
+        "collection_id": 630
+    },
+    {
+        "artifact_id": 1101,
+        "collection_id": 631
+    },
+    {
+        "artifact_id": 1102,
+        "collection_id": 632
+    },
+    {
+        "artifact_id": 1105,
+        "collection_id": 633
+    },
+    {
+        "artifact_id": 1109,
+        "collection_id": 634
+    },
+    {
+        "artifact_id": 1110,
+        "collection_id": 635
+    },
+    {
+        "artifact_id": 1111,
+        "collection_id": 636
+    },
+    {
+        "artifact_id": 1113,
+        "collection_id": 637
+    },
+    {
+        "artifact_id": 1114,
+        "collection_id": 638
+    },
+    {
+        "artifact_id": 1115,
+        "collection_id": 639
+    },
+    {
+        "artifact_id": 1116,
+        "collection_id": 640
+    },
+    {
+        "artifact_id": 1117,
+        "collection_id": 641
+    },
+    {
+        "artifact_id": 1118,
+        "collection_id": 642
+    },
+    {
+        "artifact_id": 1119,
+        "collection_id": 643
+    },
+    {
+        "artifact_id": 1122,
+        "collection_id": 644
+    },
+    {
+        "artifact_id": 1123,
+        "collection_id": 645
+    },
+    {
+        "artifact_id": 1124,
+        "collection_id": 646
+    },
+    {
+        "artifact_id": 1125,
+        "collection_id": 647
+    },
+    {
+        "artifact_id": 1126,
+        "collection_id": 648
+    },
+    {
+        "artifact_id": 1127,
+        "collection_id": 649
+    },
+    {
+        "artifact_id": 1128,
+        "collection_id": 650
+    },
+    {
+        "artifact_id": 1129,
+        "collection_id": 651
+    },
+    {
+        "artifact_id": 1130,
+        "collection_id": 652
+    },
+    {
+        "artifact_id": 1131,
+        "collection_id": 653
+    },
+    {
+        "artifact_id": 1133,
+        "collection_id": 654
+    },
+    {
+        "artifact_id": 1134,
+        "collection_id": 655
+    },
+    {
+        "artifact_id": 1136,
+        "collection_id": 656
+    },
+    {
+        "artifact_id": 1137,
+        "collection_id": 657
+    },
+    {
+        "artifact_id": 1138,
+        "collection_id": 658
+    },
+    {
+        "artifact_id": 1139,
+        "collection_id": 659
+    },
+    {
+        "artifact_id": 1140,
+        "collection_id": 660
+    },
+    {
+        "artifact_id": 1141,
+        "collection_id": 661
+    },
+    {
+        "artifact_id": 1143,
+        "collection_id": 662
+    },
+    {
+        "artifact_id": 1144,
+        "collection_id": 663
+    },
+    {
+        "artifact_id": 1145,
+        "collection_id": 664
+    },
+    {
+        "artifact_id": 1146,
+        "collection_id": 665
+    },
+    {
+        "artifact_id": 1147,
+        "collection_id": 666
+    },
+    {
+        "artifact_id": 1148,
+        "collection_id": 667
+    },
+    {
+        "artifact_id": 1150,
+        "collection_id": 668
+    },
+    {
+        "artifact_id": 1151,
+        "collection_id": 669
+    },
+    {
+        "artifact_id": 1152,
+        "collection_id": 670
+    },
+    {
+        "artifact_id": 1153,
+        "collection_id": 671
+    },
+    {
+        "artifact_id": 1154,
+        "collection_id": 672
+    },
+    {
+        "artifact_id": 1155,
+        "collection_id": 673
+    },
+    {
+        "artifact_id": 1161,
+        "collection_id": 674
+    },
+    {
+        "artifact_id": 1162,
+        "collection_id": 675
+    },
+    {
+        "artifact_id": 1163,
+        "collection_id": 676
+    },
+    {
+        "artifact_id": 1166,
+        "collection_id": 677
+    },
+    {
+        "artifact_id": 1168,
+        "collection_id": 678
+    },
+    {
+        "artifact_id": 1169,
+        "collection_id": 679
+    },
+    {
+        "artifact_id": 1170,
+        "collection_id": 680
+    },
+    {
+        "artifact_id": 1171,
+        "collection_id": 681
+    },
+    {
+        "artifact_id": 1172,
+        "collection_id": 682
+    },
+    {
+        "artifact_id": 1174,
+        "collection_id": 683
+    },
+    {
+        "artifact_id": 1175,
+        "collection_id": 684
+    },
+    {
+        "artifact_id": 1178,
+        "collection_id": 685
+    },
+    {
+        "artifact_id": 1180,
+        "collection_id": 686
+    },
+    {
+        "artifact_id": 1181,
+        "collection_id": 687
+    },
+    {
+        "artifact_id": 1182,
+        "collection_id": 688
+    },
+    {
+        "artifact_id": 1183,
+        "collection_id": 689
+    },
+    {
+        "artifact_id": 1184,
+        "collection_id": 690
+    },
+    {
+        "artifact_id": 1185,
+        "collection_id": 691
+    },
+    {
+        "artifact_id": 1186,
+        "collection_id": 692
+    },
+    {
+        "artifact_id": 1187,
+        "collection_id": 693
+    },
+    {
+        "artifact_id": 1188,
+        "collection_id": 694
+    },
+    {
+        "artifact_id": 1190,
+        "collection_id": 695
+    },
+    {
+        "artifact_id": 1192,
+        "collection_id": 696
+    },
+    {
+        "artifact_id": 1195,
+        "collection_id": 697
+    },
+    {
+        "artifact_id": 1196,
+        "collection_id": 698
+    },
+    {
+        "artifact_id": 1197,
+        "collection_id": 699
+    },
+    {
+        "artifact_id": 1198,
+        "collection_id": 700
+    },
+    {
+        "artifact_id": 1199,
+        "collection_id": 701
+    },
+    {
+        "artifact_id": 1200,
+        "collection_id": 702
+    },
+    {
+        "artifact_id": 1202,
+        "collection_id": 703
+    },
+    {
+        "artifact_id": 1203,
+        "collection_id": 704
+    },
+    {
+        "artifact_id": 1204,
+        "collection_id": 705
+    },
+    {
+        "artifact_id": 1205,
+        "collection_id": 706
+    },
+    {
+        "artifact_id": 1206,
+        "collection_id": 707
+    },
+    {
+        "artifact_id": 1208,
+        "collection_id": 708
+    },
+    {
+        "artifact_id": 1209,
+        "collection_id": 709
+    },
+    {
+        "artifact_id": 1211,
+        "collection_id": 710
+    },
+    {
+        "artifact_id": 1212,
+        "collection_id": 711
+    },
+    {
+        "artifact_id": 1214,
+        "collection_id": 712
+    },
+    {
+        "artifact_id": 1215,
+        "collection_id": 713
+    },
+    {
+        "artifact_id": 1219,
+        "collection_id": 714
+    },
+    {
+        "artifact_id": 1224,
+        "collection_id": 715
+    },
+    {
+        "artifact_id": 1225,
+        "collection_id": 716
+    },
+    {
+        "artifact_id": 1226,
+        "collection_id": 717
+    },
+    {
+        "artifact_id": 1232,
+        "collection_id": 718
+    },
+    {
+        "artifact_id": 1233,
+        "collection_id": 719
+    },
+    {
+        "artifact_id": 1234,
+        "collection_id": 720
+    },
+    {
+        "artifact_id": 1236,
+        "collection_id": 721
+    },
+    {
+        "artifact_id": 1242,
+        "collection_id": 722
+    },
+    {
+        "artifact_id": 1243,
+        "collection_id": 723
+    },
+    {
+        "artifact_id": 1244,
+        "collection_id": 724
+    },
+    {
+        "artifact_id": 1245,
+        "collection_id": 725
+    },
+    {
+        "artifact_id": 1246,
+        "collection_id": 726
+    },
+    {
+        "artifact_id": 1247,
+        "collection_id": 727
+    },
+    {
+        "artifact_id": 1250,
+        "collection_id": 728
+    },
+    {
+        "artifact_id": 1252,
+        "collection_id": 729
+    },
+    {
+        "artifact_id": 1254,
+        "collection_id": 730
+    },
+    {
+        "artifact_id": 1256,
+        "collection_id": 731
+    },
+    {
+        "artifact_id": 1257,
+        "collection_id": 732
+    },
+    {
+        "artifact_id": 1259,
+        "collection_id": 733
+    },
+    {
+        "artifact_id": 1260,
+        "collection_id": 734
+    },
+    {
+        "artifact_id": 1261,
+        "collection_id": 735
+    },
+    {
+        "artifact_id": 1262,
+        "collection_id": 736
+    },
+    {
+        "artifact_id": 1263,
+        "collection_id": 737
+    },
+    {
+        "artifact_id": 1267,
+        "collection_id": 738
+    },
+    {
+        "artifact_id": 1269,
+        "collection_id": 739
+    },
+    {
+        "artifact_id": 1272,
+        "collection_id": 740
+    },
+    {
+        "artifact_id": 1273,
+        "collection_id": 741
+    },
+    {
+        "artifact_id": 1274,
+        "collection_id": 742
+    },
+    {
+        "artifact_id": 1275,
+        "collection_id": 743
+    },
+    {
+        "artifact_id": 1277,
+        "collection_id": 744
+    },
+    {
+        "artifact_id": 1278,
+        "collection_id": 745
+    },
+    {
+        "artifact_id": 1279,
+        "collection_id": 746
+    },
+    {
+        "artifact_id": 1280,
+        "collection_id": 747
+    },
+    {
+        "artifact_id": 1283,
+        "collection_id": 748
+    },
+    {
+        "artifact_id": 1286,
+        "collection_id": 749
+    },
+    {
+        "artifact_id": 1291,
+        "collection_id": 750
+    },
+    {
+        "artifact_id": 1292,
+        "collection_id": 751
+    },
+    {
+        "artifact_id": 1294,
+        "collection_id": 752
+    },
+    {
+        "artifact_id": 1295,
+        "collection_id": 753
+    },
+    {
+        "artifact_id": 1296,
+        "collection_id": 754
+    },
+    {
+        "artifact_id": 1297,
+        "collection_id": 755
+    },
+    {
+        "artifact_id": 1298,
+        "collection_id": 756
+    },
+    {
+        "artifact_id": 1299,
+        "collection_id": 757
+    },
+    {
+        "artifact_id": 1300,
+        "collection_id": 758
+    },
+    {
+        "artifact_id": 1301,
+        "collection_id": 759
+    },
+    {
+        "artifact_id": 1305,
+        "collection_id": 760
+    },
+    {
+        "artifact_id": 1306,
+        "collection_id": 761
+    },
+    {
+        "artifact_id": 1307,
+        "collection_id": 762
+    },
+    {
+        "artifact_id": 1308,
+        "collection_id": 763
+    },
+    {
+        "artifact_id": 1309,
+        "collection_id": 764
+    },
+    {
+        "artifact_id": 1310,
+        "collection_id": 765
+    },
+    {
+        "artifact_id": 1311,
+        "collection_id": 766
+    },
+    {
+        "artifact_id": 1312,
+        "collection_id": 767
+    },
+    {
+        "artifact_id": 1313,
+        "collection_id": 768
+    },
+    {
+        "artifact_id": 1314,
+        "collection_id": 769
+    },
+    {
+        "artifact_id": 1315,
+        "collection_id": 770
+    },
+    {
+        "artifact_id": 1317,
+        "collection_id": 771
+    },
+    {
+        "artifact_id": 1322,
+        "collection_id": 772
+    },
+    {
+        "artifact_id": 1323,
+        "collection_id": 773
+    },
+    {
+        "artifact_id": 1324,
+        "collection_id": 774
+    },
+    {
+        "artifact_id": 1327,
+        "collection_id": 775
+    },
+    {
+        "artifact_id": 1328,
+        "collection_id": 776
+    },
+    {
+        "artifact_id": 1329,
+        "collection_id": 777
+    },
+    {
+        "artifact_id": 1331,
+        "collection_id": 778
+    },
+    {
+        "artifact_id": 1332,
+        "collection_id": 779
+    },
+    {
+        "artifact_id": 1334,
+        "collection_id": 780
+    },
+    {
+        "artifact_id": 1335,
+        "collection_id": 781
+    },
+    {
+        "artifact_id": 1337,
+        "collection_id": 782
+    },
+    {
+        "artifact_id": 1338,
+        "collection_id": 783
+    },
+    {
+        "artifact_id": 1339,
+        "collection_id": 784
+    },
+    {
+        "artifact_id": 1341,
+        "collection_id": 785
+    },
+    {
+        "artifact_id": 1342,
+        "collection_id": 786
+    },
+    {
+        "artifact_id": 1343,
+        "collection_id": 787
+    },
+    {
+        "artifact_id": 1344,
+        "collection_id": 788
+    },
+    {
+        "artifact_id": 1351,
+        "collection_id": 789
+    },
+    {
+        "artifact_id": 1353,
+        "collection_id": 790
+    },
+    {
+        "artifact_id": 1357,
+        "collection_id": 791
+    },
+    {
+        "artifact_id": 1358,
+        "collection_id": 792
+    },
+    {
+        "artifact_id": 1359,
+        "collection_id": 793
+    },
+    {
+        "artifact_id": 1360,
+        "collection_id": 794
+    },
+    {
+        "artifact_id": 1361,
+        "collection_id": 795
+    },
+    {
+        "artifact_id": 1362,
+        "collection_id": 796
+    },
+    {
+        "artifact_id": 1364,
+        "collection_id": 797
+    },
+    {
+        "artifact_id": 1366,
+        "collection_id": 798
+    },
+    {
+        "artifact_id": 1370,
+        "collection_id": 799
+    },
+    {
+        "artifact_id": 1371,
+        "collection_id": 800
+    },
+    {
+        "artifact_id": 1373,
+        "collection_id": 801
+    },
+    {
+        "artifact_id": 1374,
+        "collection_id": 802
+    },
+    {
+        "artifact_id": 1375,
+        "collection_id": 803
+    },
+    {
+        "artifact_id": 1376,
+        "collection_id": 804
+    },
+    {
+        "artifact_id": 1378,
+        "collection_id": 805
+    },
+    {
+        "artifact_id": 1379,
+        "collection_id": 806
+    },
+    {
+        "artifact_id": 1380,
+        "collection_id": 807
+    },
+    {
+        "artifact_id": 1384,
+        "collection_id": 808
+    },
+    {
+        "artifact_id": 1387,
+        "collection_id": 809
+    },
+    {
+        "artifact_id": 1388,
+        "collection_id": 810
+    },
+    {
+        "artifact_id": 1390,
+        "collection_id": 811
+    },
+    {
+        "artifact_id": 1392,
+        "collection_id": 812
+    },
+    {
+        "artifact_id": 1393,
+        "collection_id": 813
+    },
+    {
+        "artifact_id": 1394,
+        "collection_id": 814
+    },
+    {
+        "artifact_id": 1395,
+        "collection_id": 815
+    },
+    {
+        "artifact_id": 1398,
+        "collection_id": 816
+    },
+    {
+        "artifact_id": 1399,
+        "collection_id": 817
+    },
+    {
+        "artifact_id": 1404,
+        "collection_id": 818
+    },
+    {
+        "artifact_id": 1408,
+        "collection_id": 819
+    },
+    {
+        "artifact_id": 1409,
+        "collection_id": 820
+    },
+    {
+        "artifact_id": 1410,
+        "collection_id": 821
+    },
+    {
+        "artifact_id": 1411,
+        "collection_id": 822
+    },
+    {
+        "artifact_id": 1413,
+        "collection_id": 823
+    },
+    {
+        "artifact_id": 1414,
+        "collection_id": 824
+    },
+    {
+        "artifact_id": 1415,
+        "collection_id": 825
+    },
+    {
+        "artifact_id": 1417,
+        "collection_id": 826
+    },
+    {
+        "artifact_id": 1419,
+        "collection_id": 827
+    },
+    {
+        "artifact_id": 1420,
+        "collection_id": 828
+    },
+    {
+        "artifact_id": 1421,
+        "collection_id": 829
+    },
+    {
+        "artifact_id": 1422,
+        "collection_id": 830
+    },
+    {
+        "artifact_id": 1425,
+        "collection_id": 831
+    },
+    {
+        "artifact_id": 1426,
+        "collection_id": 832
+    },
+    {
+        "artifact_id": 1429,
+        "collection_id": 833
+    },
+    {
+        "artifact_id": 1430,
+        "collection_id": 834
+    },
+    {
+        "artifact_id": 1431,
+        "collection_id": 835
+    },
+    {
+        "artifact_id": 1432,
+        "collection_id": 836
+    },
+    {
+        "artifact_id": 1434,
+        "collection_id": 837
+    },
+    {
+        "artifact_id": 1435,
+        "collection_id": 838
+    },
+    {
+        "artifact_id": 1436,
+        "collection_id": 839
+    },
+    {
+        "artifact_id": 1438,
+        "collection_id": 840
+    },
+    {
+        "artifact_id": 1439,
+        "collection_id": 841
+    },
+    {
+        "artifact_id": 1441,
+        "collection_id": 842
+    },
+    {
+        "artifact_id": 1442,
+        "collection_id": 843
+    },
+    {
+        "artifact_id": 1444,
+        "collection_id": 844
+    },
+    {
+        "artifact_id": 1446,
+        "collection_id": 845
+    },
+    {
+        "artifact_id": 1451,
+        "collection_id": 846
+    },
+    {
+        "artifact_id": 1452,
+        "collection_id": 847
+    },
+    {
+        "artifact_id": 1461,
+        "collection_id": 848
+    },
+    {
+        "artifact_id": 1462,
+        "collection_id": 849
+    },
+    {
+        "artifact_id": 1463,
+        "collection_id": 850
+    },
+    {
+        "artifact_id": 1464,
+        "collection_id": 851
+    },
+    {
+        "artifact_id": 1467,
+        "collection_id": 852
+    },
+    {
+        "artifact_id": 1469,
+        "collection_id": 853
+    },
+    {
+        "artifact_id": 1472,
+        "collection_id": 854
+    },
+    {
+        "artifact_id": 1473,
+        "collection_id": 855
+    },
+    {
+        "artifact_id": 1477,
+        "collection_id": 856
+    },
+    {
+        "artifact_id": 1478,
+        "collection_id": 857
+    },
+    {
+        "artifact_id": 1479,
+        "collection_id": 858
+    },
+    {
+        "artifact_id": 1480,
+        "collection_id": 859
+    },
+    {
+        "artifact_id": 1483,
+        "collection_id": 860
+    },
+    {
+        "artifact_id": 1484,
+        "collection_id": 861
+    },
+    {
+        "artifact_id": 1488,
+        "collection_id": 862
+    },
+    {
+        "artifact_id": 1489,
+        "collection_id": 863
+    },
+    {
+        "artifact_id": 1491,
+        "collection_id": 864
+    },
+    {
+        "artifact_id": 1492,
+        "collection_id": 865
+    },
+    {
+        "artifact_id": 1496,
+        "collection_id": 866
+    },
+    {
+        "artifact_id": 1497,
+        "collection_id": 867
+    },
+    {
+        "artifact_id": 1499,
+        "collection_id": 868
+    },
+    {
+        "artifact_id": 1500,
+        "collection_id": 869
+    },
+    {
+        "artifact_id": 1501,
+        "collection_id": 870
+    },
+    {
+        "artifact_id": 1502,
+        "collection_id": 871
+    },
+    {
+        "artifact_id": 1503,
+        "collection_id": 872
+    },
+    {
+        "artifact_id": 1504,
+        "collection_id": 873
+    },
+    {
+        "artifact_id": 1506,
+        "collection_id": 874
+    },
+    {
+        "artifact_id": 1507,
+        "collection_id": 875
+    },
+    {
+        "artifact_id": 1508,
+        "collection_id": 876
+    },
+    {
+        "artifact_id": 1514,
+        "collection_id": 877
+    },
+    {
+        "artifact_id": 1515,
+        "collection_id": 878
+    },
+    {
+        "artifact_id": 1516,
+        "collection_id": 879
+    },
+    {
+        "artifact_id": 1517,
+        "collection_id": 880
+    },
+    {
+        "artifact_id": 1518,
+        "collection_id": 881
+    },
+    {
+        "artifact_id": 1519,
+        "collection_id": 882
+    },
+    {
+        "artifact_id": 1520,
+        "collection_id": 883
+    },
+    {
+        "artifact_id": 1521,
+        "collection_id": 884
+    },
+    {
+        "artifact_id": 1523,
+        "collection_id": 885
+    },
+    {
+        "artifact_id": 1524,
+        "collection_id": 886
+    },
+    {
+        "artifact_id": 1528,
+        "collection_id": 887
+    },
+    {
+        "artifact_id": 1529,
+        "collection_id": 888
+    },
+    {
+        "artifact_id": 1530,
+        "collection_id": 889
+    },
+    {
+        "artifact_id": 1531,
+        "collection_id": 890
+    },
+    {
+        "artifact_id": 1532,
+        "collection_id": 891
+    },
+    {
+        "artifact_id": 1533,
+        "collection_id": 892
+    },
+    {
+        "artifact_id": 1534,
+        "collection_id": 893
+    },
+    {
+        "artifact_id": 1536,
+        "collection_id": 894
+    },
+    {
+        "artifact_id": 1542,
+        "collection_id": 895
+    },
+    {
+        "artifact_id": 1543,
+        "collection_id": 896
+    },
+    {
+        "artifact_id": 1544,
+        "collection_id": 897
+    },
+    {
+        "artifact_id": 1548,
+        "collection_id": 898
+    },
+    {
+        "artifact_id": 1549,
+        "collection_id": 899
+    },
+    {
+        "artifact_id": 1553,
+        "collection_id": 900
+    },
+    {
+        "artifact_id": 1555,
+        "collection_id": 901
+    },
+    {
+        "artifact_id": 1559,
+        "collection_id": 902
+    },
+    {
+        "artifact_id": 1561,
+        "collection_id": 903
+    },
+    {
+        "artifact_id": 1564,
+        "collection_id": 904
+    },
+    {
+        "artifact_id": 1565,
+        "collection_id": 905
+    },
+    {
+        "artifact_id": 1567,
+        "collection_id": 906
+    },
+    {
+        "artifact_id": 1568,
+        "collection_id": 907
+    },
+    {
+        "artifact_id": 1569,
+        "collection_id": 908
+    },
+    {
+        "artifact_id": 1570,
+        "collection_id": 909
+    },
+    {
+        "artifact_id": 1572,
+        "collection_id": 910
+    },
+    {
+        "artifact_id": 1573,
+        "collection_id": 911
+    },
+    {
+        "artifact_id": 1574,
+        "collection_id": 912
+    },
+    {
+        "artifact_id": 1575,
+        "collection_id": 913
+    },
+    {
+        "artifact_id": 1576,
+        "collection_id": 914
+    },
+    {
+        "artifact_id": 1577,
+        "collection_id": 915
+    },
+    {
+        "artifact_id": 1592,
+        "collection_id": 916
+    },
+    {
+        "artifact_id": 1595,
+        "collection_id": 917
+    },
+    {
+        "artifact_id": 1596,
+        "collection_id": 918
+    },
+    {
+        "artifact_id": 1598,
+        "collection_id": 919
+    },
+    {
+        "artifact_id": 1604,
+        "collection_id": 920
+    },
+    {
+        "artifact_id": 1605,
+        "collection_id": 921
+    },
+    {
+        "artifact_id": 1606,
+        "collection_id": 922
+    },
+    {
+        "artifact_id": 1607,
+        "collection_id": 923
+    },
+    {
+        "artifact_id": 1608,
+        "collection_id": 924
+    },
+    {
+        "artifact_id": 1609,
+        "collection_id": 925
+    },
+    {
+        "artifact_id": 1610,
+        "collection_id": 926
+    },
+    {
+        "artifact_id": 1611,
+        "collection_id": 927
+    },
+    {
+        "artifact_id": 1612,
+        "collection_id": 928
+    },
+    {
+        "artifact_id": 1613,
+        "collection_id": 929
+    },
+    {
+        "artifact_id": 1614,
+        "collection_id": 930
+    },
+    {
+        "artifact_id": 1615,
+        "collection_id": 931
+    },
+    {
+        "artifact_id": 1616,
+        "collection_id": 932
+    },
+    {
+        "artifact_id": 1617,
+        "collection_id": 933
+    },
+    {
+        "artifact_id": 1618,
+        "collection_id": 934
+    },
+    {
+        "artifact_id": 1620,
+        "collection_id": 935
+    },
+    {
+        "artifact_id": 1621,
+        "collection_id": 936
+    },
+    {
+        "artifact_id": 1622,
+        "collection_id": 937
+    },
+    {
+        "artifact_id": 1628,
+        "collection_id": 938
+    },
+    {
+        "artifact_id": 1632,
+        "collection_id": 939
+    },
+    {
+        "artifact_id": 1633,
+        "collection_id": 940
+    },
+    {
+        "artifact_id": 1636,
+        "collection_id": 941
+    },
+    {
+        "artifact_id": 1637,
+        "collection_id": 942
+    },
+    {
+        "artifact_id": 1638,
+        "collection_id": 943
+    },
+    {
+        "artifact_id": 1639,
+        "collection_id": 944
+    },
+    {
+        "artifact_id": 1641,
+        "collection_id": 945
+    },
+    {
+        "artifact_id": 1642,
+        "collection_id": 946
+    },
+    {
+        "artifact_id": 1643,
+        "collection_id": 947
+    },
+    {
+        "artifact_id": 1648,
+        "collection_id": 948
+    },
+    {
+        "artifact_id": 1657,
+        "collection_id": 949
+    },
+    {
+        "artifact_id": 1658,
+        "collection_id": 950
+    },
+    {
+        "artifact_id": 1666,
+        "collection_id": 951
+    },
+    {
+        "artifact_id": 1668,
+        "collection_id": 952
+    },
+    {
+        "artifact_id": 1669,
+        "collection_id": 953
+    },
+    {
+        "artifact_id": 1672,
+        "collection_id": 954
+    },
+    {
+        "artifact_id": 1674,
+        "collection_id": 955
+    },
+    {
+        "artifact_id": 1675,
+        "collection_id": 956
+    },
+    {
+        "artifact_id": 1677,
+        "collection_id": 957
+    },
+    {
+        "artifact_id": 1678,
+        "collection_id": 958
+    },
+    {
+        "artifact_id": 1679,
+        "collection_id": 959
+    },
+    {
+        "artifact_id": 1680,
+        "collection_id": 960
+    },
+    {
+        "artifact_id": 1684,
+        "collection_id": 961
+    },
+    {
+        "artifact_id": 1697,
+        "collection_id": 962
+    },
+    {
+        "artifact_id": 1698,
+        "collection_id": 963
+    },
+    {
+        "artifact_id": 1699,
+        "collection_id": 964
+    },
+    {
+        "artifact_id": 1700,
+        "collection_id": 965
+    },
+    {
+        "artifact_id": 1701,
+        "collection_id": 966
+    },
+    {
+        "artifact_id": 1702,
+        "collection_id": 967
+    },
+    {
+        "artifact_id": 1703,
+        "collection_id": 968
+    },
+    {
+        "artifact_id": 1704,
+        "collection_id": 969
+    },
+    {
+        "artifact_id": 1705,
+        "collection_id": 970
+    },
+    {
+        "artifact_id": 1706,
+        "collection_id": 971
+    },
+    {
+        "artifact_id": 1707,
+        "collection_id": 972
+    },
+    {
+        "artifact_id": 1708,
+        "collection_id": 973
+    },
+    {
+        "artifact_id": 1709,
+        "collection_id": 974
+    },
+    {
+        "artifact_id": 1710,
+        "collection_id": 975
+    },
+    {
+        "artifact_id": 1711,
+        "collection_id": 976
+    },
+    {
+        "artifact_id": 1712,
+        "collection_id": 977
+    },
+    {
+        "artifact_id": 1713,
+        "collection_id": 978
+    },
+    {
+        "artifact_id": 1714,
+        "collection_id": 979
+    },
+    {
+        "artifact_id": 1715,
+        "collection_id": 980
+    },
+    {
+        "artifact_id": 1716,
+        "collection_id": 981
+    },
+    {
+        "artifact_id": 1717,
+        "collection_id": 982
+    },
+    {
+        "artifact_id": 1718,
+        "collection_id": 983
+    },
+    {
+        "artifact_id": 1719,
+        "collection_id": 984
+    },
+    {
+        "artifact_id": 1720,
+        "collection_id": 985
+    },
+    {
+        "artifact_id": 1722,
+        "collection_id": 986
+    },
+    {
+        "artifact_id": 1723,
+        "collection_id": 987
+    },
+    {
+        "artifact_id": 1724,
+        "collection_id": 988
+    },
+    {
+        "artifact_id": 1725,
+        "collection_id": 989
+    },
+    {
+        "artifact_id": 1726,
+        "collection_id": 990
+    },
+    {
+        "artifact_id": 1727,
+        "collection_id": 991
+    },
+    {
+        "artifact_id": 1728,
+        "collection_id": 992
+    },
+    {
+        "artifact_id": 1729,
+        "collection_id": 993
+    },
+    {
+        "artifact_id": 1730,
+        "collection_id": 994
+    },
+    {
+        "artifact_id": 1731,
+        "collection_id": 995
+    },
+    {
+        "artifact_id": 1733,
+        "collection_id": 996
+    },
+    {
+        "artifact_id": 1734,
+        "collection_id": 997
+    },
+    {
+        "artifact_id": 1735,
+        "collection_id": 998
+    },
+    {
+        "artifact_id": 1736,
+        "collection_id": 999
+    },
+    {
+        "artifact_id": 1737,
+        "collection_id": 1000
+    },
+    {
+        "artifact_id": 1738,
+        "collection_id": 726
+    },
+    {
+        "artifact_id": 1739,
+        "collection_id": 1001
+    },
+    {
+        "artifact_id": 1740,
+        "collection_id": 1002
+    },
+    {
+        "artifact_id": 1741,
+        "collection_id": 1003
+    },
+    {
+        "artifact_id": 1742,
+        "collection_id": 1004
+    },
+    {
+        "artifact_id": 1743,
+        "collection_id": 1005
+    },
+    {
+        "artifact_id": 1744,
+        "collection_id": 1006
+    },
+    {
+        "artifact_id": 1745,
+        "collection_id": 1007
+    },
+    {
+        "artifact_id": 1747,
+        "collection_id": 1008
+    },
+    {
+        "artifact_id": 1748,
+        "collection_id": 1009
+    },
+    {
+        "artifact_id": 1749,
+        "collection_id": 1010
+    },
+    {
+        "artifact_id": 1750,
+        "collection_id": 1011
+    },
+    {
+        "artifact_id": 1751,
+        "collection_id": 1012
+    },
+    {
+        "artifact_id": 1752,
+        "collection_id": 1013
+    },
+    {
+        "artifact_id": 1754,
+        "collection_id": 1014
+    },
+    {
+        "artifact_id": 1755,
+        "collection_id": 1015
+    },
+    {
+        "artifact_id": 1756,
+        "collection_id": 1016
+    },
+    {
+        "artifact_id": 1757,
+        "collection_id": 1017
+    },
+    {
+        "artifact_id": 1758,
+        "collection_id": 1018
+    },
+    {
+        "artifact_id": 1759,
+        "collection_id": 1019
+    },
+    {
+        "artifact_id": 1760,
+        "collection_id": 1020
+    },
+    {
+        "artifact_id": 1762,
+        "collection_id": 1021
+    },
+    {
+        "artifact_id": 1763,
+        "collection_id": 1022
+    },
+    {
+        "artifact_id": 1764,
+        "collection_id": 1023
+    },
+    {
+        "artifact_id": 1765,
+        "collection_id": 1024
+    },
+    {
+        "artifact_id": 1766,
+        "collection_id": 1025
+    },
+    {
+        "artifact_id": 1767,
+        "collection_id": 1026
+    },
+    {
+        "artifact_id": 1768,
+        "collection_id": 1027
+    },
+    {
+        "artifact_id": 1769,
+        "collection_id": 1028
+    },
+    {
+        "artifact_id": 1770,
+        "collection_id": 1029
+    },
+    {
+        "artifact_id": 1771,
+        "collection_id": 1030
+    },
+    {
+        "artifact_id": 1772,
+        "collection_id": 1031
+    },
+    {
+        "artifact_id": 1773,
+        "collection_id": 1032
+    },
+    {
+        "artifact_id": 1774,
+        "collection_id": 1033
+    },
+    {
+        "artifact_id": 1775,
+        "collection_id": 1034
+    },
+    {
+        "artifact_id": 1776,
+        "collection_id": 1035
+    },
+    {
+        "artifact_id": 1777,
+        "collection_id": 1036
+    },
+    {
+        "artifact_id": 1778,
+        "collection_id": 1037
+    },
+    {
+        "artifact_id": 1779,
+        "collection_id": 1038
+    },
+    {
+        "artifact_id": 1780,
+        "collection_id": 1039
+    },
+    {
+        "artifact_id": 1781,
+        "collection_id": 1040
+    },
+    {
+        "artifact_id": 1783,
+        "collection_id": 1041
+    },
+    {
+        "artifact_id": 1784,
+        "collection_id": 1042
+    },
+    {
+        "artifact_id": 1785,
+        "collection_id": 1043
+    },
+    {
+        "artifact_id": 1786,
+        "collection_id": 1044
+    },
+    {
+        "artifact_id": 1787,
+        "collection_id": 1045
+    },
+    {
+        "artifact_id": 1788,
+        "collection_id": 1046
+    },
+    {
+        "artifact_id": 1789,
+        "collection_id": 1047
+    },
+    {
+        "artifact_id": 1790,
+        "collection_id": 1048
+    },
+    {
+        "artifact_id": 1791,
+        "collection_id": 1049
+    },
+    {
+        "artifact_id": 1792,
+        "collection_id": 1050
+    },
+    {
+        "artifact_id": 1793,
+        "collection_id": 1051
+    },
+    {
+        "artifact_id": 1795,
+        "collection_id": 1052
+    },
+    {
+        "artifact_id": 1796,
+        "collection_id": 1053
+    },
+    {
+        "artifact_id": 1798,
+        "collection_id": 1054
+    },
+    {
+        "artifact_id": 1799,
+        "collection_id": 1055
+    },
+    {
+        "artifact_id": 1800,
+        "collection_id": 1056
+    },
+    {
+        "artifact_id": 1801,
+        "collection_id": 1057
+    },
+    {
+        "artifact_id": 1802,
+        "collection_id": 1058
+    },
+    {
+        "artifact_id": 1803,
+        "collection_id": 688
+    },
+    {
+        "artifact_id": 1804,
+        "collection_id": 1059
+    },
+    {
+        "artifact_id": 1805,
+        "collection_id": 1060
+    },
+    {
+        "artifact_id": 1806,
+        "collection_id": 1061
+    },
+    {
+        "artifact_id": 1807,
+        "collection_id": 1062
+    },
+    {
+        "artifact_id": 1809,
+        "collection_id": 1063
+    },
+    {
+        "artifact_id": 1810,
+        "collection_id": 1064
+    },
+    {
+        "artifact_id": 1811,
+        "collection_id": 1065
+    },
+    {
+        "artifact_id": 1812,
+        "collection_id": 1066
+    },
+    {
+        "artifact_id": 1813,
+        "collection_id": 1067
+    },
+    {
+        "artifact_id": 1814,
+        "collection_id": 1068
+    },
+    {
+        "artifact_id": 1817,
+        "collection_id": 1069
+    },
+    {
+        "artifact_id": 1818,
+        "collection_id": 1070
+    },
+    {
+        "artifact_id": 1821,
+        "collection_id": 1071
+    },
+    {
+        "artifact_id": 1822,
+        "collection_id": 1072
+    },
+    {
+        "artifact_id": 1823,
+        "collection_id": 1073
+    },
+    {
+        "artifact_id": 1824,
+        "collection_id": 1074
+    },
+    {
+        "artifact_id": 1826,
+        "collection_id": 1075
+    },
+    {
+        "artifact_id": 1827,
+        "collection_id": 1076
+    },
+    {
+        "artifact_id": 1828,
+        "collection_id": 1077
+    },
+    {
+        "artifact_id": 1829,
+        "collection_id": 1078
+    },
+    {
+        "artifact_id": 1830,
+        "collection_id": 1079
+    },
+    {
+        "artifact_id": 1831,
+        "collection_id": 1080
+    },
+    {
+        "artifact_id": 1832,
+        "collection_id": 1081
+    },
+    {
+        "artifact_id": 1833,
+        "collection_id": 1082
+    },
+    {
+        "artifact_id": 1834,
+        "collection_id": 1083
+    },
+    {
+        "artifact_id": 1835,
+        "collection_id": 1084
+    },
+    {
+        "artifact_id": 1836,
+        "collection_id": 1085
+    },
+    {
+        "artifact_id": 1837,
+        "collection_id": 1086
+    },
+    {
+        "artifact_id": 1839,
+        "collection_id": 1087
+    },
+    {
+        "artifact_id": 1840,
+        "collection_id": 1088
+    },
+    {
+        "artifact_id": 1847,
+        "collection_id": 1089
+    },
+    {
+        "artifact_id": 1850,
+        "collection_id": 1090
+    },
+    {
+        "artifact_id": 1851,
+        "collection_id": 1091
+    },
+    {
+        "artifact_id": 1853,
+        "collection_id": 1092
+    },
+    {
+        "artifact_id": 1854,
+        "collection_id": 1093
+    },
+    {
+        "artifact_id": 1855,
+        "collection_id": 1094
+    },
+    {
+        "artifact_id": 1857,
+        "collection_id": 1095
+    },
+    {
+        "artifact_id": 1859,
+        "collection_id": 1096
+    },
+    {
+        "artifact_id": 1861,
+        "collection_id": 1097
+    },
+    {
+        "artifact_id": 1862,
+        "collection_id": 1098
+    },
+    {
+        "artifact_id": 1863,
+        "collection_id": 1099
+    },
+    {
+        "artifact_id": 1864,
+        "collection_id": 1100
+    },
+    {
+        "artifact_id": 1865,
+        "collection_id": 1101
+    },
+    {
+        "artifact_id": 1867,
+        "collection_id": 1102
+    },
+    {
+        "artifact_id": 1868,
+        "collection_id": 1103
+    },
+    {
+        "artifact_id": 1870,
+        "collection_id": 1104
+    },
+    {
+        "artifact_id": 1872,
+        "collection_id": 1105
+    },
+    {
+        "artifact_id": 1874,
+        "collection_id": 1106
+    },
+    {
+        "artifact_id": 1875,
+        "collection_id": 1107
+    },
+    {
+        "artifact_id": 1876,
+        "collection_id": 1108
+    },
+    {
+        "artifact_id": 1877,
+        "collection_id": 1109
+    },
+    {
+        "artifact_id": 1878,
+        "collection_id": 1110
+    },
+    {
+        "artifact_id": 1879,
+        "collection_id": 1111
+    },
+    {
+        "artifact_id": 1880,
+        "collection_id": 1112
+    },
+    {
+        "artifact_id": 1881,
+        "collection_id": 1113
+    },
+    {
+        "artifact_id": 1882,
+        "collection_id": 1114
+    },
+    {
+        "artifact_id": 1883,
+        "collection_id": 1115
+    },
+    {
+        "artifact_id": 1884,
+        "collection_id": 1116
+    },
+    {
+        "artifact_id": 1885,
+        "collection_id": 1117
+    },
+    {
+        "artifact_id": 1886,
+        "collection_id": 1118
+    },
+    {
+        "artifact_id": 1888,
+        "collection_id": 1119
+    },
+    {
+        "artifact_id": 1889,
+        "collection_id": 1120
+    },
+    {
+        "artifact_id": 1890,
+        "collection_id": 1121
+    },
+    {
+        "artifact_id": 1892,
+        "collection_id": 1122
+    },
+    {
+        "artifact_id": 1893,
+        "collection_id": 1123
+    },
+    {
+        "artifact_id": 1894,
+        "collection_id": 1124
+    },
+    {
+        "artifact_id": 1895,
+        "collection_id": 1125
+    },
+    {
+        "artifact_id": 1896,
+        "collection_id": 1126
+    },
+    {
+        "artifact_id": 1897,
+        "collection_id": 1127
+    },
+    {
+        "artifact_id": 1898,
+        "collection_id": 1128
+    },
+    {
+        "artifact_id": 1899,
+        "collection_id": 1129
+    },
+    {
+        "artifact_id": 1900,
+        "collection_id": 1130
+    },
+    {
+        "artifact_id": 1901,
+        "collection_id": 1131
+    },
+    {
+        "artifact_id": 1902,
+        "collection_id": 1132
+    },
+    {
+        "artifact_id": 1903,
+        "collection_id": 1133
+    },
+    {
+        "artifact_id": 1904,
+        "collection_id": 1134
+    },
+    {
+        "artifact_id": 1906,
+        "collection_id": 1135
+    },
+    {
+        "artifact_id": 1907,
+        "collection_id": 1136
+    },
+    {
+        "artifact_id": 1908,
+        "collection_id": 1137
+    },
+    {
+        "artifact_id": 1909,
+        "collection_id": 1138
+    },
+    {
+        "artifact_id": 1910,
+        "collection_id": 1139
+    },
+    {
+        "artifact_id": 1912,
+        "collection_id": 1140
+    },
+    {
+        "artifact_id": 1913,
+        "collection_id": 1141
+    },
+    {
+        "artifact_id": 1914,
+        "collection_id": 1142
+    },
+    {
+        "artifact_id": 1915,
+        "collection_id": 1143
+    },
+    {
+        "artifact_id": 1916,
+        "collection_id": 1144
+    },
+    {
+        "artifact_id": 1918,
+        "collection_id": 1145
+    },
+    {
+        "artifact_id": 1919,
+        "collection_id": 1146
+    },
+    {
+        "artifact_id": 1920,
+        "collection_id": 1147
+    },
+    {
+        "artifact_id": 1922,
+        "collection_id": 1148
+    },
+    {
+        "artifact_id": 1924,
+        "collection_id": 1149
+    },
+    {
+        "artifact_id": 1925,
+        "collection_id": 173
+    },
+    {
+        "artifact_id": 1926,
+        "collection_id": 1150
+    },
+    {
+        "artifact_id": 1927,
+        "collection_id": 1151
+    },
+    {
+        "artifact_id": 1928,
+        "collection_id": 1152
+    },
+    {
+        "artifact_id": 1929,
+        "collection_id": 1153
+    },
+    {
+        "artifact_id": 1930,
+        "collection_id": 1154
+    },
+    {
+        "artifact_id": 1931,
+        "collection_id": 1155
+    },
+    {
+        "artifact_id": 1932,
+        "collection_id": 1156
+    }
+]}

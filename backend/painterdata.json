@@ -1,0 +1,128 @@
+{
+    "Painter": [
+        {
+            "painter_id": 1,
+            "painter_name": "THE DIRCE GROUP"
+        },
+        {
+            "painter_id": 2,
+            "painter_name": "THE PRADO/FIENGA GROUP"
+        },
+        {
+            "painter_id": 3,
+            "painter_name": "\nTHE SIKON AND TUNNY-SELLER PAINTERS"
+        },
+        {
+            "painter_id": 4,
+            "painter_name": "THE SCOGLITTI PAINTER"
+        },
+        {
+            "painter_id": 5,
+            "painter_name": "THE GROUP OF LOUVRE K 240"
+        },
+        {
+            "painter_id": 6,
+            "painter_name": "THE PAINTER OF THE GENEVA ORESTES\n"
+        },
+        {
+            "painter_id": 7,
+            "painter_name": "EARLY VASES BY ASTEAS"
+        },
+        {
+            "painter_id": 8,
+            "painter_name": "MINOR VASES BY ASTEAS"
+        },
+        {
+            "painter_id": 9,
+            "painter_name": "VASES SIGNED BY ASTEAS"
+        },
+        {
+            "painter_id": 10,
+            "painter_name": "VASES BY ASTEAS WITH MORE ELABORATE COMPOSITIONS"
+        },
+        {
+            "painter_id": 11,
+            "painter_name": "STANDARD VASES BY ASTEAS"
+        },
+        {
+            "painter_id": 12,
+            "painter_name": "EARLY WORK: THE 'ALTAVILLA GROUP'\n"
+        },
+        {
+            "painter_id": 13,
+            "painter_name": "VASES SIGNED BY PYTHON"
+        },
+        {
+            "painter_id": 14,
+            "painter_name": "VASES BY PYTHON WITH MORE ELABORATE COMPOSITIONS"
+        },
+        {
+            "painter_id": 15,
+            "painter_name": "STANDARD VASES BY PYTHON"
+        },
+        {
+            "painter_id": 16,
+            "painter_name": "THE PAINTER O F WURZBURGH 5739\n"
+        },
+        {
+            "painter_id": 17,
+            "painter_name": "TH E PAINTER OF PAESTUM 21602"
+        },
+        {
+            "painter_id": 18,
+            "painter_name": "THE PAINTER OF PAESTUM 5397"
+        },
+        {
+            "painter_id": 19,
+            "painter_name": "THE KURASHIKI PAINTER"
+        },
+        {
+            "painter_id": 20,
+            "painter_name": "MINOR VASES FROM THE ASTEAS-PYTHON WORKSHOP"
+        },
+        {
+            "painter_id": 21,
+            "painter_name": "THE APHRODITE PAINTER\n"
+        },
+        {
+            "painter_id": 22,
+            "painter_name": "THE BOSTON ORESTES PAINTER"
+        },
+        {
+            "painter_id": 23,
+            "painter_name": "THE PAINTER OF NAPLES 1778"
+        },
+        {
+            "painter_id": 24,
+            "painter_name": "THE PAINTER OF NAPLES 2585 "
+        },
+        {
+            "painter_id": 25,
+            "painter_name": "THE FLORAL PAINTER OF PAINTER OF NAPLES"
+        },
+        {
+            "painter_id": 26,
+            "painter_name": "LATE AND BARBARISED FOLLOWERS OF PAINTER OF NAPLES"
+        },
+        {
+            "painter_id": 27,
+            "painter_name": "LATE MINOR VASES OF PAINTER OF NAPLES"
+        },
+        {
+            "painter_id": 28,
+            "painter_name": "THE APULIANISING GROUP"
+        },
+        {
+            "painter_id": 29,
+            "painter_name": "THE GROUP OF PAESTUM 5188\n"
+        },
+        {
+            "painter_id": 30,
+            "painter_name": "THE SPINAZZO GROUP"
+        },
+        {
+            "painter_id": 31,
+            "painter_name": "MINOR VASES ASSOCIATED WITH THE SPINAZZO GROUP"
+        }
+    ]
+}
