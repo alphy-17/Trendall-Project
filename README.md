@@ -77,4 +77,3 @@ For any questions or further information, please contact the project team at [al
 
 ---
 
-This README provides a high-level overview of the Archaeology project's repository. It includes details on the project's structure, setup instructions, and descriptions of the key components to help new contributors and users understand and navigate the project.
