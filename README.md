@@ -69,7 +69,7 @@ This repository contains the full implementation of the project, including text 
 - **Management Scripts**: Include tools for inserting, updating, and querying the database records.
 
 ### Frontend
-- **Web Interface**: Defined in 'Trendallfe/', Built with modern web technologies, the frontend provides a user-friendly interface for researchers to search and retrieve information from the database.
+- **Web Interface**: Defined in 'trendallfe/', Built with modern web technologies, the frontend provides a user-friendly interface for researchers to search and retrieve information from the database.
 - **Components**: Includes search functionality, artifact detail pages, and image display.
 
 ### Backend
