@@ -6,11 +6,9 @@ The Ancient Mediterranean Archaeology Project is a comprehensive initiative aime
 ## Repository Structure
 This repository contains the full implementation of the project, including text extraction, database management, frontend, and backend components. Below is an overview of the key directories and files:
 
-- **text_extraction/**: Contains scripts and tools for extracting text from scanned PDF documents.
-- **database/**: Includes database schema, models, and scripts for managing data storage.
-- **frontend/**: Contains the web application code for the user interface.
-- **backend/**: Includes the server-side code for handling API requests and processing data.
-- **docs/**: Documentation related to the project, including setup instructions and technical details.
+- **Text Extraction**: Contains scripts and tools for extracting text from scanned PDF documents.
+- **trendallfe**: Contains the web application code for the user interface.
+- **backend**: Includes the server-side code for handling API requests and processing data.
 
 ## Getting Started
 ### Prerequisites
@@ -65,7 +63,7 @@ This repository contains the full implementation of the project, including text 
 - **Tools**: Utilizes Python and the NLTK library to process and clean the extracted text.
 
 ### Database
-- **Schema and Models**: Defined in `database/`, the schema ensures that extracted text and images are stored in a structured format compatible with the Oxford University’s search and data recording format.
+- **Schema and Models**: the schema ensures that extracted text and images are stored in a structured format compatible with the Oxford University’s search and data recording format.
 - **Management Scripts**: Include tools for inserting, updating, and querying the database records.
 
 ### Frontend
@@ -73,7 +71,7 @@ This repository contains the full implementation of the project, including text 
 - **Components**: Includes search functionality, artifact detail pages, and image display.
 
 ### Backend
-- **API Endpoints**: Located in [`backend/`](https://github.com/alphy-17/Trendall-Project/tree/main/backend), the server handles requests from the frontend, processes data, and communicates with the database.
+- **API Endpoints**: Located in ['backend/](https://github.com/alphy-17/Trendall-Project/tree/main/backend), the server handles requests from the frontend, processes data, and communicates with the database.
 - **Data Processing**: Ensures that text extraction and image matching are efficiently handled and stored.
 
 
