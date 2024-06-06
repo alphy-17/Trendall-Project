@@ -37,9 +37,7 @@ This repository contains the full implementation of the project, including text 
    npm install
    ```
 
-4. **Set up MongoDB**:
-   - Ensure MongoDB is installed and running on your machine.
-   - Create a database named `archaeology`.
+
 
 ### Running the Project
 1. **Start the backend server**:
