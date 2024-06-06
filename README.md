@@ -61,7 +61,7 @@ This repository contains the full implementation of the project, including text 
 
 ## Project Components
 ### Text Extraction
-- **Scripts**: Located in `Text-extraction/`, these scripts perform Optical Character Recognition (OCR) on scanned PDF documents and extract relevant textual information.
+- **Scripts**: Located in [Text Extraction/](https://github.com/alphy-17/Trendall-Project/tree/main/Text%20Extraction), these scripts perform Optical Character Recognition (OCR) on scanned PDF documents and extract relevant textual information.
 - **Tools**: Utilizes Python and the NLTK library to process and clean the extracted text.
 
 ### Database
@@ -69,11 +69,11 @@ This repository contains the full implementation of the project, including text 
 - **Management Scripts**: Include tools for inserting, updating, and querying the database records.
 
 ### Frontend
-- **Web Interface**: Defined in 'trendallfe/', Built with modern web technologies, the frontend provides a user-friendly interface for researchers to search and retrieve information from the database.
+- **Web Interface**: Defined in ['trendallfe/'](https://github.com/alphy-17/Trendall-Project/tree/main/trendallfe), Built with modern web technologies, the frontend provides a user-friendly interface for researchers to search and retrieve information from the database.
 - **Components**: Includes search functionality, artifact detail pages, and image display.
 
 ### Backend
-- **API Endpoints**: Located in `backend/`, the server handles requests from the frontend, processes data, and communicates with the database.
+- **API Endpoints**: Located in [`backend/`](https://github.com/alphy-17/Trendall-Project/tree/main/backend), the server handles requests from the frontend, processes data, and communicates with the database.
 - **Data Processing**: Ensures that text extraction and image matching are efficiently handled and stored.
 
 
