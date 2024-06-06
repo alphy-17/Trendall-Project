@@ -1,4 +1,4 @@
-# Ancient Mediterranean Archaeology Project
+# Trendall Archaeology Project
 
 ## Overview
 The Ancient Mediterranean Archaeology Project is a comprehensive initiative aimed at digitizing and preserving the valuable records of the A.D. Trendall Research Centre for Ancient Mediterranean Studies. This project involves the extraction of textual data from scanned PDF documents and matching this data with corresponding artifact images. The ultimate goal is to create an accessible online database that provides researchers with a powerful tool to explore and study ancient South Italian vases.
@@ -62,9 +62,6 @@ This repository contains the full implementation of the project, including text 
 - **Scripts**: Located in [Text Extraction/](https://github.com/alphy-17/Trendall-Project/tree/main/Text%20Extraction), these scripts perform Optical Character Recognition (OCR) on scanned PDF documents and extract relevant textual information.
 - **Tools**: Utilizes Python and the NLTK library to process and clean the extracted text.
 
-### Database
-- **Schema and Models**: the schema ensures that extracted text and images are stored in a structured format compatible with the Oxford University’s search and data recording format.
-- **Management Scripts**: Include tools for inserting, updating, and querying the database records.
 
 ### Frontend
 - **Web Interface**: Defined in ['trendallfe/'](https://github.com/alphy-17/Trendall-Project/tree/main/trendallfe), Built with modern web technologies, the frontend provides a user-friendly interface for researchers to search and retrieve information from the database.
@@ -78,7 +75,7 @@ This repository contains the full implementation of the project, including text 
 ## Acknowledgements
 This project is a collaboration between the A.D. Trendall Research Centre for Ancient Mediterranean Studies, the Department of Computer Science and Information Technology at La Trobe University, and the Beazley Archive at Oxford University.
 
-For any questions or further information, please contact the project team at [email@example.com].
+For any questions or further information, please contact the project team at [alphybaby22@gmail.com].
 
 ---
 
